@@ -5002,7 +5002,7 @@ BPPrice = 32
 FieldUse = TR
 Flags = Fling_60
 Move = PLUCK
-Description = Il Pokémon becca il bersaglio. Se questi tiene una Bacca, l'utilizzatore la mangia ricevendone l'effetto[cite: 352, 353].
+Description = Il Pokémon becca il bersaglio. Se questi tiene una Bacca, l'utilizzatore la mangia ricevendone l'effetto.
 #-------------------------------
 [TM89]
 Name = MT89
@@ -5013,7 +5013,7 @@ BPPrice = 32
 FieldUse = TR
 Flags = Fling_70
 Move = UTURN
-Description = Dopo l'attacco, il Pokémon torna nella propria Poké Ball e viene sostituito da un compagno[cite: 354].
+Description = Dopo l'attacco, il Pokémon torna nella propria Poké Ball e viene sostituito da un compagno.
 #-------------------------------
 [TM90]
 Name = MT90
@@ -5024,7 +5024,7 @@ BPPrice = 32
 FieldUse = TR
 Flags = Fling_10
 Move = SUBSTITUTE
-Description = Chi la usa crea un sostituto di se stesso usando parte dei propri PS. Il sostituto funge da esca[cite: 355, 356].
+Description = Chi la usa crea un sostituto di se stesso usando parte dei propri PS. Il sostituto funge da esca.
 #-------------------------------
 [TM91]
 Name = MT91
@@ -5035,7 +5035,7 @@ BPPrice = 32
 FieldUse = TR
 Flags = Fling_80
 Move = FLASHCANNON
-Description = Il Pokémon accumula energia luminosa e la rilascia tutta in un colpo. Può anche ridurre la Difesa Speciale del bersaglio[cite: 357].
+Description = Il Pokémon accumula energia luminosa e la rilascia tutta in un colpo. Può anche ridurre la Difesa Speciale del bersaglio.
 #-------------------------------
 [TM92]
 Name = MT92
@@ -5046,7 +5046,7 @@ BPPrice = 32
 FieldUse = TR
 Flags = Fling_10
 Move = TRICKROOM
-Description = Crea un'area bizzarra in cui i Pokémon più lenti agiscono per primi per cinque turni[cite: 358].
+Description = Crea un'area bizzarra in cui i Pokémon più lenti agiscono per primi per cinque turni.
 #-------------------------------
 [TM93]
 Name = MT93
@@ -5057,7 +5057,7 @@ BPPrice = 32
 FieldUse = TR
 Flags = Fling_50
 Move = CUT
-Description = Il bersaglio viene colpito con una falce o un artiglio[cite: 359].
+Description = Il bersaglio viene colpito con una falce o un artiglio.
 #-------------------------------
 [TM94]
 Name = MT94
@@ -5068,7 +5068,7 @@ BPPrice = 40
 FieldUse = TR
 Flags = Fling_90
 Move = FLY
-Description = Il Pokémon vola in alto e colpisce il bersaglio nel turno successivo[cite: 360].
+Description = Il Pokémon vola in alto e colpisce il bersaglio nel turno successivo.
 #-------------------------------
 [TM95]
 Name = MT95
@@ -5079,7 +5079,7 @@ BPPrice = 64
 FieldUse = TR
 Flags = Fling_90
 Move = SURF
-Description = Chi la usa scatena una gigantesca ondata che colpisce tutti i Pokémon circostanti[cite: 361].
+Description = Chi la usa scatena una gigantesca ondata che colpisce tutti i Pokémon circostanti.
 #-------------------------------
 [TM96]
 Name = MT96
@@ -5090,7 +5090,7 @@ BPPrice = 40
 FieldUse = TR
 Flags = Fling_80
 Move = STRENGTH
-Description = Il bersaglio viene colpito da un pugno sferrato alla massima potenza[cite: 362].
+Description = Il bersaglio viene colpito da un pugno sferrato alla massima potenza.
 #-------------------------------
 [TM97]
 Name = MT97
@@ -5101,7 +5101,7 @@ BPPrice = 32
 FieldUse = TR
 Flags = Fling_10
 Move = DEFOG
-Description = Un forte vento spazza via barriere come Riflesso e riduce l'elusione del nemico[cite: 363].
+Description = Un forte vento spazza via barriere come Riflesso e riduce l'elusione del nemico.
 #-------------------------------
 [TM98]
 Name = MT98
@@ -5112,7 +5112,7 @@ BPPrice = 40
 FieldUse = TR
 Flags = Fling_40
 Move = ROCKSMASH
-Description = Un pugno che può anche ridurre la Difesa del bersaglio[cite: 364].
+Description = Un pugno che può anche ridurre la Difesa del bersaglio.
 #-------------------------------
 [TM99]
 Name = MT99
@@ -5123,7 +5123,7 @@ BPPrice = 64
 FieldUse = TR
 Flags = Fling_80
 Move = WATERFALL
-Description = Il Pokémon carica il bersaglio e può farlo tentennare[cite: 365].
+Description = Il Pokémon carica il bersaglio e può farlo tentennare.
 #-------------------------------
 [TM100]
 Name = MT100
@@ -5134,7 +5134,7 @@ BPPrice = 32
 FieldUse = TR
 Flags = Fling_90
 Move = ROCKCLIMB
-Description = Un attacco in carica che può anche confondere il nemico[cite: 366].
+Description = Un attacco in carica che può anche confondere il nemico.
 #-------------------------------
 [HM01]
 Name = MN01
@@ -5143,7 +5143,7 @@ Pocket = 4
 Price = 0
 FieldUse = HM
 Move = CUT
-Description = Il bersaglio viene colpito con artigli o falci. Si può usare anche per tagliare piccoli alberi[cite: 367, 368].
+Description = Il bersaglio viene colpito con artigli o falci. Si può usare anche per tagliare piccoli alberi.
 #-------------------------------
 [HM02]
 Name = MN02
@@ -5152,7 +5152,7 @@ Pocket = 4
 Price = 0
 FieldUse = HM
 Move = FLY
-Description = Il Pokémon vola in alto e colpisce nel turno successivo. Si può usare anche per volare in città già note[cite: 369, 370].
+Description = Il Pokémon vola in alto e colpisce nel turno successivo. Si può usare anche per volare in città già note.
 #-------------------------------
 [HM03]
 Name = MN03
@@ -5161,7 +5161,7 @@ Pocket = 4
 Price = 0
 FieldUse = HM
 Move = SURF
-Description = Un'ondata gigante colpisce tutti i presenti. Si può usare anche per viaggiare sull'acqua[cite: 371].
+Description = Un'ondata gigante colpisce tutti i presenti. Si può usare anche per viaggiare sull'acqua.
 #-------------------------------
 [HM04]
 Name = MN04
@@ -5170,7 +5170,7 @@ Pocket = 4
 Price = 0
 FieldUse = HM
 Move = STRENGTH
-Description = Un pugno sferrato alla massima potenza. Si può usare anche per spostare pesanti massi[cite: 372].
+Description = Un pugno sferrato alla massima potenza. Si può usare anche per spostare pesanti massi.
 #-------------------------------
 [HM05]
 Name = MN05
@@ -5179,7 +5179,7 @@ Pocket = 4
 Price = 0
 FieldUse = HM
 Move = WATERFALL
-Description = Il Pokémon carica il nemico e può farlo tentennare. Si può usare anche per risalire le cascate[cite: 373].
+Description = Il Pokémon carica il nemico e può farlo tentennare. Si può usare anche per risalire le cascate.
 #-------------------------------
 [HM06]
 Name = MN06
@@ -5188,7 +5188,7 @@ Pocket = 4
 Price = 0
 FieldUse = HM
 Move = DIVE
-Description = Il Pokémon s'immerge e attacca nel turno successivo. Si può usare per esplorare i fondali marini[cite: 374].
+Description = Il Pokémon s'immerge e attacca nel turno successivo. Si può usare per esplorare i fondali marini.
 #-------------------------------
 [CHERIBERRY]
 Name = Bacca ciliegia
@@ -5198,7 +5198,7 @@ Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_FIRE_80
-Description = Se usata o tenuta da un Pokémon, lo guarisce dalla paralisi[cite: 375].
+Description = Se usata o tenuta da un Pokémon, lo guarisce dalla paralisi.
 #-------------------------------
 [CHESTOBERRY]
 Name = Bacca castagna
@@ -5208,7 +5208,7 @@ Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_WATER_80
-Description = Se usata o tenuta da un Pokémon, lo sveglia dal sonno[cite: 376].
+Description = Se usata o tenuta da un Pokémon, lo sveglia dal sonno.
 #-------------------------------
 [PECHABERRY]
 Name = Bacca pescarancia
@@ -5218,7 +5218,7 @@ Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_ELECTRIC_80
-Description = Se usata o tenuta da un Pokémon, lo guarisce dal veleno[cite: 377].
+Description = Se usata o tenuta da un Pokémon, lo guarisce dal veleno.
 #-------------------------------
 [RAWSTBERRY]
 Name = Bacca fragofragola
@@ -5228,7 +5228,7 @@ Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_GRASS_80
-Description = Se usata o tenuta da un Pokémon, lo guarisce da una scottatura[cite: 378].
+Description = Se usata o tenuta da un Pokémon, lo guarisce da una scottatura.
 #-------------------------------
 [ASPEARBERRY]
 Name = Bacca peragialla
@@ -5238,7 +5238,7 @@ Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_ICE_80
-Description = Se usata o tenuta da un Pokémon, lo libera dal congelamento[cite: 379].
+Description = Se usata o tenuta da un Pokémon, lo libera dal congelamento.
 #-------------------------------
 [LEPPABERRY]
 Name = Bacca mela
@@ -5258,7 +5258,7 @@ Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_POISON_80
-Description = Se usata o tenuta da un Pokémon, gli restituisce 10 PS[cite: 380].
+Description = Se usata o tenuta da un Pokémon, gli restituisce 10 PS.
 #-------------------------------
 [PERSIMBERRY]
 Name = Bacca cachi
@@ -5267,7 +5267,7 @@ Pocket = 5
 Price = 20
 BattleUse = OnBattler
 Flags = Berry,Fling_10,NaturalGift_GROUND_80
-Description = Se usata o tenuta da un Pokémon, lo guarisce dalla confusione[cite: 381].
+Description = Se usata o tenuta da un Pokémon, lo guarisce dalla confusione.
 #-------------------------------
 [LUMBERRY]
 Name = Bacca prugna
@@ -5277,7 +5277,7 @@ Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_FLYING_80
-Description = Se usata o tenuta da un Pokémon, lo guarisce da qualsiasi problema di stato[cite: 382].
+Description = Se usata o tenuta da un Pokémon, lo guarisce da qualsiasi problema di stato.
 #-------------------------------
 [SITRUSBERRY]
 Name = Bacca cedro
@@ -5287,7 +5287,7 @@ Price = 20
 FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_PSYCHIC_80
-Description = Se usata o tenuta da un Pokémon, ne ripristina un po' di PS[cite: 383].
+Description = Se usata o tenuta da un Pokémon, ne ripristina un po' di PS.
 #-------------------------------
 [FIGYBERRY]
 Name = Bacca fichi
@@ -5295,7 +5295,7 @@ NamePlural = Bacche fichi
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_BUG_80
-Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto[cite: 384].
+Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto.
 #-------------------------------
 [WIKIBERRY]
 Name = Bacca kiwi
@@ -5303,7 +5303,7 @@ NamePlural = Bacche kiwi
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ROCK_80
-Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto[cite: 385].
+Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto.
 #-------------------------------
 [MAGOBERRY]
 Name = Bacca mango
@@ -5311,7 +5311,7 @@ NamePlural = Bacche mango
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GHOST_80
-Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto[cite: 386].
+Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto.
 #-------------------------------
 [AGUAVBERRY]
 Name = Bacca guava
@@ -5319,7 +5319,7 @@ NamePlural = Bacche guava
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DRAGON_80
-Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto[cite: 387].
+Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto.
 #-------------------------------
 [IAPAPABERRY]
 Name = Bacca iapapa
@@ -5327,7 +5327,7 @@ NamePlural = Bacche iapapa
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DARK_80
-Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto[cite: 388].
+Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto.
 #-------------------------------
 [RAZZBERRY]
 Name = Bacca lampon
@@ -5335,7 +5335,7 @@ NamePlural = Bacche lampon
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_STEEL_80
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 389].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [BLUKBERRY]
 Name = Bacca mora
@@ -5343,7 +5343,7 @@ NamePlural = Bacche mora
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FIRE_90
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 390].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [NANABBERRY]
 Name = Bacca banna
@@ -5351,7 +5351,7 @@ NamePlural = Bacche banna
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_WATER_90
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 391].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [WEPEARBERRY]
 Name = Bacca pera
@@ -5359,7 +5359,7 @@ NamePlural = Bacche pera
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ELECTRIC_90
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 392].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [PINAPBERRY]
 Name = Bacca ananas
@@ -5367,7 +5367,7 @@ NamePlural = Bacche ananas
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GRASS_90
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 393].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [POMEGBERRY]
 Name = Bacca pomi
@@ -5376,7 +5376,7 @@ Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_ICE_90
-Description = Rende i Pokémon più amichevoli, ma ne riduce i PS di base[cite: 394].
+Description = Rende i Pokémon più amichevoli, ma ne riduce i PS di base.
 #-------------------------------
 [KELPSYBERRY]
 Name = Bacca algatonda
@@ -5385,7 +5385,7 @@ Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_FIGHTING_90
-Description = Rende i Pokémon più amichevoli, ma ne riduce l'Attacco di base[cite: 395].
+Description = Rende i Pokémon più amichevoli, ma ne riduce l'Attacco di base.
 #-------------------------------
 [QUALOTBERRY]
 Name = Bacca lopi
@@ -5394,7 +5394,7 @@ Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_POISON_90
-Description = Rende i Pokémon più amichevoli, ma ne riduce la Difesa di base[cite: 396].
+Description = Rende i Pokémon più amichevoli, ma ne riduce la Difesa di base.
 #-------------------------------
 [HONDEWBERRY]
 Name = Bacca melone
@@ -5403,7 +5403,7 @@ Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_GROUND_90
-Description = Rende i Pokémon più amichevoli, ma ne riduce l'Attacco Speciale di base[cite: 397].
+Description = Rende i Pokémon più amichevoli, ma ne riduce l'Attacco Speciale di base.
 #-------------------------------
 [GREPABERRY]
 Name = Bacca uva
@@ -5412,7 +5412,7 @@ Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_FLYING_90
-Description = Rende i Pokémon più amichevoli, ma ne riduce la Difesa Speciale di base[cite: 398].
+Description = Rende i Pokémon più amichevoli, ma ne riduce la Difesa Speciale di base.
 #-------------------------------
 [TAMATOBERRY]
 Name = Bacca pomodoro
@@ -5421,7 +5421,7 @@ Pocket = 5
 Price = 20
 FieldUse = OnPokemon
 Flags = Berry,Fling_10,NaturalGift_PSYCHIC_90
-Description = Rende i Pokémon più amichevoli, ma ne riduce la Velocità di base[cite: 399].
+Description = Rende i Pokémon più amichevoli, ma ne riduce la Velocità di base.
 #-------------------------------
 [CORNNBERRY]
 Name = Bacca grano
@@ -5429,7 +5429,7 @@ NamePlural = Bacche grano
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_BUG_90
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 400].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [MAGOSTBERRY]
 Name = Bacca mangostana
@@ -5437,7 +5437,7 @@ NamePlural = Bacche mangostana
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ROCK_90
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 401].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [RABUTABERRY]
 Name = Bacca carambola
@@ -5445,7 +5445,7 @@ NamePlural = Bacche carambola
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GHOST_90
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 402].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [NOMELBERRY]
 Name = Bacca melone
@@ -5453,7 +5453,7 @@ NamePlural = Bacche melone
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DRAGON_90
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 403].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [SPELONBERRY]
 Name = Bacca durian
@@ -5461,7 +5461,7 @@ NamePlural = Bacche durian
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DARK_90
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 404].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [PAMTREBERRY]
 Name = Bacca palma
@@ -5469,7 +5469,7 @@ NamePlural = Bacche palma
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_STEEL_90
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 405].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [WATMELBERRY]
 Name = Bacca cocco
@@ -5477,7 +5477,7 @@ NamePlural = Bacche cocco
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FIRE_100
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 406].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [DURINBERRY]
 Name = Bacca durian
@@ -5485,7 +5485,7 @@ NamePlural = Bacche durian
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_WATER_100
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 407].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [BELUEBERRY]
 Name = Bacca moretta
@@ -5493,7 +5493,7 @@ NamePlural = Bacche moretta
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ELECTRIC_100
-Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 408].
+Description = A Sinnoh è usata spesso per preparare i Poffin.
 #-------------------------------
 [OCCABERRY]
 Name = Bacca babiri
@@ -5501,7 +5501,7 @@ NamePlural = Bacche babiri
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FIRE_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Fuoco[cite: 409].
+Description = Se tenuta, attenua un attacco superefficace di tipo Fuoco.
 #-------------------------------
 [PASSHOBERRY]
 Name = Bacca bietola
@@ -5509,7 +5509,7 @@ NamePlural = Bacche bietola
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_WATER_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Acqua[cite: 410].
+Description = Se tenuta, attenua un attacco superefficace di tipo Acqua.
 #-------------------------------
 [WACANBERRY]
 Name = Bacca acan
@@ -5517,7 +5517,7 @@ NamePlural = Bacche acan
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ELECTRIC_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Elettro[cite: 411].
+Description = Se tenuta, attenua un attacco superefficace di tipo Elettro.
 #-------------------------------
 [RINDOBERRY]
 Name = Bacca rindo
@@ -5525,7 +5525,7 @@ NamePlural = Bacche rindo
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GRASS_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Erba[cite: 412].
+Description = Se tenuta, attenua un attacco superefficace di tipo Erba.
 #-------------------------------
 [YACHEBERRY]
 Name = Bacca yache
@@ -5533,7 +5533,7 @@ NamePlural = Bacche yache
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ICE_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Ghiaccio[cite: 413].
+Description = Se tenuta, attenua un attacco superefficace di tipo Ghiaccio.
 #-------------------------------
 [CHOPLEBERRY]
 Name = Bacca chople
@@ -5541,7 +5541,7 @@ NamePlural = Bacche chople
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FIGHTING_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Lotta[cite: 414].
+Description = Se tenuta, attenua un attacco superefficace di tipo Lotta.
 #-------------------------------
 [KEBIABERRY]
 Name = Bacca kebia
@@ -5549,7 +5549,7 @@ NamePlural = Bacche kebia
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_POISON_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Veleno[cite: 415].
+Description = Se tenuta, attenua un attacco superefficace di tipo Veleno.
 #-------------------------------
 [SHUCABERRY]
 Name = Bacca shuca
@@ -5557,7 +5557,7 @@ NamePlural = Bacche shuca
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GROUND_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Terra[cite: 416].
+Description = Se tenuta, attenua un attacco superefficace di tipo Terra.
 #-------------------------------
 [COBABERRY]
 Name = Bacca coba
@@ -5565,7 +5565,7 @@ NamePlural = Bacche coba
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FLYING_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Volante[cite: 417].
+Description = Se tenuta, attenua un attacco superefficace di tipo Volante.
 #-------------------------------
 [PAYAPABERRY]
 Name = Bacca payapa
@@ -5573,7 +5573,7 @@ NamePlural = Bacche payapa
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_PSYCHIC_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Psico[cite: 418].
+Description = Se tenuta, attenua un attacco superefficace di tipo Psico.
 #-------------------------------
 [TANGABERRY]
 Name = Bacca tanga
@@ -5581,7 +5581,7 @@ NamePlural = Bacche tanga
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_BUG_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Coleottero[cite: 419].
+Description = Se tenuta, attenua un attacco superefficace di tipo Coleottero.
 #-------------------------------
 [CHARTIBERRY]
 Name = Bacca charti
@@ -5589,7 +5589,7 @@ NamePlural = Bacche charti
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ROCK_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Roccia[cite: 420].
+Description = Se tenuta, attenua un attacco superefficace di tipo Roccia.
 #-------------------------------
 [KASIBBERRY]
 Name = Bacca kasib
@@ -5597,7 +5597,7 @@ NamePlural = Bacche kasib
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GHOST_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Spettro[cite: 421].
+Description = Se tenuta, attenua un attacco superefficace di tipo Spettro.
 #-------------------------------
 [HABANBERRY]
 Name = Bacca haban
@@ -5605,7 +5605,7 @@ NamePlural = Bacche haban
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DRAGON_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Drago[cite: 422].
+Description = Se tenuta, attenua un attacco superefficace di tipo Drago.
 #-------------------------------
 [COLBURBERRY]
 Name = Bacca colbur
@@ -5613,7 +5613,7 @@ NamePlural = Bacche colbur
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DARK_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Buio[cite: 423].
+Description = Se tenuta, attenua un attacco superefficace di tipo Buio.
 #-------------------------------
 [BABIRIBERRY]
 Name = Bacca babiri
@@ -5621,7 +5621,7 @@ NamePlural = Bacche babiri
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_STEEL_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Acciaio[cite: 424].
+Description = Se tenuta, attenua un attacco superefficace di tipo Acciaio.
 #-------------------------------
 [ROSELIBERRY]
 Name = Bacca roseli
@@ -5629,7 +5629,7 @@ NamePlural = Bacche roseli
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FAIRY_80
-Description = Se tenuta, attenua un attacco superefficace di tipo Folletto[cite: 425].
+Description = Se tenuta, attenua un attacco superefficace di tipo Folletto.
 #-------------------------------
 [CHILANBERRY]
 Name = Bacca chilan
@@ -5637,7 +5637,7 @@ NamePlural = Bacche chilan
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_NORMAL_80
-Description = Se tenuta, attenua un attacco di tipo Normale[cite: 426].
+Description = Se tenuta, attenua un attacco di tipo Normale.
 #-------------------------------
 [LIECHIBERRY]
 Name = Bacca lici
@@ -5645,7 +5645,7 @@ NamePlural = Bacche lici
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GRASS_100
-Description = Se tenuta, aumenta l'Attacco in caso di bisogno[cite: 427].
+Description = Se tenuta, aumenta l'Attacco in caso di bisogno.
 #-------------------------------
 [GANLONBERRY]
 Name = Bacca ganlon
@@ -5653,7 +5653,7 @@ NamePlural = Bacche ganlon
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ICE_100
-Description = Se tenuta, aumenta la Difesa in caso di bisogno[cite: 428].
+Description = Se tenuta, aumenta la Difesa in caso di bisogno.
 #-------------------------------
 [SALACBERRY]
 Name = Bacca salac
@@ -5661,7 +5661,7 @@ NamePlural = Bacche salac
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FIGHTING_100
-Description = Se tenuta, aumenta la Velocità in caso di bisogno[cite: 429].
+Description = Se tenuta, aumenta la Velocità in caso di bisogno.
 #-------------------------------
 [PETAYABERRY]
 Name = Bacca petaya
@@ -5669,7 +5669,7 @@ NamePlural = Bacche petaya
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_POISON_100
-Description = Se tenuta, aumenta l'Attacco Speciale in caso di bisogno[cite: 430].
+Description = Se tenuta, aumenta l'Attacco Speciale in caso di bisogno.
 #-------------------------------
 [APICOTBERRY]
 Name = Bacca albicocca
@@ -5677,7 +5677,7 @@ NamePlural = Bacche albicocca
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GROUND_100
-Description = Se tenuta, aumenta la Difesa Speciale in caso di bisogno[cite: 431].
+Description = Se tenuta, aumenta la Difesa Speciale in caso di bisogno.
 #-------------------------------
 [LANSATBERRY]
 Name = Bacca lansat
@@ -5685,7 +5685,7 @@ NamePlural = Bacche lansat
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FLYING_100
-Description = Se tenuta, aumenta la probabilità di brutti colpi in caso di bisogno[cite: 432].
+Description = Se tenuta, aumenta la probabilità di brutti colpi in caso di bisogno.
 #-------------------------------
 [STARFBERRY]
 Name = Bacca enigma
@@ -5693,7 +5693,7 @@ NamePlural = Bacche enigma
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_PSYCHIC_100
-Description = Se tenuta, aumenta drasticamente una statistica a caso in caso di bisogno[cite: 433].
+Description = Se tenuta, aumenta drasticamente una statistica a caso in caso di bisogno.
 #-------------------------------
 [ENIGMABERRY]
 Name = Bacca enigma
@@ -5701,7 +5701,7 @@ NamePlural = Bacche enigma
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_BUG_100
-Description = Se tenuta, ripristina PS se il Pokémon è colpito da una mossa superefficace[cite: 434].
+Description = Se tenuta, ripristina PS se il Pokémon è colpito da una mossa superefficace.
 #-------------------------------
 [MICLEBERRY]
 Name = Bacca micle
@@ -5709,7 +5709,7 @@ NamePlural = Bacche micle
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_ROCK_100
-Description = Se tenuta, aumenta la precisione di una mossa in caso di bisogno[cite: 435].
+Description = Se tenuta, aumenta la precisione di una mossa in caso di bisogno.
 #-------------------------------
 [CUSTAPBERRY]
 Name = Bacca custap
@@ -5717,7 +5717,7 @@ NamePlural = Bacche custap
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_GHOST_100
-Description = Se tenuta, permette di agire per primi per una volta in caso di bisogno[cite: 436].
+Description = Se tenuta, permette di agire per primi per una volta in caso di bisogno.
 #-------------------------------
 [JABOCABERRY]
 Name = Bacca jaboca
@@ -5725,7 +5725,7 @@ NamePlural = Bacche jaboca
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DRAGON_100
-Description = Se tenuta, infligge danni al nemico che colpisce con un attacco fisico[cite: 437].
+Description = Se tenuta, infligge danni al nemico che colpisce con un attacco fisico.
 #-------------------------------
 [ROWAPBERRY]
 Name = Bacca rowap
@@ -5733,7 +5733,7 @@ NamePlural = Bacche rowap
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DARK_100
-Description = Se tenuta, infligge danni al nemico che colpisce con un attacco speciale[cite: 438].
+Description = Se tenuta, infligge danni al nemico che colpisce con un attacco speciale.
 #-------------------------------
 [KEEBERRY]
 Name = Bacca kee
@@ -5741,7 +5741,7 @@ NamePlural = Bacche kee
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_FAIRY_100
-Description = Se tenuta, aumenta la Difesa se il Pokémon è colpito da una mossa fisica[cite: 439].
+Description = Se tenuta, aumenta la Difesa se il Pokémon è colpito da una mossa fisica.
 #-------------------------------
 [MARANGABERRY]
 Name = Bacca maranga
@@ -5749,7 +5749,7 @@ NamePlural = Bacche maranga
 Pocket = 5
 Price = 20
 Flags = Berry,Fling_10,NaturalGift_DARK_100
-Description = Se tenuta, aumenta la Difesa Speciale se il Pokémon è colpito da una mossa speciale[cite: 440].
+Description = Se tenuta, aumenta la Difesa Speciale se il Pokémon è colpito da una mossa speciale.
 #-------------------------------
 [GRASSMAIL]
 Name = Messaggio Erba
@@ -5759,7 +5759,7 @@ PortionNamePlural = pezzi di Messaggio Erba
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Carta da lettere con un prato verde. Dalla a un Pokémon perché la consegni[cite: 441].
+Description = Carta da lettere con un prato verde. Dalla a un Pokémon perché la consegni.
 #-------------------------------
 [FLAMEMAIL]
 Name = Messaggio Fuoco
@@ -5769,7 +5769,7 @@ PortionNamePlural = pezzi di Messaggio Fuoco
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Carta da lettere con fiamme rosse. Dalla a un Pokémon perché la consegni[cite: 442].
+Description = Carta da lettere con fiamme rosse. Dalla a un Pokémon perché la consegni.
 #-------------------------------
 [BUBBLEMAIL]
 Name = Messaggio Bolla
@@ -5779,7 +5779,7 @@ PortionNamePlural = pezzi di Messaggio Bolla
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Carta da lettere con un mondo sommerso. Dalla a un Pokémon perché la consegni[cite: 443].
+Description = Carta da lettere con un mondo sommerso. Dalla a un Pokémon perché la consegni.
 #-------------------------------
 [BLOOMMAIL]
 Name = Messaggio Fiore
@@ -5789,7 +5789,7 @@ PortionNamePlural = pezzi di Messaggio Fiore
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Carta da lettere con motivi floreali. Dalla a un Pokémon perché la consegni[cite: 444].
+Description = Carta da lettere con motivi floreali. Dalla a un Pokémon perché la consegni.
 #-------------------------------
 [TUNNELMAIL]
 Name = Messaggio Miniera
@@ -5799,7 +5799,7 @@ PortionNamePlural = pezzi di Messaggio Miniera
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Carta da lettere con una miniera buia. Dalla a un Pokémon perché la consegni[cite: 445].
+Description = Carta da lettere con una miniera buia. Dalla a un Pokémon perché la consegni.
 #-------------------------------
 [STEELMAIL]
 Name = Messaggio Acciaio
@@ -5809,7 +5809,7 @@ PortionNamePlural = pezzi di Messaggio Acciaio
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Carta da lettere con disegni meccanici. Dalla a un Pokémon perché la consegni[cite: 446].
+Description = Carta da lettere con disegni meccanici. Dalla a un Pokémon perché la consegni.
 #-------------------------------
 [HEARTMAIL]
 Name = Messaggio Cuore
@@ -5819,7 +5819,7 @@ PortionNamePlural = pezzi di Messaggio Cuore
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Carta da lettere con grandi cuori. Dalla a un Pokémon perché la consegni[cite: 447].
+Description = Carta da lettere con grandi cuori. Dalla a un Pokémon perché la consegni.
 #-------------------------------
 [SNOWMAIL]
 Name = Messaggio Neve
@@ -5829,7 +5829,7 @@ PortionNamePlural = pezzi di Messaggio Neve
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Carta da lettere con un paesaggio innevato. Dalla a un Pokémon perché la consegni[cite: 448].
+Description = Carta da lettere con un paesaggio innevato. Dalla a un Pokémon perché la consegni.
 #-------------------------------
 [SPACEMAIL]
 Name = Messaggio Spazio
@@ -5839,7 +5839,7 @@ PortionNamePlural = pezzi di Messaggio Spazio
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Carta da lettere con lo spazio aperto. Dalla a un Pokémon perché la consegni[cite: 449].
+Description = Carta da lettere con lo spazio aperto. Dalla a un Pokémon perché la consegni.
 #-------------------------------
 [AIRMAIL]
 Name = Messaggio Volo
@@ -5849,7 +5849,7 @@ PortionNamePlural = pezzi di Messaggio Volo
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Carta da lettere con motivi colorati. Dalla a un Pokémon perché la consegni[cite: 450].
+Description = Carta da lettere con motivi colorati. Dalla a un Pokémon perché la consegni.
 #-------------------------------
 [MOSAICMAIL]
 Name = Messaggio Mosaico
@@ -5859,7 +5859,7 @@ PortionNamePlural = pezzi di Messaggio Mosaico
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Carta da lettere con un arcobaleno. Dalla a un Pokémon perché la consegni[cite: 451].
+Description = Carta da lettere con un arcobaleno. Dalla a un Pokémon perché la consegni.
 #-------------------------------
 [BRICKMAIL]
 Name = Messaggio Mattone
@@ -5869,7 +5869,7 @@ PortionNamePlural = pezzi di Messaggio Mattone
 Pocket = 6
 Price = 50
 Flags = IconMail
-Description = Carta da lettere con mattoni resistenti. Dalla a un Pokémon perché la consegni[cite: 452].
+Description = Carta da lettere con mattoni resistenti. Dalla a un Pokémon perché la consegni.
 #-------------------------------
 [XATTACK]
 Name = Attacco X
@@ -5878,7 +5878,7 @@ Pocket = 7
 Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto l'Attacco di un Pokémon durante la lotta[cite: 453].
+Description = Aumenta di molto l'Attacco di un Pokémon durante la lotta.
 #-------------------------------
 [XATTACK2]
 Name = Attacco X 2
@@ -5887,7 +5887,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto l'Attacco di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito[cite: 454].
+Description = Aumenta di molto l'Attacco di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito.
 #-------------------------------
 [XATTACK3]
 Name = Attacco X 3
@@ -5896,7 +5896,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta drasticamente l'Attacco di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito[cite: 455].
+Description = Aumenta drasticamente l'Attacco di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito.
 #-------------------------------
 [XATTACK6]
 Name = Attacco X 6
@@ -5905,7 +5905,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta immensamente l'Attacco di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito[cite: 456].
+Description = Aumenta immensamente l'Attacco di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito.
 #-------------------------------
 [XDEFENSE]
 Name = Difesa X
@@ -5914,7 +5914,7 @@ Pocket = 7
 Price = 2000
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto la Difesa di un Pokémon durante la lotta[cite: 457].
+Description = Aumenta di molto la Difesa di un Pokémon durante la lotta.
 #-------------------------------
 [XDEFENSE2]
 Name = Difesa X 2
@@ -5923,7 +5923,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto la Difesa di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito[cite: 458].
+Description = Aumenta di molto la Difesa di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito.
 #-------------------------------
 [XDEFENSE3]
 Name = Difesa X 3
@@ -5932,7 +5932,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta drasticamente la Difesa di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito[cite: 459].
+Description = Aumenta drasticamente la Difesa di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito.
 #-------------------------------
 [XDEFENSE6]
 Name = Difesa X 6
@@ -5941,7 +5941,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta immensamente la Difesa di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito[cite: 460].
+Description = Aumenta immensamente la Difesa di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito.
 #-------------------------------
 [XSPATK]
 Name = Attacco Sp. X
@@ -5950,7 +5950,7 @@ Pocket = 7
 Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto l'Attacco Speciale di un Pokémon durante la lotta[cite: 461, 462].
+Description = Aumenta di molto l'Attacco Speciale di un Pokémon durante la lotta.
 #-------------------------------
 [XSPATK2]
 Name = Attacco Sp. X 2
@@ -5959,7 +5959,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto l'Attacco Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 463, 464].
+Description = Aumenta di molto l'Attacco Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito.
 #-------------------------------
 [XSPATK3]
 Name = Attacco Sp. X 3
@@ -5968,7 +5968,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta drasticamente l'Attacco Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 465, 466].
+Description = Aumenta drasticamente l'Attacco Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito.
 #-------------------------------
 [XSPATK6]
 Name = Attacco Sp. X 6
@@ -5977,7 +5977,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta immensamente l'Attacco Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 467, 468].
+Description = Aumenta immensamente l'Attacco Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito.
 #-------------------------------
 [XSPDEF]
 Name = Difesa Sp. X
@@ -5986,7 +5986,7 @@ Pocket = 7
 Price = 2000
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto la Difesa Speciale di un Pokémon durante la lotta[cite: 469, 470].
+Description = Aumenta di molto la Difesa Speciale di un Pokémon durante la lotta.
 #-------------------------------
 [XSPDEF2]
 Name = Difesa Sp. X 2
@@ -5995,7 +5995,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto la Difesa Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 471, 472].
+Description = Aumenta di molto la Difesa Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito.
 #-------------------------------
 [XSPDEF3]
 Name = Difesa Sp. X 3
@@ -6004,7 +6004,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta drasticamente la Difesa Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 473, 474].
+Description = Aumenta drasticamente la Difesa Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito.
 #-------------------------------
 [XSPDEF6]
 Name = Difesa Sp. X 6
@@ -6013,7 +6013,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta immensamente la Difesa Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 475, 476, 477].
+Description = Aumenta immensamente la Difesa Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito.
 #-------------------------------
 [XSPEED]
 Name = Velocità X
@@ -6022,7 +6022,7 @@ Pocket = 7
 Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto la Velocità di un Pokémon durante la lotta[cite: 478].
+Description = Aumenta di molto la Velocità di un Pokémon durante la lotta.
 #-------------------------------
 [XSPEED2]
 Name = Velocità X 2
@@ -6031,7 +6031,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto la Velocità di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 479].
+Description = Aumenta di molto la Velocità di un Pokémon in lotta. L'effetto svanisce se sostituito.
 #-------------------------------
 [XSPEED3]
 Name = Velocità X 3
@@ -6040,7 +6040,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta drasticamente la Velocità di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 480].
+Description = Aumenta drasticamente la Velocità di un Pokémon in lotta. L'effetto svanisce se sostituito.
 #-------------------------------
 [XSPEED6]
 Name = Velocità X 6
@@ -6049,7 +6049,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta immensamente la Velocità di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 481].
+Description = Aumenta immensamente la Velocità di un Pokémon in lotta. L'effetto svanisce se sostituito.
 #-------------------------------
 [XACCURACY]
 Name = Precisione X
@@ -6058,7 +6058,7 @@ Pocket = 7
 Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto la precisione di un Pokémon durante la lotta[cite: 482].
+Description = Aumenta di molto la precisione di un Pokémon durante la lotta.
 #-------------------------------
 [XACCURACY2]
 Name = Precisione X 2
@@ -6067,7 +6067,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto la precisione di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 483].
+Description = Aumenta di molto la precisione di un Pokémon in lotta. L'effetto svanisce se sostituito.
 #-------------------------------
 [XACCURACY3]
 Name = Precisione X 3
@@ -6076,7 +6076,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta drasticamente la precisione di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 484].
+Description = Aumenta drasticamente la precisione di un Pokémon in lotta. L'effetto svanisce se sostituito.
 #-------------------------------
 [XACCURACY6]
 Name = Precisione X 6
@@ -6085,7 +6085,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta immensamente la precisione di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 485].
+Description = Aumenta immensamente la precisione di un Pokémon in lotta. L'effetto svanisce se sostituito.
 #-------------------------------
 [MAXMUSHROOMS]
 Name = Funghi Max
@@ -6096,7 +6096,7 @@ Pocket = 7
 Price = 8000
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Funghi che aumentano tutte le statistiche di un Pokémon durante la lotta[cite: 486].
+Description = Funghi che aumentano tutte le statistiche di un Pokémon durante la lotta.
 #-------------------------------
 [DIREHIT]
 Name = Supercolpo
@@ -6105,7 +6105,7 @@ Pocket = 7
 Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto la probabilità di brutti colpi. L'effetto svanisce se sostituito[cite: 487].
+Description = Aumenta di molto la probabilità di brutti colpi. L'effetto svanisce se sostituito.
 #-------------------------------
 [DIREHIT2]
 Name = Supercolpo 2
@@ -6114,7 +6114,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta di molto la probabilità di brutti colpi. L'effetto svanisce se sostituito[cite: 488].
+Description = Aumenta di molto la probabilità di brutti colpi. L'effetto svanisce se sostituito.
 #-------------------------------
 [DIREHIT3]
 Name = Supercolpo 3
@@ -6123,7 +6123,7 @@ Pocket = 7
 Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
-Description = Aumenta sensibilmente la probabilità di brutti colpi. L'effetto svanisce se sostituito[cite: 489].
+Description = Aumenta sensibilmente la probabilità di brutti colpi. L'effetto svanisce se sostituito.
 #-------------------------------
 [GUARDSPEC]
 Name = Superguardia
@@ -6132,7 +6132,7 @@ Pocket = 7
 Price = 1500
 BattleUse = Direct
 Flags = Fling_30
-Description = Impedisce il calo delle statistiche dei Pokémon in campo per cinque turni[cite: 490, 491].
+Description = Impedisce il calo delle statistiche dei Pokémon in campo per cinque turni.
 #-------------------------------
 [RESETURGE]
 Name = Incitamentreset
@@ -6140,7 +6140,7 @@ NamePlural = Incitamentireset
 Pocket = 7
 Price = 0
 Flags = Fling_30
-Description = Se usato, annulla i cambiamenti delle statistiche di un Pokémon alleato[cite: 492].
+Description = Se usato, annulla i cambiamenti delle statistiche di un Pokémon alleato.
 #-------------------------------
 [ABILITYURGE]
 Name = Incitamentabilità
@@ -6148,7 +6148,7 @@ NamePlural = Incitamentiabilità
 Pocket = 7
 Price = 0
 Flags = Fling_30
-Description = Se usato, attiva l'abilità di un Pokémon alleato[cite: 493].
+Description = Se usato, attiva l'abilità di un Pokémon alleato.
 #-------------------------------
 [ITEMURGE]
 Name = Incitamentostrum
@@ -6156,7 +6156,7 @@ NamePlural = Incitamentistrum
 Pocket = 7
 Price = 0
 Flags = Fling_30
-Description = Se usato, induce un Pokémon alleato a usare lo strumento tenuto[cite: 494].
+Description = Se usato, induce un Pokémon alleato a usare lo strumento tenuto.
 #-------------------------------
 [ITEMDROP]
 Name = Lanciostrumento
@@ -6164,7 +6164,7 @@ NamePlural = Lanciostramenti
 Pocket = 7
 Price = 0
 Flags = Fling_30
-Description = Se usato, induce un Pokémon alleato a lanciare lo strumento tenuto[cite: 495].
+Description = Se usato, induce un Pokémon alleato a lanciare lo strumento tenuto.
 #-------------------------------
 [BLUEFLUTE]
 Name = Flauto Blu
@@ -6175,7 +6175,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Consumable = false
-Description = Un flauto blu di vetro soffiato. Sveglia un Pokémon dal sonno[cite: 496].
+Description = Un flauto blu di vetro soffiato. Sveglia un Pokémon dal sonno.
 #-------------------------------
 [YELLOWFLUTE]
 Name = Flauto Giallo
@@ -6185,7 +6185,7 @@ Price = 20
 BattleUse = OnBattler
 Flags = Fling_30
 Consumable = false
-Description = Un flauto giallo di vetro soffiato. Cura un Pokémon dalla confusione[cite: 497].
+Description = Un flauto giallo di vetro soffiato. Cura un Pokémon dalla confusione.
 #-------------------------------
 [REDFLUTE]
 Name = Flauto Rosso
@@ -6195,7 +6195,7 @@ Price = 20
 BattleUse = OnBattler
 Flags = Fling_30
 Consumable = false
-Description = Un flauto rosso di vetro soffiato. Cura un Pokémon dall'attrazione[cite: 498].
+Description = Un flauto rosso di vetro soffiato. Cura un Pokémon dall'attrazione.
 #-------------------------------
 [POKEDOLL]
 Name = Poké Bambola
@@ -6204,7 +6204,7 @@ Pocket = 7
 Price = 300
 BattleUse = Direct
 Flags = Fling_30
-Description = Una bambola che attrae i Pokémon. Permette di fuggire da una lotta con un Pokémon selvatico[cite: 499, 500].
+Description = Una bambola che attrae i Pokémon. Permette di fuggire da una lotta con un Pokémon selvatico.
 #-------------------------------
 [FLUFFYTAIL]
 Name = Coda Skitty
@@ -6213,7 +6213,7 @@ Pocket = 7
 Price = 300
 BattleUse = Direct
 Flags = Fling_30
-Description = Strumento che attrae i Pokémon. Permette di fuggire da una lotta con un Pokémon selvatico[cite: 501, 502].
+Description = Strumento che attrae i Pokémon. Permette di fuggire da una lotta con un Pokémon selvatico.
 #-------------------------------
 [POKETOY]
 Name = Poké Giocattolo
@@ -6222,7 +6222,7 @@ Pocket = 7
 Price = 300
 BattleUse = Direct
 Flags = Fling_30
-Description = Strumento che attrae i Pokémon. Permette di fuggire da una lotta con un Pokémon selvatico[cite: 503, 504].
+Description = Strumento che attrae i Pokémon. Permette di fuggire da una lotta con un Pokémon selvatico.
 #-------------------------------
 [BICYCLE]
 Name = Bicicletta
@@ -6231,7 +6231,7 @@ Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = Una bicicletta pieghevole che permette di muoversi più velocemente delle Scarpe da Corsa[cite: 505].
+Description = Una bicicletta pieghevole che permette di muoversi più velocemente delle Scarpe da Corsa.
 #-------------------------------
 [OLDROD]
 Name = Amo Vecchio
@@ -6240,7 +6240,7 @@ Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = Un vecchio amo malandato. Usalo vicino all'acqua per pescare Pokémon selvatici[cite: 506, 507].
+Description = Un vecchio amo malandato. Usalo vicino all'acqua per pescare Pokémon selvatici.
 #-------------------------------
 [GOODROD]
 Name = Amo Buono
@@ -6249,7 +6249,7 @@ Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = Un amo nuovo e di buona qualità. Usalo vicino all'acqua per pescare Pokémon selvatici[cite: 508, 509].
+Description = Un amo nuovo e di buona qualità. Usalo vicino all'acqua per pescare Pokémon selvatici.
 #-------------------------------
 [SUPERROD]
 Name = Super Amo
@@ -6258,7 +6258,7 @@ Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = Un amo tecnologico e formidabile. Usalo vicino all'acqua per pescare Pokémon selvatici[cite: 510, 511].
+Description = Un amo tecnologico e formidabile. Usalo vicino all'acqua per pescare Pokémon selvatici.
 #-------------------------------
 [ITEMFINDER]
 Name = Detector
@@ -6267,7 +6267,7 @@ Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = Dispositivo per trovare strumenti nascosti. Emette un segnale se ne trova uno nelle vicinanze[cite: 512, 513].
+Description = Dispositivo per trovare strumenti nascosti. Emette un segnale se ne trova uno nelle vicinanze.
 #-------------------------------
 [DOWSINGMACHINE]
 Name = Ricerca Strumenti
@@ -6276,7 +6276,7 @@ Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = Cerca strumenti invisibili emettendo suoni e segnali luminosi quando ne trova uno[cite: 514].
+Description = Cerca strumenti invisibili emettendo suoni e segnali luminosi quando ne trova uno.
 #-------------------------------
 [POKERADAR]
 Name = Poké Radar
@@ -6285,7 +6285,7 @@ Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = Strumento per scovare Pokémon nell'erba alta. Si ricarica camminando[cite: 515].
+Description = Strumento per scovare Pokémon nell'erba alta. Si ricarica camminando.
 #-------------------------------
 [TOWNMAP]
 Name = Mappa Città
@@ -6294,7 +6294,7 @@ Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = Una mappa molto comoda che mostra la posizione attuale[cite: 516].
+Description = Una mappa molto comoda che mostra la posizione attuale.
 #-------------------------------
 [ESCAPEROPE]
 Name = Fune di Fuga
@@ -6303,7 +6303,7 @@ Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = Una fune lunga e resistente. Usala per uscire subito da grotte o dungeon[cite: 517, 518].
+Description = Una fune lunga e resistente. Usala per uscire subito da grotte o dungeon.
 #-------------------------------
 [COINCASE]
 Name = Salvadanaio
@@ -6312,7 +6312,7 @@ Pocket = 8
 Price = 0
 FieldUse = Direct
 Flags = KeyItem
-Description = Contenitore per i gettoni del Casinò. Ne può contenere fino a 99.999[cite: 519].
+Description = Contenitore per i gettoni del Casinò. Ne può contenere fino a 99.999.
 #-------------------------------
 [POKEFLUTE]
 Name = Poké Flauto
@@ -6322,7 +6322,7 @@ Price = 0
 FieldUse = OnPokemon
 BattleUse = Direct
 Flags = KeyItem
-Description = Un flauto dal suono melodioso capace di svegliare all'istante qualsiasi Pokémon[cite: 520].
+Description = Un flauto dal suono melodioso capace di svegliare all'istante qualsiasi Pokémon.
 #-------------------------------
 [SOOTSACK]
 Name = Sacco Cenere
@@ -6330,7 +6330,7 @@ NamePlural = Sacchi Cenere
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Un sacco per raccogliere e contenere cenere vulcanica[cite: 521].
+Description = Un sacco per raccogliere e contenere cenere vulcanica.
 #-------------------------------
 [SILPHSCOPE]
 Name = Spettrosonda
@@ -6338,7 +6338,7 @@ NamePlural = Spettrosonde
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Una sonda della Silph SpA che rende visibili i Pokémon altrimenti invisibili[cite: 522].
+Description = Una sonda della Silph SpA che rende visibili i Pokémon altrimenti invisibili.
 #-------------------------------
 [DEVONSCOPE]
 Name = Devonscopio
@@ -6346,7 +6346,7 @@ NamePlural = Devonscopi
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Un dispositivo della Devon che segnala la presenza di Pokémon invisibili[cite: 523].
+Description = Un dispositivo della Devon che segnala la presenza di Pokémon invisibili.
 #-------------------------------
 [SQUIRTBOTTLE]
 Name = Annaffiatoio
@@ -6354,7 +6354,7 @@ NamePlural = Annaffiatoi
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Annaffiatoio a forma di Squirtle. Aiuta la crescita delle Bacche piantate nel terreno[cite: 524, 525].
+Description = Annaffiatoio a forma di Squirtle. Aiuta la crescita delle Bacche piantate nel terreno.
 #-------------------------------
 [SPRAYDUCK]
 Name = Sprayduck
@@ -6362,7 +6362,7 @@ NamePlural = Sprayduck
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Annaffiatoio a forma di Psyduck. Aiuta la crescita delle Bacche piantate nel terreno[cite: 526, 527].
+Description = Annaffiatoio a forma di Psyduck. Aiuta la crescita delle Bacche piantate nel terreno.
 #-------------------------------
 [WAILMERPAIL]
 Name = Secchiello Wailmer
@@ -6370,7 +6370,7 @@ NamePlural = Secchielli Wailmer
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Un pratico annaffiatoio. Usalo per favorire la crescita delle Bacche[cite: 528, 529].
+Description = Un pratico annaffiatoio. Usalo per favorire la crescita delle Bacche.
 #-------------------------------
 [SPRINKLOTAD]
 Name = Sprinklotad
@@ -6378,7 +6378,7 @@ NamePlural = Sprinklotad
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Annaffiatoio a forma di Lotad. Aiuta la sana crescita delle Bacche[cite: 530, 531].
+Description = Annaffiatoio a forma di Lotad. Aiuta la sana crescita delle Bacche.
 #-------------------------------
 [GRACIDEA]
 Name = Gracidea
@@ -6387,7 +6387,7 @@ Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Un fiore spesso usato nei bouquet per esprimere gratitudine in occasioni speciali[cite: 532].
+Description = Un fiore spesso usato nei bouquet per esprimere gratitudine in occasioni speciali.
 #-------------------------------
 [REVEALGLASS]
 Name = Verispecchio
@@ -6396,7 +6396,7 @@ Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Uno specchio misterioso che restituisce a certi Pokémon la loro forma originale[cite: 533, 534].
+Description = Uno specchio misterioso che restituisce a certi Pokémon la loro forma originale.
 #-------------------------------
 [PRISONBOTTLE]
 Name = Vaso del Vincolo
@@ -6405,7 +6405,7 @@ Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Bottiglia usata molto tempo fa per sigillare il potere di un certo Pokémon[cite: 535].
+Description = Bottiglia usata molto tempo fa per sigillare il potere di un certo Pokémon.
 #-------------------------------
 [ROTOMCATALOG]
 Name = Catalogo Rotom
@@ -6414,7 +6414,7 @@ Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Catalogo di elettrodomestici amati da Rotom per fargli cambiare forma[cite: 536, 537].
+Description = Catalogo di elettrodomestici amati da Rotom per fargli cambiare forma.
 #-------------------------------
 [ZYGARDECUBE]
 Name = Teca Zygarde
@@ -6423,7 +6423,7 @@ Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Contenitore per Nuclei e Cellule di Zygarde. Permette di cambiarne la forma[cite: 538].
+Description = Contenitore per Nuclei e Cellule di Zygarde. Permette di cambiarne la forma.
 #-------------------------------
 [DNASPLICERS]
 Name = Cuneo DNA
@@ -6432,7 +6432,7 @@ Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Strumento per fondere Kyurem con un certo Pokémon. Si dice fossero un unico essere[cite: 539, 540].
+Description = Strumento per fondere Kyurem con un certo Pokémon. Si dice fossero un unico essere.
 #-------------------------------
 [DNASPLICERSUSED]
 Name = Cuneo DNA
@@ -6441,7 +6441,7 @@ Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Strumento per separare Kyurem dal Pokémon con cui è stato fuso[cite: 541].
+Description = Strumento per separare Kyurem dal Pokémon con cui è stato fuso.
 #-------------------------------
 [NSOLARIZER]
 Name = Necrosolix
@@ -6450,7 +6450,7 @@ Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Macchinario per fondere Necrozma con Solgaleo[cite: 542].
+Description = Macchinario per fondere Necrozma con Solgaleo.
 #-------------------------------
 [NSOLARIZERUSED]
 Name = Necrosolix
@@ -6459,7 +6459,7 @@ Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Macchinario per separare Necrozma da Solgaleo[cite: 543].
+Description = Macchinario per separare Necrozma da Solgaleo.
 #-------------------------------
 [NLUNARIZER]
 Name = Necrolunix
@@ -6468,7 +6468,7 @@ Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Macchinario per fondere Necrozma con Lunala[cite: 544].
+Description = Macchinario per fondere Necrozma con Lunala.
 #-------------------------------
 [NLUNARIZERUSED]
 Name = Necrolunix
@@ -6477,7 +6477,7 @@ Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Macchinario per separare Necrozma da Lunala[cite: 545].
+Description = Macchinario per separare Necrozma da Lunala.
 #-------------------------------
 [REINSOFUNITY]
 Name = Briglie dell'Unione
@@ -6488,7 +6488,7 @@ Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Briglie offerte al re per unire Calyrex al suo destriero[cite: 546].
+Description = Briglie offerte al re per unire Calyrex al suo destriero.
 #-------------------------------
 [REINSOFUNITYUSED]
 Name = Briglie dell'Unione
@@ -6499,7 +6499,7 @@ Pocket = 8
 Price = 0
 FieldUse = OnPokemon
 Flags = KeyItem
-Description = Briglie offerte al re per separare Calyrex dal suo destriero[cite: 547].
+Description = Briglie offerte al re per separare Calyrex dal suo destriero.
 #-------------------------------
 [OVALCHARM]
 Name = Amuleto Ovale
@@ -6507,7 +6507,7 @@ NamePlural = Amuleti Ovali
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Amuleto che aumenta le probabilità di trovare Uova all'Ostello[cite: 548].
+Description = Amuleto che aumenta le probabilità di trovare Uova all'Ostello.
 #-------------------------------
 [SHINYCHARM]
 Name = Cromamuleto
@@ -6515,7 +6515,7 @@ NamePlural = Cromamuleti
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Amuleto che aumenta le probabilità di trovare Pokémon cromatici[cite: 549].
+Description = Amuleto che aumenta le probabilità di trovare Pokémon cromatici.
 #-------------------------------
 [CATCHINGCHARM]
 Name = Amuleto Cattura
@@ -6523,7 +6523,7 @@ NamePlural = Amuleti Cattura
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Amuleto che aumenta le probabilità di effettuare una cattura critica[cite: 550].
+Description = Amuleto che aumenta le probabilità di effettuare una cattura critica.
 #-------------------------------
 [EXPCHARM]
 Name = Amuleto Esperienza
@@ -6531,7 +6531,7 @@ NamePlural = Amuleti Esperienza
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Amuleto che aumenta i Punti Esperienza ricevuti dai Pokémon[cite: 551, 552].
+Description = Amuleto che aumenta i Punti Esperienza ricevuti dai Pokémon.
 #-------------------------------
 [MEGARING]
 Name = Megacerchio
@@ -6539,7 +6539,7 @@ NamePlural = Megacerchi
 Pocket = 8
 Price = 0
 Flags = KeyItem,MegaRing
-Description = Cerchio che permette ai Pokémon dotati di Megapietra di megaevolversi[cite: 553].
+Description = Cerchio che permette ai Pokémon dotati di Megapietra di megaevolversi.
 #-------------------------------
 [POKEMONBOXLINK]
 Name = Box Pokémon
@@ -6547,7 +6547,7 @@ NamePlural = Box Pokémon
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Dispositivo per accedere al sistema di deposito Pokémon ovunque[cite: 554].
+Description = Dispositivo per accedere al sistema di deposito Pokémon ovunque.
 #-------------------------------
 [AURORATICKET]
 Name = Biglietto Aurora
@@ -6555,7 +6555,7 @@ NamePlural = Biglietti Aurora
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Biglietto necessario per imbarcarsi verso l'Isola Materna[cite: 555].
+Description = Biglietto necessario per imbarcarsi verso l'Isola Materna.
 #-------------------------------
 [OLDSEAMAP]
 Name = Vecchia Mappa
@@ -6563,7 +6563,7 @@ NamePlural = Vecchie Mappe
 Pocket = 8
 Price = 0
 Flags = KeyItem
-Description = Una mappa sbiadita che mostra la rotta per una certa isola[cite: 556].
+Description = Una mappa sbiadita che mostra la rotta per una certa isola.
 #-------------------------------
 [RUNNINGSHOES]
 Name = Scarpe da Corsa
