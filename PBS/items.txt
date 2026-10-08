@@ -1,0 +1,6575 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[REPEL]
+Name = Repellente
+NamePlural = Repellenti
+Pocket = 1
+Price = 400
+FieldUse = Direct
+Flags = Repel,Fling_30
+Description = Uno strumento che impedisce ai Pokémon selvatici deboli di apparire per 100 passi. Te spuzi.
+#-------------------------------
+[SUPERREPEL]
+Name = Superrepellente
+NamePlural = Superrepellenti
+Pocket = 1
+Price = 700
+FieldUse = Direct
+Flags = Repel,Fling_30
+Description = Uno strumento che impedisce ai Pokémon selvatici deboli di apparire per 200 passi. Te spuzi sai.
+#-------------------------------
+[MAXREPEL]
+Name = Repellente Max
+NamePlural = Repellenti Max
+Pocket = 1
+Price = 900
+FieldUse = Direct
+Flags = Repel,Fling_30
+Description = Uno strumento che impedisce ai Pokémon selvatici deboli di apparire per 250 passi. Saria el caso de lavarte dopo.
+#-------------------------------
+[BLACKFLUTE]
+Name = Flauto Nero
+NamePlural = Flauti Neri
+Pocket = 1
+Price = 20
+FieldUse = Direct
+Flags = Fling_30
+Consumable = false
+Description = Un flauto nero fatto di vetro soffiato. La sua melodia riduce la probabilità di incontrare Pokémon selvatici. Me dispiasi ma no se pol fumar.
+#-------------------------------
+[WHITEFLUTE]
+Name = Flauto Bianco
+NamePlural = Flauti Bianchi
+Pocket = 1
+Price = 20
+FieldUse = Direct
+Flags = Fling_30
+Consumable = false
+Description = Un flauto bianco fatto di vetro soffiato. La sua melodia aumenta la probabilità di incontrare Pokémon selvatici. Vara che no se pol fumar nemmeno questo.
+#-------------------------------
+[HONEY]
+Name = Miele
+NamePlural = Miele
+PortionName = un poco de miele
+PortionNamePlural = un pochi de Mieli
+Pocket = 1
+Price = 900
+FieldUse = Direct
+Flags = Fling_30
+Description = Un miele dolce dal profumo intenso che attira i Pokémon selvatici se usato nell'erba alta, nelle grotte o altrove. Sai bon.
+#-------------------------------
+[REDSHARD]
+Name = Coccio Rosso
+NamePlural = Cocci Rossi
+Pocket = 1
+Price = 1000
+Flags = Fling_30
+Description = Un piccolo coccio rosso. Sembra essere parte di un oggetto fabbricato molto tempo fa. In acqua fa un casin de salti fidite.
+#-------------------------------
+[YELLOWSHARD]
+Name = Coccio Giallo
+NamePlural = Cocci Gialli
+Pocket = 1
+Price = 1000
+Flags = Fling_30
+Description = Un piccolo coccio giallo. Sembra essere parte di un oggetto fabbricato molto tempo fa. Mai visti ma podessi saltar ben.
+#-------------------------------
+[BLUESHARD]
+Name = Coccio Blu
+NamePlural = Cocci Blu
+Pocket = 1
+Price = 1000
+Flags = Fling_30
+Description = Un piccolo coccio blu. Sembra essere parte di un oggetto fabbricato molto tempo fa. Podessi diventar un magnete de tacar al frigo.
+#-------------------------------
+[GREENSHARD]
+Name = Coccio Verde
+NamePlural = Cocci Verdi
+Pocket = 1
+Price = 1000
+Flags = Fling_30
+Description = Un piccolo coccio verde. Sembra essere parte di un oggetto fabbricato molto tempo fa. No so cossa dir no go mai visto.
+#-------------------------------
+[FIRESTONE]
+Name = Pietrafocaia
+NamePlural = Pietrefocaie
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = Una pietra particolare che fa evolvere alcune specie di Pokémon. È di colore arancione. Nell'accendin el parti sempre dp.
+#-------------------------------
+[THUNDERSTONE]
+Name = Pietratuono
+NamePlural = Pietretuono
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = Una pietra particolare che fa evolvere alcune specie di Pokémon. Ha un motivo a forma di fulmine. Servi per l'autostima i me disi.
+#-------------------------------
+[WATERSTONE]
+Name = Pietraidrica
+NamePlural = Pietreidriche
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = Una pietra particolare che fa evolvere alcune specie di Pokémon. È di un azzurro limpido. No so se la pesa come l'acqua ma no par el caso de far la prova.
+#-------------------------------
+[LEAFSTONE]
+Name = Pietrafoglia
+NamePlural = Pietrefoglie
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = Una pietra particolare che fa evolvere alcune specie di Pokémon. Ha un motivo a forma di foglia.
+#-------------------------------
+[MOONSTONE]
+Name = Pietralunare
+NamePlural = Pietrelunari
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = Una pietra particolare che fa evolvere alcune specie di Pokémon. È nera come il cielo notturno.
+#-------------------------------
+[SUNSTONE]
+Name = Pietrasolare
+NamePlural = Pietresolari
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = Una pietra particolare che fa evolvere alcune specie di Pokémon. È rossa come il sole.
+#-------------------------------
+[DUSKSTONE]
+Name = Neropietra
+NamePlural = Neropietre
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_80
+Description = Una pietra particolare che fa evolvere alcune specie di Pokémon. È scura come la notte più profonda.
+#-------------------------------
+[DAWNSTONE]
+Name = Altopietra
+NamePlural = Altopietre
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_80
+Description = Una pietra particolare che fa evolvere alcune specie di Pokémon. Luccica come un paio di occhi.
+#-------------------------------
+[SHINYSTONE]
+Name = Pietrabrilla
+NamePlural = Pietrebrilla
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_80
+Description = Una pietra particolare che fa evolvere alcune specie di Pokémon. Brilla di una luce abbagliante.
+#-------------------------------
+[ICESTONE]
+Name = Pietragelo
+NamePlural = Pietregelo
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = Una pietra particolare che fa evolvere alcune specie di Pokémon. Ha un motivo a forma di fiocco di neve.
+#-------------------------------
+[SWEETAPPLE]
+Name = Dolcemela
+NamePlural = Dolcemele
+Pocket = 1
+Price = 2200
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = Una mela particolare che fa evolvere alcune specie di Pokémon. È eccezionalmente dolce.
+#-------------------------------
+[TARTAPPLE]
+Name = Aspromela
+NamePlural = Aspromele
+Pocket = 1
+Price = 2200
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = Una mela particolare che fa evolvere alcune specie di Pokémon. È eccezionalmente aspra.
+#-------------------------------
+[CRACKEDPOT]
+Name = Teiera rotta
+NamePlural = Teiere rotte
+Pocket = 1
+Price = 3000
+SellPrice = 800
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_80
+Description = Una particolare teiera rotta che fa evolvere alcune specie di Pokémon. Permette di preparare un tè delizioso.
+#-------------------------------
+[CHIPPEDPOT]
+Name = Teiera crepata
+NamePlural = Teiere crepate
+Pocket = 1
+Price = 3000
+SellPrice = 19000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_80
+Description = Una particolare teiera crepata che fa evolvere alcune specie di Pokémon. Permette di preparare un tè delizioso.
+#-------------------------------
+[GALARICACUFF]
+Name = Polsino Galarnoce
+NamePlural = Polsini Galarnoce
+Pocket = 1
+Price = 6000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = Un polsino fatto di ramoscelli di Galarnoce intrecciati. Rende molto felice uno Slowpoke di Galar.
+#-------------------------------
+[GALARICAWREATH]
+Name = Corona Galarnoce
+NamePlural = Corone Galarnoce
+Pocket = 1
+Price = 6000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = Una corona fatta di ramoscelli di Galarnoce intrecciati. Rende molto felice uno Slowpoke di Galar che la indossa.
+#-------------------------------
+[REDAPRICORN]
+Name = Ghicocca Rossa
+NamePlural = Ghicocche Rosse
+Pocket = 1
+Price = 200
+Flags = Apricorn
+Description = Una Ghicocca rossa. Ha un odore molto pungente.
+#-------------------------------
+[YELLOWAPRICORN]
+Name = Ghicocca Gialla
+NamePlural = Ghicocche Gialle
+Pocket = 1
+Price = 200
+Flags = Apricorn
+Description = Una Ghicocca gialla. Ha un profumo rinvigorente.
+#-------------------------------
+[BLUEAPRICORN]
+Name = Ghicocca Blu
+NamePlural = Ghicocche Blu
+Pocket = 1
+Price = 200
+Flags = Apricorn
+Description = Una Ghicocca blu. Ha un odore che ricorda l'erba.
+#-------------------------------
+[GREENAPRICORN]
+Name = Ghicocca Verde
+NamePlural = Ghicocche Verdi
+Pocket = 1
+Price = 200
+Flags = Apricorn
+Description = Una Ghicocca verde. Ha un profumo misterioso e aromatico.
+#-------------------------------
+[PINKAPRICORN]
+Name = Ghicocca Rosa
+NamePlural = Ghicocche Rosa
+Pocket = 1
+Price = 200
+Flags = Apricorn
+Description = Una Ghicocca rosa. Ha un profumo gradevole e dolce.
+#-------------------------------
+[WHITEAPRICORN]
+Name = Ghicocca Bianca
+NamePlural = Ghicocche Bianche
+Pocket = 1
+Price = 200
+Flags = Apricorn
+Description = Una Ghicocca bianca. Non ha alcun odore.
+#-------------------------------
+[BLACKAPRICORN]
+Name = Ghicocca Nera
+NamePlural = Ghicocche Nere
+Pocket = 1
+Price = 200
+Flags = Apricorn
+Description = Una Ghicocca nera. Ha un odore indescrivibile.
+#-------------------------------
+[HELIXFOSSIL]
+Name = Helixfossile
+NamePlural = Helixfossili
+Pocket = 1
+Price = 7000
+Flags = Fossil,Fling_100
+Description = Fossile di un antico Pokémon marino. Sembra parte di una conchiglia.
+#-------------------------------
+[DOMEFOSSIL]
+Name = Domofossile
+NamePlural = Domofossili
+Pocket = 1
+Price = 7000
+Flags = Fossil,Fling_100
+Description = Fossile di un antico Pokémon marino. Sembra parte di un guscio.
+#-------------------------------
+[OLDAMBER]
+Name = Ambra Antica
+NamePlural = Ambre Antiche
+Pocket = 1
+Price = 1000
+Flags = Fossil,Fling_100
+Description = Un pezzo di ambra contenente il materiale genetico di un antico Pokémon. È trasparente con riflessi rossastri.
+#-------------------------------
+[ROOTFOSSIL]
+Name = Radicfossile
+NamePlural = Radicfossili
+Pocket = 1
+Price = 7000
+Flags = Fossil,Fling_100
+Description = Fossile di un antico Pokémon marino. Sembra parte della radice di una pianta.
+#-------------------------------
+[CLAWFOSSIL]
+Name = Clawfossile
+NamePlural = Clawfossili
+Pocket = 1
+Price = 7000
+Flags = Fossil,Fling_100
+Description = Fossile di un antico Pokémon marino. Sembra parte di un artiglio.
+#-------------------------------
+[SKULLFOSSIL]
+Name = Cranifossile
+NamePlural = Cranifossili
+Pocket = 1
+Price = 7000
+Flags = Fossil,Fling_100
+Description = Fossile di un Pokémon preistorico terrestre. Sembra parte di un teschio.
+#-------------------------------
+[ARMORFOSSIL]
+Name = Scudofossile
+NamePlural = Scudofossili
+Pocket = 1
+Price = 7000
+Flags = Fossil,Fling_100
+Description = Fossile di un Pokémon preistorico terrestre. Sembra parte di un collare.
+#-------------------------------
+[COVERFOSSIL]
+Name = Fossiltappo
+NamePlural = Fossiltappi
+Pocket = 1
+Price = 7000
+Flags = Fossil,Fling_100
+Description = Fossile di un antico Pokémon che viveva in mare in tempi remoti. Sembra parte del suo dorso.
+#-------------------------------
+[PLUMEFOSSIL]
+Name = Fossilpiuma
+NamePlural = Fossilpiume
+Pocket = 1
+Price = 7000
+Flags = Fossil,Fling_100
+Description = Fossile di un antico Pokémon che volava nel cielo in tempi remoti. Sembra parte di un'ala.
+#-------------------------------
+[JAWFOSSIL]
+Name = Fossilmascella
+NamePlural = Fossilmascelle
+Pocket = 1
+Price = 7000
+Flags = Fossil,Fling_100
+Description = Fossile di un Pokémon preistorico che viveva sulla terraferma. Sembra parte di una grande mascella.
+#-------------------------------
+[SAILFOSSIL]
+Name = Fossilpinna
+NamePlural = Fossilpinne
+Pocket = 1
+Price = 7000
+Flags = Fossil,Fling_100
+Description = Fossile di un Pokémon preistorico che viveva sulla terraferma. Sembra l'impronta di una vela dorsale.
+#-------------------------------
+[FOSSILIZEDBIRD]
+Name = Fossiluccello
+NamePlural = Fossiluccelli
+Pocket = 1
+Price = 5000
+Flags = Fling_100
+Description = Il fossile di un antico Pokémon che un tempo solcava i cieli. Il suo aspetto originale rimane un mistero.
+#-------------------------------
+[FOSSILIZEDFISH]
+Name = Fossilpesce
+NamePlural = Fossilpesci
+Pocket = 1
+Price = 5000
+Flags = Fling_100
+Description = Il fossile di un antico Pokémon che un tempo viveva nel mare. Il suo aspetto originale rimane un mistero.
+#-------------------------------
+[FOSSILIZEDDRAKE]
+Name = Fossildrago
+NamePlural = Fossildraghi
+Pocket = 1
+Price = 5000
+Flags = Fling_100
+Description = Il fossile di un antico Pokémon che un tempo vagava sulla terraferma. Il suo aspetto originale rimane un mistero.
+#-------------------------------
+[FOSSILIZEDDINO]
+Name = Fossildino
+NamePlural = Fossildino
+Pocket = 1
+Price = 5000
+Flags = Fling_100
+Description = Il fossile di un antico Pokémon che un tempo viveva nel mare. Il suo aspetto originale rimane un mistero.
+#-------------------------------
+[PRETTYFEATHER]
+Name = Bella Piuma
+NamePlural = Belle Piume
+Pocket = 1
+Price = 1000
+Flags = Fling_20
+Description = Anche se questa piuma è bellissima, è solo una piuma comune e non ha alcun effetto sui Pokémon.
+#-------------------------------
+[TINYMUSHROOM]
+Name = Minifungo
+NamePlural = Minifunghi
+Pocket = 1
+Price = 500
+Flags = Fling_30
+Description = Un fungo piccolo e raro. È molto ricercato dai collezionisti.
+#-------------------------------
+[BIGMUSHROOM]
+Name = Grande Fungo
+NamePlural = Grandi Funghi
+Pocket = 1
+Price = 5000
+Flags = Fling_30
+Description = Un fungo grande e raro. È molto ricercato dai collezionisti.
+#-------------------------------
+[BALMMUSHROOM]
+Name = Profumfungo
+NamePlural = Profumfunghi
+Pocket = 1
+Price = 15000
+Flags = Fling_30
+Description = Un raro fungo che emana un aroma gradevole. Può essere venduto a caro prezzo a un amatore.
+#-------------------------------
+[PEARL]
+Name = Perla
+NamePlural = Perle
+Pocket = 1
+Price = 2000
+Flags = Fling_30
+Description = Una piccola perla che brilla di un bel color argento. Può essere venduta nei negozi a basso prezzo.
+#-------------------------------
+[BIGPEARL]
+Name = Grande Perla
+NamePlural = Grandi Perle
+Pocket = 1
+Price = 8000
+Flags = Fling_30
+Description = Una perla piuttosto grande che brilla di un bel color argento. Può essere venduta nei negozi a caro prezzo.
+#-------------------------------
+[PEARLSTRING]
+Name = Trittico di Perle
+NamePlural = Trittici di Perle
+Pocket = 1
+Price = 20000
+Flags = Fling_30
+Description = Perle molto grandi che brillano di un bel color argento. Possono essere vendute a caro prezzo a un amatore.
+#-------------------------------
+[STARDUST]
+Name = Polvere di Stelle
+NamePlural = Polvere di Stelle
+PortionName = bag of Stardust
+PortionNamePlural = bags of Stardust
+Pocket = 1
+Price = 3000
+Flags = Fling_30
+Description = Una bellissima sabbia rossa molto fine e setosa al tatto. Può essere venduta nei negozi a caro prezzo.
+#-------------------------------
+[STARPIECE]
+Name = Pezzo Stella
+NamePlural = Pezzi Stella
+Pocket = 1
+Price = 12000
+Flags = Fling_30
+Description = Un frammento di una gemma preziosa che brilla di rosso. Può essere venduto nei negozi a caro prezzo.
+#-------------------------------
+[COMETSHARD]
+Name = Pezzo di Cometa
+NamePlural = Pezzi di Cometa
+Pocket = 1
+Price = 25000
+Flags = Fling_30
+Description = Un frammento caduto al suolo al passaggio di una cometa. Può essere venduto a caro prezzo a un amatore.
+#-------------------------------
+[NUGGET]
+Name = Pepita
+NamePlural = Pepite
+Pocket = 1
+Price = 10000
+Flags = Fling_30
+Description = Una pepita d'oro puro che brilla intensamente. Può essere venduta nei negozi a caro prezzo.
+#-------------------------------
+[BIGNUGGET]
+Name = Maxipepita
+NamePlural = Maxipepite
+Pocket = 1
+Price = 40000
+Flags = Fling_30
+Description = Una maxipepita d'oro puro che brilla intensamente. Può essere venduta a caro prezzo a un amatore.
+#-------------------------------
+[HEARTSCALE]
+Name = Squama Cuore
+NamePlural = Squame Cuore
+Pocket = 1
+Price = 100
+Flags = Fling_30
+Description = Una bellissima e rarissima squama a forma di cuore. Brilla debolmente con i colori dell'arcobaleno.
+#-------------------------------
+[SLOWPOKETAIL]
+Name = Codaslowpoke
+NamePlural = Codaslowpoke
+Pocket = 1
+Price = 10000
+Description = Una coda molto saporita. Può essere venduta nei negozi a caro prezzo.
+#-------------------------------
+[RAREBONE]
+Name = Osso Raro
+NamePlural = Ossa Rare
+Pocket = 1
+Price = 5000
+Flags = Fling_100
+Description = Un osso estremamente prezioso per l'archeologia Pokémon. Può essere venduto nei negozi a caro prezzo.
+#-------------------------------
+[RELICCOPPER]
+Name = Rame Antico
+NamePlural = Rame Antichi
+PortionName = Relic Copper coin
+PortionNamePlural = Relic Copper coins
+Pocket = 1
+Price = 0
+Flags = Fling_30
+Description = Una moneta di rame usata in una civiltà di circa 3.000 anni fa. Può essere venduta a caro prezzo a un amatore.
+#-------------------------------
+[RELICSILVER]
+Name = Argento Antico
+NamePlural = Argento Antichi
+PortionName = Relic Silver coin
+PortionNamePlural = Relic Silver coins
+Pocket = 1
+Price = 0
+Flags = Fling_30
+Description = Una moneta d'argento usata in una civiltà di circa 3.000 anni fa. Può essere venduta a caro prezzo a un amatore.
+#-------------------------------
+[RELICGOLD]
+Name = Oro Antico
+NamePlural = Oro Antichi
+PortionName = Relic Gold coin
+PortionNamePlural = Relic Gold coins
+Pocket = 1
+Price = 60000
+Flags = Fling_30
+Description = Una moneta d'oro usata in una civiltà di circa 3.000 anni fa. Può essere venduta a caro prezzo a un amatore.
+#-------------------------------
+[RELICVASE]
+Name = Vaso Antico
+NamePlural = Vasi Antichi
+Pocket = 1
+Price = 0
+Flags = Fling_30
+Description = Un vaso fabbricato in una civiltà di circa 3.000 anni fa. Può essere venduto a caro prezzo a un amatore.
+#-------------------------------
+[RELICBAND]
+Name = Bracciale Antico
+NamePlural = Bracciali Antichi
+Pocket = 1
+Price = 0
+Flags = Fling_30
+Description = Un bracciale fabbricato in una civiltà di circa 3.000 anni fa. Può essere venduto a caro prezzo a un amatore.
+#-------------------------------
+[RELICSTATUE]
+Name = Statua Antica
+NamePlural = Statue Antiche
+Pocket = 1
+Price = 0
+Flags = Fling_30
+Description = Una statua di pietra fabbricata in una civiltà di circa 3.000 anni fa. Può essere venduta a caro prezzo a un amatore.
+#-------------------------------
+[RELICCROWN]
+Name = Corona Antica
+NamePlural = Corone Antiche
+Pocket = 1
+Price = 0
+Flags = Fling_30
+Description = Una corona fabbricata in una civiltà di circa 3.000 anni fa. Può essere venduta a caro prezzo a un amatore.
+#-------------------------------
+[GROWTHMULCH]
+Name = Fertilizzante Crescita
+NamePlural = Fertilizzanti Crescita
+PortionName = bag of Growth Mulch
+PortionNamePlural = bags of Growth Mulch
+Pocket = 1
+Price = 200
+Flags = Mulch,Fling_30
+Description = Un fertilizzante da spargere sul terreno soffice nelle zone dove crescono le Bacche. Può essere venduto a caro prezzo a un amatore.
+#-------------------------------
+[DAMPMULCH]
+Name = Fertilizzante Umidità
+NamePlural = Fertilizzanti Umidità
+PortionName = bag of Damp Mulch
+PortionNamePlural = bags of Damp Mulch
+Pocket = 1
+Price = 200
+Flags = Mulch,Fling_30
+Description = Un fertilizzante da spargere sul terreno soffice nelle zone dove crescono le Bacche. Può essere venduto a caro prezzo a un amatore.
+#-------------------------------
+[STABLEMULCH]
+Name = Fertilizzante Stabilità
+NamePlural = Fertilizzanti Stabilità
+PortionName = bag of Stable Mulch
+PortionNamePlural = bags of Stable Mulch
+Pocket = 1
+Price = 200
+Flags = Mulch,Fling_30
+Description = Un fertilizzante da spargere sul terreno soffice nelle zone dove crescono le Bacche. Può essere venduto a caro prezzo a un amatore.
+#-------------------------------
+[GOOEYMULCH]
+Name = Fertilizzante Viscosità
+NamePlural = Fertilizzanti Viscosità
+PortionName = bag of Gooey Mulch
+PortionNamePlural = bags of Gooey Mulch
+Pocket = 1
+Price = 200
+Flags = Mulch,Fling_30
+Description = Un fertilizzante da spargere sul terreno soffice nelle zone dove crescono le Bacche. Può essere venduto a caro prezzo a un amatore.
+#-------------------------------
+[SHOALSALT]
+Name = Sale Ondoso
+NamePlural = Sali Ondosi
+PortionName = pile of Shoal Salt
+PortionNamePlural = piles of Shoal Salt
+Pocket = 1
+Price = 20
+Flags = Fling_30
+Description = Sale purissimo che si trova nelle profondità della Grotta Ondosa. Può essere venduto a caro prezzo a un amatore.
+#-------------------------------
+[SHOALSHELL]
+Name = Gusciondoso
+NamePlural = Gusciondosi
+Pocket = 1
+Price = 20
+Flags = Fling_30
+Description = Una bella conchiglia che si trova nelle profondità della Grotta Ondosa. Può essere venduta a caro prezzo a un amatore.
+#-------------------------------
+[ODDKEYSTONE]
+Name = Roccianima
+NamePlural = Roccianime
+Pocket = 1
+Price = 2100
+Flags = Fling_80
+Description = Un oggetto indispensabile per evitare che una torre di pietra crolli. A volte si sentono delle voci provenire dall'interno.
+#-------------------------------
+[REDNECTAR]
+Name = Nettare Rosso
+NamePlural = Nettari Rossi
+PortionName = jar of Red Nectar
+PortionNamePlural = jars of Red Nectar
+Pocket = 1
+Price = 300
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Un nettare di fiori raccolto nel Prato di Ula Ula. Cambia la forma di alcune specie di Pokémon.
+#-------------------------------
+[YELLOWNECTAR]
+Name = Nettare Giallo
+NamePlural = Nettari Gialli
+PortionName = jar of Yellow Nectar
+PortionNamePlural = jars of Yellow Nectar
+Pocket = 1
+Price = 300
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Un nettare di fiori raccolto nel Prato di Mele Mele. Cambia la forma di alcune specie di Pokémon.
+#-------------------------------
+[PINKNECTAR]
+Name = Nettare Rosa
+NamePlural = Nettari Rosa
+PortionName = jar of Pink Nectar
+PortionNamePlural = jars of Pink Nectar
+Pocket = 1
+Price = 300
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Un nettare di fiori raccolto dai cespugli di Viale Reale. Cambia la forma di alcune specie di Pokémon.
+#-------------------------------
+[PURPLENECTAR]
+Name = Nettare Viola
+NamePlural = Nettari Viola
+PortionName = jar of Purple Nectar
+PortionNamePlural = jars of Purple Nectar
+Pocket = 1
+Price = 300
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Un nettare di fiori raccolto nel Prato di Poni. Cambia la forma di alcune specie di Pokémon.
+#-------------------------------
+[AIRBALLOON]
+Name = Palloncino
+NamePlural = Palloncini
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 15
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Chi lo tiene fluttua in aria finché non viene colpito, dopodiché il palloncino scoppia.
+#-------------------------------
+[BRIGHTPOWDER]
+Name = Luminpolvere
+NamePlural = Luminpolveri
+PortionName = bag of Bright Powder
+PortionNamePlural = bags of Bright Powder
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 48
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Emana un bagliore che acceca il nemico riducendone la precisione.
+#-------------------------------
+[EVIOLITE]
+Name = Evolcondensa
+NamePlural = Evolcondense
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 25
+Flags = Fling_40
+Description = Una misteriosa pietra evolutiva. Se tenuta da un Pokémon che può ancora evolversi, ne aumenta la Difesa e la Difesa Speciale.
+#-------------------------------
+[FLOATSTONE]
+Name = Pietralieve
+NamePlural = Pietrelievi
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 10
+Flags = Fling_30
+Description = Una pietra molto leggera. Se tenuta da un Pokémon, ne riduce il peso.
+#-------------------------------
+[DESTINYKNOT]
+Name = Destincomune
+NamePlural = Destincomuni
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 10
+Flags = Fling_10
+Description = Un lungo e sottile filo rosso da dare a un Pokémon. Se chi lo tiene s'infatua, anche il nemico subirà lo stesso effetto.
+#-------------------------------
+[ROCKYHELMET]
+Name = Bitorzolelmo
+NamePlural = Bitorzolelmi
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 25
+Flags = Fling_60
+Description = Se chi lo tiene subisce un attacco, anche l'attaccante riceverà dei danni al momento del contatto.
+#-------------------------------
+[ASSAULTVEST]
+Name = Corpetto assalto
+NamePlural = Corpetti assalto
+Pocket = 1
+Price = 1000
+BPPrice = 25
+Flags = Fling_80
+Description = Uno strumento da dare a un Pokémon. Questo corpetto aumenta la Difesa Speciale, ma impedisce l'uso di mosse di stato.
+#-------------------------------
+[SAFETYGOGGLES]
+Name = Paraspore
+NamePlural = Paraspore
+PortionName = pair of Safety Goggles
+PortionNamePlural = pairs of Safety Goggles
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 25
+Flags = Fling_80
+Description = Uno strumento da dare a un Pokémon. Protegge chi lo tiene dai danni atmosferici e dalle polveri.
+#-------------------------------
+[PROTECTIVEPADS]
+Name = Paracolpi
+NamePlural = Paracolpi
+PortionName = set of Protective Pads
+PortionNamePlural = sets of Protective Pads
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 25
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Protegge chi lo tiene dagli effetti causati dal contatto fisico.
+#-------------------------------
+[HEAVYDUTYBOOTS]
+Name = Scarponi robusti
+NamePlural = Scarponi robusti
+PortionName = pair of Heavy-Duty Boots
+PortionNamePlural = pairs of Heavy-Duty Boots
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 25
+Flags = Fling_80
+Description = Questi stivali proteggono dagli effetti delle trappole presenti sul campo di battaglia.
+#-------------------------------
+[UTILITYUMBRELLA]
+Name = Ombrellone
+NamePlural = Ombrelloni
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 25
+Flags = Fling_60
+Description = Uno strumento da dare a un Pokémon. Questo robusto ombrello protegge chi lo tiene dagli effetti della pioggia e del sole.
+#-------------------------------
+[EJECTBUTTON]
+Name = Pulsantefuga
+NamePlural = Pulsantifuga
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 20
+Flags = Fling_30
+Description = Se chi lo tiene viene colpito da un attacco, viene sostituito immediatamente da un altro Pokémon della squadra.
+#-------------------------------
+[EJECTPACK]
+Name = Zainofuga
+NamePlural = Zainifuga
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 20
+Flags = Fling_50
+Description = Uno strumento da dare a un Pokémon. Quando le statistiche di chi lo tiene diminuiscono, il Pokémon viene sostituito.
+#-------------------------------
+[REDCARD]
+Name = Cartellino rosso
+NamePlural = Cartellini rossi
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 20
+Flags = Fling_10
+Description = Una tessera dal misterioso potere. Se chi la tiene viene colpito, l'attaccante è costretto ad abbandonare la lotta.
+#-------------------------------
+[SHEDSHELL]
+Name = Bucasmalto
+NamePlural = Bucasmalto
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Questo guscio vuoto permette a chi lo tiene di fuggire sempre dalla lotta.
+#-------------------------------
+[SMOKEBALL]
+Name = Fumopalla
+NamePlural = Fumopalle
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Permette a chi lo tiene di fuggire sempre dai Pokémon selvatici.
+#-------------------------------
+[LUCKYEGG]
+Name = Fortunuovo
+NamePlural = Fortunuova
+Pocket = 1
+Price = 10000
+BPPrice = 77
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Un uovo pieno di felicità che permette di guadagnare più Punti Esperienza in lotta.
+#-------------------------------
+[EXPSHARE]
+Name = Condividi Esp.
+NamePlural = Condividi Esp.
+Pocket = 1
+Price = 3000
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Permette a chi lo tiene di ricevere una parte dei Punti Esp. senza lottare.
+#-------------------------------
+[AMULETCOIN]
+Name = Monetamuleto
+NamePlural = Monetamuleto
+Pocket = 1
+Price = 10000
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Raddoppia i soldi vinti in lotta se il Pokémon che la tiene scende in campo.
+#-------------------------------
+[SOOTHEBELL]
+Name = Calmanella
+NamePlural = Calmanelle
+Pocket = 1
+Price = 4000
+BPPrice = 15
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Il rintocco rassicurante di questa campana calma chi la tiene e lo rende amichevole.
+#-------------------------------
+[CLEANSETAG]
+Name = Velopuro
+NamePlural = Velopuro
+Pocket = 1
+Price = 5000
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Se chi lo tiene è al primo posto nella squadra, aiuta a tenere lontani i Pokémon selvatici.
+#-------------------------------
+[CHOICEBAND]
+Name = Bendascelta
+NamePlural = Bendescelta
+Pocket = 1
+Price = 4000
+BPPrice = 25
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Aumenta l'Attacco, ma permette l'uso di una sola mossa.
+#-------------------------------
+[CHOICESPECS]
+Name = Lentiscelta
+NamePlural = Lentiscelta
+PortionName = pair of Choice Specs
+PortionNamePlural = pairs of Choice Specs
+Pocket = 1
+Price = 4000
+BPPrice = 25
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Questi occhiali aumentano l'Attacco Speciale, ma permettono l'uso di una sola mossa.
+#-------------------------------
+[CHOICESCARF]
+Name = Stolascelta
+NamePlural = Stolascelta
+Pocket = 1
+Price = 4000
+BPPrice = 25
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Questa sciarpa aumenta la Velocità, ma permette l'uso di una sola mossa.
+#-------------------------------
+[HEATROCK]
+Name = Rocciacalda
+NamePlural = Rocciecalde
+Pocket = 1
+Price = 4000
+BPPrice = 15
+Flags = Fling_60
+Description = Uno strumento da dare a un Pokémon. Se chi lo tiene usa la mossa Giornodisole, ne prolunga la durata.
+#-------------------------------
+[DAMPROCK]
+Name = Rocciaumida
+NamePlural = Roccieumide
+Pocket = 1
+Price = 4000
+BPPrice = 15
+Flags = Fling_60
+Description = Uno strumento da dare a un Pokémon. Se chi lo tiene usa la mossa Piovischio, ne prolunga la durata.
+#-------------------------------
+[SMOOTHROCK]
+Name = Roccialiscia
+NamePlural = Roccialiscie
+Pocket = 1
+Price = 4000
+BPPrice = 15
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Se chi lo tiene usa la mossa Terrempesta, ne prolunga la durata.
+#-------------------------------
+[ICYROCK]
+Name = Rocciafredda
+NamePlural = Rocciafredde
+Pocket = 1
+Price = 4000
+BPPrice = 15
+Flags = Fling_40
+Description = Uno strumento da dare a un Pokémon. Se chi lo tiene usa la mossa Grandine, ne prolunga la durata.
+#-------------------------------
+[TERRAINEXTENDER]
+Name = Ampliaterre
+NamePlural = Ampliaterre
+Pocket = 1
+Price = 4000
+BPPrice = 15
+Flags = Fling_60
+Description = Uno strumento da dare a un Pokémon. Prolunga la durata del campo creato da chi lo tiene.
+#-------------------------------
+[LIGHTCLAY]
+Name = Creta Luce
+NamePlural = Creta Luce
+PortionName = lump of Light Clay
+PortionNamePlural = lumps of Light Clay
+Pocket = 1
+Price = 4000
+BPPrice = 15
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Prolunga la durata di mosse come Riflesso e Schermoluce.
+#-------------------------------
+[GRIPCLAW]
+Name = Presartigli
+NamePlural = Presartigli
+Pocket = 1
+Price = 4000
+BPPrice = 15
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Prolunga la durata di attacchi multi-turno come Avvolgibotta e Legatutto.
+#-------------------------------
+[BINDINGBAND]
+Name = Legafascia
+NamePlural = Legafasce
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 15
+Flags = Fling_30
+Description = Una fascia che aumenta la potenza delle mosse di intrappolamento quando viene tenuta.
+#-------------------------------
+[BIGROOT]
+Name = Granradice
+NamePlural = Granradici
+Pocket = 1
+Price = 4000
+BPPrice = 15
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Aumenta la quantità di PS recuperati con le mosse che assorbono energia.
+#-------------------------------
+[BLACKSLUDGE]
+Name = Fangonero
+NamePlural = Fangonero
+PortionName = blob of Black Sludge
+PortionNamePlural = blobs of Black Sludge
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 25
+Flags = Fling_30
+Description = Uno strumento tenuto che rigenera gradualmente i PS dei Pokémon di tipo Veleno. Danneggia tutti gli altri tipi.
+#-------------------------------
+[LEFTOVERS]
+Name = Avanzi
+NamePlural = Avanzi
+PortionName = serving of Leftovers
+PortionNamePlural = servings of Leftovers
+Pocket = 1
+Price = 4000
+BPPrice = 25
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. I PS di chi lo tiene vengono rigenerati gradualmente durante la lotta.
+#-------------------------------
+[SHELLBELL]
+Name = Conchinella
+NamePlural = Conchinelle
+Pocket = 1
+Price = 4000
+BPPrice = 25
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Chi lo tiene recupera un po' di PS ogni volta che infligge danni.
+#-------------------------------
+[MENTALHERB]
+Name = Erbamens
+NamePlural = Erbemens
+Pocket = 1
+Price = 4000
+BPPrice = 15
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Libera chi lo tiene dagli effetti dell'infatuazione. Si può usare solo una volta.
+#-------------------------------
+[WHITEHERB]
+Name = Erbachiara
+NamePlural = Erbechiare
+Pocket = 1
+Price = 4000
+BPPrice = 15
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Ripristina le statistiche calate in lotta. Si può usare solo una volta.
+#-------------------------------
+[POWERHERB]
+Name = Vigorerba
+NamePlural = Vigorerbe
+Pocket = 1
+Price = 4000
+BPPrice = 15
+Flags = Fling_10
+Description = Uno strumento monouso da dare a un Pokémon. Permette l'uso immediato di una mossa che richiede caricamento.
+#-------------------------------
+[ABSORBBULB]
+Name = Lampadina
+NamePlural = Lampadine
+Pocket = 1
+Price = 4000
+BPPrice = 10
+Flags = Fling_30
+Description = Un bulbo consumabile. Se chi lo tiene viene colpito da una mossa di tipo Acqua, il suo Attacco Speciale aumenta.
+#-------------------------------
+[CELLBATTERY]
+Name = Piapila
+NamePlural = Piapile
+Pocket = 1
+Price = 4000
+BPPrice = 10
+Flags = Fling_30
+Description = Una batteria consumabile. Se chi lo tiene viene colpito da una mossa di tipo Elettro, il suo Attacco aumenta.
+#-------------------------------
+[LUMINOUSMOSS]
+Name = Muschioluce
+NamePlural = Muschioluce
+PortionName = clump of Luminous Moss
+PortionNamePlural = clumps of Luminous Moss
+Pocket = 1
+Price = 4000
+BPPrice = 10
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Aumenta la Difesa Speciale se colpiti da un attacco Acqua. Si usa una volta sola.
+#-------------------------------
+[SNOWBALL]
+Name = PalladiNeve
+NamePlural = PalladiNeve
+Pocket = 1
+Price = 4000
+BPPrice = 10
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Aumenta l'Attacco se colpiti da un attacco Ghiaccio. Si usa una volta sola.
+#-------------------------------
+[WEAKNESSPOLICY]
+Name = Vulneropolizza
+NamePlural = Vulneropolizze
+Pocket = 1
+Price = 1000
+BPPrice = 20
+Flags = Fling_80
+Description = Uno strumento da dare a un Pokémon. L'Attacco e l'Attacco Speciale aumentano di molto se colpiti da una mossa superefficace.
+#-------------------------------
+[BLUNDERPOLICY]
+Name = Disattivopolizza
+NamePlural = Disattivopolizze
+Pocket = 1
+Price = 4000
+BPPrice = 20
+Flags = Fling_80
+Description = Aumenta di molto la Velocità quando il Pokémon fallisce una mossa a causa della precisione.
+#-------------------------------
+[THROATSPRAY]
+Name = Spray gola
+NamePlural = Spray gola
+PortionName = bottle of Throat Spray
+PortionNamePlural = bottles of Throat Spray
+Pocket = 1
+Price = 4000
+BPPrice = 10
+Flags = Fling_30
+Description = Aumenta l'Attacco Speciale quando un Pokémon usa una mossa basata sul suono.
+#-------------------------------
+[ADRENALINEORB]
+Name = Fifasfera
+NamePlural = Fifasfere
+Pocket = 1
+Price = 300
+BPPrice = 10
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Aumenta la Velocità quando il Pokémon subisce Prepotenza. Si usa una volta sola.
+#-------------------------------
+[ROOMSERVICE]
+Name = Servizio in camera
+NamePlural = Servizio in camera
+PortionName = voucher for Room Service
+PortionNamePlural = vouchers for Room Service
+Pocket = 1
+Price = 4000
+BPPrice = 15
+Flags = Fling_100
+Description = Uno strumento da dare a un Pokémon. Riduce la Velocità quando entra in funzione la mossa Distortozona.
+#-------------------------------
+[ELECTRICSEED]
+Name = Semeelettro
+NamePlural = Semielettro
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Aumenta la Difesa in un Campo Elettrico. Si può usare solo una volta.
+#-------------------------------
+[GRASSYSEED]
+Name = Semerba
+NamePlural = Semierba
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Aumenta la Difesa in un Campo Erboso. Si può usare solo una volta.
+#-------------------------------
+[MISTYSEED]
+Name = Semenebbia
+NamePlural = Seminebbia
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Aumenta la Difesa Speciale in un Campo Nebbioso. Si può usare solo una volta.
+#-------------------------------
+[PSYCHICSEED]
+Name = Semepsico
+NamePlural = Semipsico
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Aumenta la Difesa Speciale in un Campo Psichico. Si può usare solo una volta.
+#-------------------------------
+[LIFEORB]
+Name = Assorbisfera
+NamePlural = Assorbisfere
+Pocket = 1
+Price = 4000
+BPPrice = 25
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Potenzia le mosse, ma a ogni colpo consuma un po' dei PS di chi lo tiene.
+#-------------------------------
+[EXPERTBELT]
+Name = Cinturesperto
+NamePlural = Cinturesperto
+Pocket = 1
+Price = 4000
+BPPrice = 25
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Una cintura logora che potenzia leggermente le mosse superefficaci.
+#-------------------------------
+[METRONOME]
+Name = Metronomo
+NamePlural = Metronomi
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 25
+Flags = Fling_30
+Description = Uno strumento tenuto che potenzia una mossa se usata consecutivamente. L'effetto svanisce se si usa un'altra mossa.
+#-------------------------------
+[MUSCLEBAND]
+Name = Muscolbanda
+NamePlural = Muscolbande
+Pocket = 1
+Price = 4000
+BPPrice = 48
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Una fascia che aumenta leggermente la potenza delle mosse fisiche.
+#-------------------------------
+[WISEGLASSES]
+Name = Saviocchiali
+NamePlural = Saviocchiali
+PortionName = pair of Wise Glasses
+PortionNamePlural = pairs of Wise Glasses
+Pocket = 1
+Price = 4000
+BPPrice = 48
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Un paio di occhiali spessi che aumenta leggermente la potenza delle mosse speciali.
+#-------------------------------
+[RAZORCLAW]
+Name = Affilartiglio
+NamePlural = Affilartigli
+Pocket = 1
+Price = 3000
+SellPrice = 2500
+BPPrice = 5
+Flags = Fling_80
+Description = Uno strumento da dare a un Pokémon. Un artiglio appuntito che aumenta la probabilità di infliggere brutti colpi.
+#-------------------------------
+[SCOPELENS]
+Name = Mirino
+NamePlural = Mirini
+Pocket = 1
+Price = 4000
+BPPrice = 48
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Una lente che aumenta la probabilità di infliggere brutti colpi.
+#-------------------------------
+[WIDELENS]
+Name = Grandelente
+NamePlural = Grandelenti
+Pocket = 1
+Price = 4000
+BPPrice = 48
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Una lente d'ingrandimento che aumenta leggermente la precisione delle mosse.
+#-------------------------------
+[ZOOMLENS]
+Name = Zoomlente
+NamePlural = Zoomlenti
+Pocket = 1
+Price = 4000
+BPPrice = 48
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Se chi lo tiene agisce dopo il bersaglio, la sua precisione aumenta.
+#-------------------------------
+[KINGSROCK]
+Name = Roccia di Re
+NamePlural = Roccie di Re
+Pocket = 1
+Price = 5000
+BPPrice = 5
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Quando chi lo tiene infligge danni, il bersaglio può tentennare.
+#-------------------------------
+[RAZORFANG]
+Name = Affilodente
+NamePlural = Affilodenti
+Pocket = 1
+Price = 5000
+BPPrice = 5
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Può far tentennare i nemici e gli alleati quando chi lo tiene infligge danni.
+#-------------------------------
+[LAGGINGTAIL]
+Name = Rallentocoda
+NamePlural = Rallentocode
+Pocket = 1
+Price = 4000
+BPPrice = 25
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. È pesantissima e costringe chi la tiene ad agire dopo gli altri.
+#-------------------------------
+[QUICKCLAW]
+Name = Rapidartiglio
+NamePlural = Rapidartigli
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 25
+Flags = Fling_80
+Description = Uno strumento da dare a un Pokémon. Un artiglio leggero che a volte permette di attaccare per primi.
+#-------------------------------
+[FOCUSBAND]
+Name = Bandana
+NamePlural = Bandane
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 48
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Chi lo tiene può resistere a un colpo da KO restando con 1 PS.
+#-------------------------------
+[FOCUSSASH]
+Name = Focalnastro
+NamePlural = Focalnastri
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 15
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Se ha i PS al massimo, chi lo tiene resiste a un colpo da KO restando con 1 PS.
+#-------------------------------
+[FLAMEORB]
+Name = Fiammosfera
+NamePlural = Fiammosfere
+Pocket = 1
+Price = 4000
+BPPrice = 16
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Una sfera bizzarra che scotta chi la tiene durante la lotta.
+#-------------------------------
+[TOXICORB]
+Name = Tossicosfera
+NamePlural = Tossicosfere
+Pocket = 1
+Price = 4000
+BPPrice = 16
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Una sfera bizzarra che avvelena gravemente chi la tiene durante la lotta.
+#-------------------------------
+[STICKYBARB]
+Name = Rosaspina
+NamePlural = Rosaspine
+Pocket = 1
+Price = 4000
+BPPrice = 16
+Flags = Fling_80
+Description = Uno strumento tenuto che danneggia chi lo tiene a ogni turno. Può attaccarsi ai Pokémon che toccano il possessore.
+#-------------------------------
+[IRONBALL]
+Name = Ferropalla
+NamePlural = Ferropalle
+Pocket = 1
+Price = 4000
+BPPrice = 10
+Flags = Fling_130
+Description = Uno strumento tenuto che dimezza la Velocità. Rende i Pokémon di tipo Volante o con Levitazione vulnerabili alle mosse Terra.
+#-------------------------------
+[RINGTARGET]
+Name = Belbersaglio
+NamePlural = Belbersagli
+Pocket = 1
+Price = 3000
+SellPrice = 2000
+BPPrice = 10
+Flags = Fling_10
+Description = Le mosse che normalmente non avrebbero effetto colpiranno comunque il Pokémon che tiene questo strumento.
+#-------------------------------
+[MACHOBRACE]
+Name = Crescipa
+NamePlural = Crescipe
+Pocket = 1
+Price = 3000
+BPPrice = 10
+Flags = Fling_60
+Description = Uno strumento da dare a un Pokémon. Una fascia pesante che favorisce la crescita ma riduce la Velocità.
+#-------------------------------
+[POWERWEIGHT]
+Name = Vigorpeso
+NamePlural = Vigorpesi
+Pocket = 1
+Price = 3000
+BPPrice = 10
+Flags = Fling_70
+Description = Uno strumento tenuto che favorisce l'aumento dei PS salendo di livello, ma riduce la Velocità.
+#-------------------------------
+[POWERBRACER]
+Name = Vigorcerchio
+NamePlural = Vigorcerchi
+Pocket = 1
+Price = 3000
+BPPrice = 10
+Flags = Fling_70
+Description = Uno strumento tenuto che favorisce l'aumento dell'Attacco salendo di livello, ma riduce la Velocità.
+#-------------------------------
+[POWERBELT]
+Name = Vigorspalla
+NamePlural = Vigorspalle
+Pocket = 1
+Price = 3000
+BPPrice = 10
+Flags = Fling_70
+Description = Uno strumento tenuto che favorisce l'aumento della Difesa salendo di livello, ma riduce la Velocità.
+#-------------------------------
+[POWERLENS]
+Name = Vigorlente
+NamePlural = Vigorlenti
+Pocket = 1
+Price = 3000
+BPPrice = 10
+Flags = Fling_70
+Description = Uno strumento tenuto che favorisce l'aumento dell'Attacco Speciale salendo di livello, ma riduce la Velocità.
+#-------------------------------
+[POWERBAND]
+Name = Vigorbanda
+NamePlural = Vigorbande
+Pocket = 1
+Price = 3000
+BPPrice = 10
+Flags = Fling_70
+Description = Uno strumento tenuto che favorisce l'aumento della Difesa Speciale salendo di livello, ma riduce la Velocità.
+#-------------------------------
+[POWERANKLET]
+Name = Vigorgliera
+NamePlural = Vigorgliere
+Pocket = 1
+Price = 3000
+BPPrice = 10
+Flags = Fling_70
+Description = Uno strumento tenuto che favorisce l'aumento della Velocità salendo di livello, ma ne riduce la statistica attuale.
+#-------------------------------
+[LAXINCENSE]
+Name = Distrattoscenso
+NamePlural = Distrattoscensi
+PortionName = jar of Lax Incense
+PortionNamePlural = jars of Lax Incense
+Pocket = 1
+Price = 5000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. L'aroma particolare di questo incenso può far fallire gli attacchi nemici.
+#-------------------------------
+[FULLINCENSE]
+Name = Gonfioincenso
+NamePlural = Gonfioincensi
+PortionName = jar of Full Incense
+PortionNamePlural = jars of Full Incense
+Pocket = 1
+Price = 5000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Questo incenso dall'aroma esotico rende chi lo tiene gonfio e lento nei movimenti.
+#-------------------------------
+[LUCKINCENSE]
+Name = Fortuncenso
+NamePlural = Fortuncensi
+PortionName = jar of Luck Incense
+PortionNamePlural = jars of Luck Incense
+Pocket = 1
+Price = 11000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Raddoppia i soldi vinti in lotta se il Pokémon che lo tiene scende in campo.
+#-------------------------------
+[PUREINCENSE]
+Name = Puroincenso
+NamePlural = Puroincensi
+PortionName = jar of Pure Incense
+PortionNamePlural = jars of Pure Incense
+Pocket = 1
+Price = 6000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Se chi lo tiene è al primo posto nella squadra, tiene lontani i Pokémon selvatici.
+#-------------------------------
+[SEAINCENSE]
+Name = Mareincenso
+NamePlural = Mareincensi
+PortionName = jar of Sea Incense
+PortionNamePlural = jars of Sea Incense
+Pocket = 1
+Price = 2000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Ha un aroma curioso che potenzia le mosse di tipo Acqua.
+#-------------------------------
+[WAVEINCENSE]
+Name = Ondaincenso
+NamePlural = Ondaincensi
+PortionName = jar of Wave Incense
+PortionNamePlural = jars of Wave Incense
+Pocket = 1
+Price = 2000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Ha un aroma curioso che potenzia le mosse di tipo Acqua.
+#-------------------------------
+[ROSEINCENSE]
+Name = Rosaincenso
+NamePlural = Rosaincensi
+PortionName = jar of Rose Incense
+PortionNamePlural = jars of Rose Incense
+Pocket = 1
+Price = 2000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Questo incenso dall'aroma esotico potenzia le mosse di tipo Erba.
+#-------------------------------
+[ODDINCENSE]
+Name = Bizzarincenso
+NamePlural = Bizzarincensi
+PortionName = jar of Odd Incense
+PortionNamePlural = jars of Odd Incense
+Pocket = 1
+Price = 2000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Questo incenso dall'aroma esotico potenzia le mosse di tipo Psico.
+#-------------------------------
+[ROCKINCENSE]
+Name = Rocciaincenso
+NamePlural = Rocciaincensi
+PortionName = jar of Rock Incense
+PortionNamePlural = jars of Rock Incense
+Pocket = 1
+Price = 2000
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Questo incenso dall'aroma esotico potenzia le mosse di tipo Roccia.
+#-------------------------------
+[CHARCOAL]
+Name = Carbonella
+NamePlural = Carbonelle
+PortionName = piece of Charcoal
+PortionNamePlural = pieces of Charcoal
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Un combustibile fossile che potenzia le mosse di tipo Fuoco.
+#-------------------------------
+[MYSTICWATER]
+Name = Acqua Magica
+NamePlural = Acque Magiche
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Una gemma a forma di lacrima che potenzia le mosse di tipo Acqua.
+#-------------------------------
+[MAGNET]
+Name = Magnete
+NamePlural = Magneti
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Una potente calamita che potenzia le mosse di tipo Elettro.
+#-------------------------------
+[MIRACLESEED]
+Name = Miracolseme
+NamePlural = Miracolsemi
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Un seme intriso di vita che potenzia le mosse di tipo Erba.
+#-------------------------------
+[NEVERMELTICE]
+Name = Gelomai
+NamePlural = Gelomai
+PortionName = piece of Never-Melt Ice
+PortionNamePlural = pieces of Never-Melt Ice
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Un pezzo di ghiaccio che respinge il calore e potenzia le mosse Ghiaccio.
+#-------------------------------
+[BLACKBELT]
+Name = Cinturanera
+NamePlural = Cintureneri
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Una cintura che aumenta la determinazione e potenzia le mosse Lotta.
+#-------------------------------
+[POISONBARB]
+Name = Velonaculeo
+NamePlural = Velonaculei
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_70
+Description = Uno strumento da dare a un Pokémon. Un piccolo aculeo velenoso che potenzia le mosse di tipo Veleno.
+#-------------------------------
+[SOFTSAND]
+Name = Sabbia Soffice
+NamePlural = Sabbie Soffici
+PortionName = bag of Soft Sand
+PortionNamePlural = bags of Soft Sand
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Una sabbia finissima che potenzia le mosse di tipo Terra.
+#-------------------------------
+[SHARPBEAK]
+Name = Becco Affilato
+NamePlural = Becchi Affilati
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_50
+Description = Uno strumento da dare a un Pokémon. Un becco lungo e affilato che potenzia le mosse di tipo Volante.
+#-------------------------------
+[TWISTEDSPOON]
+Name = Cucchiaio Torto
+NamePlural = Cucchiai Torti
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Un cucchiaio dai poteri telecinetici che potenzia le mosse Psico.
+#-------------------------------
+[SILVERPOWDER]
+Name = Argenpolvere
+NamePlural = Argenpolveri
+PortionName = pile of Silver Powder
+PortionNamePlural = piles of Silver Powder
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Una polvere argentata che potenzia le mosse di tipo Coleottero.
+#-------------------------------
+[HARDSTONE]
+Name = Pietradura
+NamePlural = Pietredure
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_100
+Description = Uno strumento da dare a un Pokémon. Una pietra indistruttibile che potenzia le mosse di tipo Roccia.
+#-------------------------------
+[SPELLTAG]
+Name = Spettrotarga
+NamePlural = Spettrotarghe
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Una targa sinistra e inquietante che potenzia le mosse Spettro.
+#-------------------------------
+[DRAGONFANG]
+Name = Dente di Drago
+NamePlural = Denti di Drago
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_70
+Description = Uno strumento da dare a un Pokémon. Un dente duro e affilato che potenzia le mosse di tipo Drago.
+#-------------------------------
+[BLACKGLASSES]
+Name = Occhiali Neri
+NamePlural = Occhiali Neri
+PortionName = pair of Black Glasses
+PortionNamePlural = pairs of Black Glasses
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Un paio di occhiali scuri che potenzia le mosse di tipo Buio.
+#-------------------------------
+[METALCOAT]
+Name = Metallcoperta
+NamePlural = Metallcoperte
+Pocket = 1
+Price = 3000
+SellPrice = 1000
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Una speciale pellicola metallica che potenzia le mosse di tipo Acciaio.
+#-------------------------------
+[SILKSCARF]
+Name = Sciarpa Seta
+NamePlural = Sciarpe Seta
+Pocket = 1
+Price = 3000
+SellPrice = 500
+Flags = Fling_10
+Description = Uno strumento da dare a un Pokémon. Una sciarpa raffinata che potenzia le mosse di tipo Normale.
+#-------------------------------
+[FLAMEPLATE]
+Name = Lastrafuoco
+NamePlural = Lastrefuoco
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Fuoco.
+#-------------------------------
+[SPLASHPLATE]
+Name = Lastraidro
+NamePlural = Lastreidro
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Acqua.
+#-------------------------------
+[ZAPPLATE]
+Name = Lastrasaetta
+NamePlural = Lastresaetta
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Elettro.
+#-------------------------------
+[MEADOWPLATE]
+Name = Lastraerba
+NamePlural = Lastreerba
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Erba.
+#-------------------------------
+[ICICLEPLATE]
+Name = Lastragelo
+NamePlural = Lastregelo
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Ghiaccio.
+#-------------------------------
+[FISTPLATE]
+Name = Lastrapugno
+NamePlural = Lastrepugno
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Lotta.
+#-------------------------------
+[TOXICPLATE]
+Name = Lastrafiele
+NamePlural = Lastrefiele
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Veleno.
+#-------------------------------
+[EARTHPLATE]
+Name = Lastraserra
+NamePlural = Lastreserra
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Terra.
+#-------------------------------
+[SKYPLATE]
+Name = Lastracielo
+NamePlural = Lastrecielo
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Volante.
+#-------------------------------
+[MINDPLATE]
+Name = Lastramente
+NamePlural = Lastremente
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Psico.
+#-------------------------------
+[INSECTPLATE]
+Name = Lastrabaco
+NamePlural = Lastrebaco
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Coleottero.
+#-------------------------------
+[STONEPLATE]
+Name = Lastrapietra
+NamePlural = Lastrepietra
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Roccia.
+#-------------------------------
+[SPOOKYPLATE]
+Name = Lastraspiritello
+NamePlural = Lastrespiritello
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Spettro.
+#-------------------------------
+[DRACOPLATE]
+Name = Lastradrakon
+NamePlural = Lastredrakon
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Drago.
+#-------------------------------
+[DREADPLATE]
+Name = Lastratenebra
+NamePlural = Lastretenebra
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Buio.
+#-------------------------------
+[IRONPLATE]
+Name = Lastraferro
+NamePlural = Lastreferro
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Acciaio.
+#-------------------------------
+[PIXIEPLATE]
+Name = Lastrafolletto
+NamePlural = Lastrefolletto
+Pocket = 1
+Price = 10000
+SellPrice = 500
+Flags = Fling_90
+Description = Uno strumento da dare a un Pokémon. Una tavoletta di pietra che potenzia le mosse di tipo Folletto.
+#-------------------------------
+[FIREGEM]
+Name = Bijoufuoco
+NamePlural = Bijoufuoco
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza del fuoco. Se tenuta, potenzia una volta sola una mossa di tipo Fuoco.
+#-------------------------------
+[WATERGEM]
+Name = Bijouacqua
+NamePlural = Bijouacqua
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza dell'acqua. Se tenuta, potenzia una volta sola una mossa di tipo Acqua.
+#-------------------------------
+[ELECTRICGEM]
+Name = Bijouelettro
+NamePlural = Bijouelettro
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza dell'elettricità. Se tenuta, potenzia una volta sola una mossa di tipo Elettro.
+#-------------------------------
+[GRASSGEM]
+Name = Bijouerba
+NamePlural = Bijouerba
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza della natura. Se tenuta, potenzia una volta sola una mossa di tipo Erba.
+#-------------------------------
+[ICEGEM]
+Name = Bijoughiaccio
+NamePlural = Bijoughiaccio
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza del ghiaccio. Se tenuta, potenzia una volta sola una mossa di tipo Ghiaccio.
+#-------------------------------
+[FIGHTINGGEM]
+Name = Bijoulotta
+NamePlural = Bijoulotta
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza del combattimento. Se tenuta, potenzia una volta sola una mossa di tipo Lotta.
+#-------------------------------
+[POISONGEM]
+Name = Bijouveleno
+NamePlural = Bijouveleno
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza del veleno. Se tenuta, potenzia una volta sola una mossa di tipo Veleno.
+#-------------------------------
+[GROUNDGEM]
+Name = Bijouterra
+NamePlural = Bijouterra
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza della terra. Se tenuta, potenzia una volta sola una mossa di tipo Terra.
+#-------------------------------
+[FLYINGGEM]
+Name = Bijouvolante
+NamePlural = Bijouvolante
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza dell'aria. Se tenuta, potenzia una volta sola una mossa di tipo Volante.
+#-------------------------------
+[PSYCHICGEM]
+Name = Bijoupsico
+NamePlural = Bijoupsico
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza della mente. Se tenuta, potenzia una volta sola una mossa di tipo Psico.
+#-------------------------------
+[BUGGEM]
+Name = Bijoucoleottero
+NamePlural = Bijoucoleottero
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza degli insetti. Se tenuta, potenzia una volta sola una mossa di tipo Coleottero.
+#-------------------------------
+[ROCKGEM]
+Name = Bijouroccia
+NamePlural = Bijouroccia
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza della roccia. Se tenuta, potenzia una volta sola una mossa di tipo Roccia.
+#-------------------------------
+[GHOSTGEM]
+Name = Bijouspettro
+NamePlural = Bijouspettro
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza spettrale. Se tenuta, potenzia una volta sola una mossa di tipo Spettro.
+#-------------------------------
+[DRAGONGEM]
+Name = Bijoudrago
+NamePlural = Bijoudrago
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza dei draghi. Se tenuta, potenzia una volta sola una mossa di tipo Drago.
+#-------------------------------
+[DARKGEM]
+Name = Bijoubuio
+NamePlural = Bijoubuio
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza dell'oscurità. Se tenuta, potenzia una volta sola una mossa di tipo Buio.
+#-------------------------------
+[STEELGEM]
+Name = Bijouacciaio
+NamePlural = Bijouacciaio
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza dell'acciaio. Se tenuta, potenzia una volta sola una mossa di tipo Acciaio.
+#-------------------------------
+[FAIRYGEM]
+Name = Bijoufolletto
+NamePlural = Bijoufolletto
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con l'essenza fatata. Se tenuta, potenzia una volta sola una mossa di tipo Folletto.
+#-------------------------------
+[NORMALGEM]
+Name = Bijounormale
+NamePlural = Bijounormale
+Pocket = 1
+Price = 4000
+Flags = TypeGem
+Description = Una gemma con un'essenza ordinaria. Se tenuta, potenzia una volta sola una mossa di tipo Normale.
+#-------------------------------
+[LIGHTBALL]
+Name = Elettropalla
+NamePlural = Elettropalle
+Pocket = 1
+Price = 1000
+Flags = Fling_30
+Description = Uno strumento da dare a Pikachu. Una sfera misteriosa che aumenta l'Attacco e l'Attacco Speciale.
+#-------------------------------
+[LUCKYPUNCH]
+Name = Fortunpugno
+NamePlural = Fortunpugni
+Pocket = 1
+Price = 1000
+BPPrice = 7
+Flags = Fling_40
+Description = Uno strumento da dare a Chansey. Un paio di guanti che aumenta la probabilità di Chansey di infliggere brutti colpi.
+#-------------------------------
+[METALPOWDER]
+Name = Metallpolvere
+NamePlural = Metallpolveri
+PortionName = bag of Metal Powder
+PortionNamePlural = bags of Metal Powder
+Pocket = 1
+Price = 1000
+Flags = Fling_10
+Description = Uno strumento da dare a Ditto. Una polvere finissima ma durissima che aumenta la Difesa.
+#-------------------------------
+[QUICKPOWDER]
+Name = Velocipolvere
+NamePlural = Velocipolveri
+PortionName = bag of Quick Powder
+PortionNamePlural = bags of Quick Powder
+Pocket = 1
+Price = 1000
+Flags = Fling_10
+Description = Uno strumento da dare a Ditto. Una polvere finissima ma durissima che aumenta la Velocità.
+#-------------------------------
+[THICKCLUB]
+Name = Ossospesso
+NamePlural = Ossispessi
+Pocket = 1
+Price = 1000
+Flags = Fling_90
+Description = Uno strumento da dare a Cubone o Marowak. Un osso durissimo che aumenta l'Attacco.
+#-------------------------------
+[LEEK]
+Name = Gambo
+NamePlural = Gambi
+Pocket = 1
+Price = 1000
+Flags = Fling_60
+Description = Uno strumento da dare a Farfetch'd. Un gambo di porro lungo e rigido che aumenta la probabilità di infliggere brutti colpi.
+#-------------------------------
+[SOULDEW]
+Name = Cuorrugiada
+NamePlural = Cuorrugiade
+Pocket = 1
+Price = 0
+Flags = Fling_30
+Description = Una sfera prodigiosa da dare a Latios o Latias. Aumenta la potenza delle mosse di tipo Psico e Drago.
+#-------------------------------
+[DEEPSEATOOTH]
+Name = Dente Abissi
+NamePlural = Denti Abissi
+Pocket = 1
+Price = 2000
+BPPrice = 5
+Flags = Fling_90
+Description = Uno strumento da dare a Clamperl. Un dente che brilla d'argento e aumenta l'Attacco Speciale.
+#-------------------------------
+[DEEPSEASCALE]
+Name = Squama Abissi
+NamePlural = Squame Abissi
+Pocket = 1
+Price = 2000
+BPPrice = 5
+Flags = Fling_30
+Description = Uno strumento da dare a Clamperl. Una squama che brilla di rosa e aumenta la Difesa Speciale.
+#-------------------------------
+[ADAMANTORB]
+Name = Adamosfera
+NamePlural = Adamosfere
+Pocket = 1
+Price = 10000
+SellPrice = 0
+Flags = Fling_60
+Description = Una sfera brillante da dare a Dialga. Potenzia le mosse di tipo Drago e Acciaio.
+#-------------------------------
+[LUSTROUSORB]
+Name = Splendosfera
+NamePlural = Splendosfere
+Pocket = 1
+Price = 10000
+SellPrice = 0
+Flags = Fling_60
+Description = Una sfera luminosa da dare a Palkia. Potenzia le mosse di tipo Drago e Acqua.
+#-------------------------------
+[GRISEOUSORB]
+Name = Grigiosfera
+NamePlural = Grigiosfere
+Pocket = 1
+Price = 10000
+SellPrice = 0
+Flags = Fling_60
+Description = Una sfera luminescente da dare a Giratina. Potenzia le mosse di tipo Drago e Spettro.
+#-------------------------------
+[RUSTEDSWORD]
+Name = Spada rovinata
+NamePlural = Spade rovinata
+Pocket = 1
+Price = 0
+Description = Si dice che un eroe usò questa spada per fermare un disastro in tempi antichi. Ormai è arrugginita e usurata.
+#-------------------------------
+[RUSTEDSHIELD]
+Name = Scudo rovinato
+NamePlural = Scudi rovinato
+Pocket = 1
+Price = 0
+Description = Si dice che un eroe usò questo scudo per fermare un disastro in tempi antichi. Ormai è arrugginito e usurato.
+#-------------------------------
+[DOUSEDRIVE]
+Name = Idromodulo
+NamePlural = Idromoduli
+Pocket = 1
+Price = 0
+Flags = Fling_70
+Description = Una cassetta da dare a Genesect. Cambia il tipo della mossa Tecnobotto in Acqua.
+#-------------------------------
+[SHOCKDRIVE]
+Name = Voltmodulo
+NamePlural = Voltmoduli
+Pocket = 1
+Price = 0
+Flags = Fling_70
+Description = Una cassetta da dare a Genesect. Cambia il tipo della mossa Tecnobotto in Elettro.
+#-------------------------------
+[BURNDRIVE]
+Name = Piromodulo
+NamePlural = Piromoduli
+Pocket = 1
+Price = 0
+Flags = Fling_70
+Description = Una cassetta da dare a Genesect. Cambia il tipo della mossa Tecnobotto in Fuoco.
+#-------------------------------
+[CHILLDRIVE]
+Name = Criomodulo
+NamePlural = Criomoduli
+Pocket = 1
+Price = 0
+Flags = Fling_70
+Description = Una cassetta da dare a Genesect. Cambia il tipo della mossa Tecnobotto in Ghiaccio.
+#-------------------------------
+[FIREMEMORY]
+Name = Rom Fuoco
+NamePlural = Rom Fuoco
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Fuoco. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[WATERMEMORY]
+Name = Rom Acqua
+NamePlural = Rom Acqua
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Acqua. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[ELECTRICMEMORY]
+Name = Rom Elettro
+NamePlural = Rom Elettro
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Elettro. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[GRASSMEMORY]
+Name = Rom Erba
+NamePlural = Rom Erba
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Erba. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[ICEMEMORY]
+Name = Rom Ghiaccio
+NamePlural = Rom Ghiaccio
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Ghiaccio. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[FIGHTINGMEMORY]
+Name = Rom Lotta
+NamePlural = Rom Lotta
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Lotta. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[POISONMEMORY]
+Name = Rom Veleno
+NamePlural = Rom Veleno
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Veleno. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[GROUNDMEMORY]
+Name = Rom Terra
+NamePlural = Rom Terra
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Terra. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[FLYINGMEMORY]
+Name = Rom Volante
+NamePlural = Rom Volante
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Volante. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[PSYCHICMEMORY]
+Name = Rom Psico
+NamePlural = Rom Psico
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Psico. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[BUGMEMORY]
+Name = Rom Coleottero
+NamePlural = Rom Coleottero
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Coleottero. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[ROCKMEMORY]
+Name = Rom Roccia
+NamePlural = Rom Roccia
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Roccia. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[GHOSTMEMORY]
+Name = Rom Spettro
+NamePlural = Rom Spettro
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Spettro. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[DRAGONMEMORY]
+Name = Rom Drago
+NamePlural = Rom Drago
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Drago. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[DARKMEMORY]
+Name = Rom Buio
+NamePlural = Rom Buio
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Buio. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[STEELMEMORY]
+Name = Rom Acciaio
+NamePlural = Rom Acciaio
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Acciaio. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[FAIRYMEMORY]
+Name = Rom Folletto
+NamePlural = Rom Folletto
+Pocket = 1
+Price = 1000
+Flags = Fling_50
+Description = Un disco dati contenente informazioni di tipo Folletto. Cambia il tipo del Pokémon che lo tiene.
+#-------------------------------
+[EVERSTONE]
+Name = Pietrastante
+NamePlural = Pietrestanti
+Pocket = 1
+Price = 3000
+BPPrice = 5
+Flags = Fling_30
+Description = Uno strumento da dare a un Pokémon. Impedisce al Pokémon che tiene questa pietra particolare di evolversi.
+#-------------------------------
+[DRAGONSCALE]
+Name = Squama Drago
+NamePlural = Squame Drago
+Pocket = 1
+Price = 3000
+SellPrice = 1000
+BPPrice = 5
+Flags = Fling_30
+Description = Una squama spessa e resistente. I Pokémon di tipo Drago selvatici potrebbero tenerne una.
+#-------------------------------
+[UPGRADE]
+Name = Upgrade
+NamePlural = Upgrade
+Pocket = 1
+Price = 3000
+SellPrice = 1000
+BPPrice = 5
+Flags = Fling_30
+Description = Un dispositivo trasparente pieno di dati di ogni tipo. È stato prodotto dalla Silph Co.
+#-------------------------------
+[DUBIOUSDISC]
+Name = Disco Dubbio
+NamePlural = Dischi Dubbio
+Pocket = 1
+Price = 3000
+SellPrice = 1000
+BPPrice = 5
+Flags = Fling_50
+Description = Un dispositivo trasparente pieno di dati sospetti. Il produttore è sconosciuto.
+#-------------------------------
+[PROTECTOR]
+Name = Copertura
+NamePlural = Coperture
+Pocket = 1
+Price = 3000
+SellPrice = 1000
+BPPrice = 5
+Flags = Fling_80
+Description = Un oggetto protettivo estremamente rigido e pesante. È molto amato da un certo Pokémon.
+#-------------------------------
+[ELECTIRIZER]
+Name = Elettrizzatore
+NamePlural = Elettrizzatori
+Pocket = 1
+Price = 3000
+SellPrice = 1000
+BPPrice = 5
+Flags = Fling_80
+Description = Un dispositivo carico di una quantità enorme di energia elettrica. È molto amato da un certo Pokémon.
+#-------------------------------
+[MAGMARIZER]
+Name = Magmatore
+NamePlural = Magmatori
+Pocket = 1
+Price = 3000
+SellPrice = 1000
+BPPrice = 5
+Flags = Fling_80
+Description = Un dispositivo carico di una quantità enorme di energia magmatica. È molto amato da un certo Pokémon.
+#-------------------------------
+[REAPERCLOTH]
+Name = Copertura
+NamePlural = Coperture
+PortionName = scrap of Reaper Cloth
+PortionNamePlural = scraps of Reaper Cloth
+Pocket = 1
+Price = 3000
+SellPrice = 1000
+BPPrice = 5
+Flags = Fling_10
+Description = Un tessuto intriso di un'energia spirituale terrificante. È molto amato da un certo Pokémon.
+#-------------------------------
+[PRISMSCALE]
+Name = Squama Bella
+NamePlural = Squame Belle
+Pocket = 1
+Price = 3000
+SellPrice = 1000
+BPPrice = 10
+Flags = Fling_30
+Description = Una misteriosa squama che fa evolvere certi Pokémon. Brilla con i colori dell'arcobaleno.
+#-------------------------------
+[OVALSTONE]
+Name = Pietraovale
+NamePlural = Pietreovali
+Pocket = 1
+Price = 3000
+SellPrice = 1000
+BPPrice = 5
+Flags = Fling_80
+Description = Una pietra particolare che fa evolvere alcune specie di Pokémon. Ha la forma di un uovo.
+#-------------------------------
+[WHIPPEDDREAM]
+Name = Dolcedipanna
+NamePlural = Dolcidipanna
+PortionName = dollop of Whipped Dream
+PortionNamePlural = dollops of Whipped Dream
+Pocket = 1
+Price = 3000
+SellPrice = 1000
+BPPrice = 5
+Flags = Fling_80
+Description = Un dolcetto soffice fatto di panna montata e soffice. È molto amato da un certo Pokémon.
+#-------------------------------
+[SACHET]
+Name = Bustina profumata
+NamePlural = Bustine profumate
+Pocket = 1
+Price = 3000
+SellPrice = 1000
+BPPrice = 5
+Flags = Fling_80
+Description = Una bustina piena di profumi intensi e quasi stordenti. Eppure è molto amata da un certo Pokémon.
+#-------------------------------
+[STRAWBERRYSWEET]
+Name = Zuccherino Fragola
+NamePlural = Zuccherini Fragola
+Pocket = 1
+Price = 500
+BPPrice = 5
+Flags = Fling_10
+Description = Un dolcetto a forma di fragola. Se dato a un Milcery, lo farà roteare allegramente.
+#-------------------------------
+[LOVESWEET]
+Name = Zuccherino Cuore
+NamePlural = Zuccherini Cuore
+Pocket = 1
+Price = 500
+BPPrice = 5
+Flags = Fling_10
+Description = Un dolcetto a forma di cuore. Se dato a un Milcery, lo farà roteare allegramente.
+#-------------------------------
+[BERRYSWEET]
+Name = Zuccherino Bacca
+NamePlural = Zuccherini Bacca
+Pocket = 1
+Price = 500
+BPPrice = 5
+Flags = Fling_10
+Description = Un dolcetto a forma di bacca. Se dato a un Milcery, lo farà roteare allegramente.
+#-------------------------------
+[CLOVERSWEET]
+Name = Zuccherino Trifoglio
+NamePlural = Zuccherini Trifoglio
+Pocket = 1
+Price = 500
+BPPrice = 5
+Flags = Fling_10
+Description = Un dolcetto a forma di trifoglio. Se dato a un Milcery, lo farà roteare allegramente.
+#-------------------------------
+[FLOWERSWEET]
+Name = Zuccherino Fiore
+NamePlural = Zuccherini Fiore
+Pocket = 1
+Price = 500
+BPPrice = 5
+Flags = Fling_10
+Description = Un dolcetto a forma di fiore. Se dato a un Milcery, lo farà roteare allegramente.
+#-------------------------------
+[STARSWEET]
+Name = Zuccherino Stella
+NamePlural = Zuccherini Stella
+Pocket = 1
+Price = 500
+BPPrice = 5
+Flags = Fling_10
+Description = Un dolcetto a forma di stella. Se dato a un Milcery, lo farà roteare allegramente.
+#-------------------------------
+[RIBBONSWEET]
+Name = Zuccherino Fiocco
+NamePlural = Zuccherini Fiocco
+Pocket = 1
+Price = 500
+BPPrice = 5
+Flags = Fling_10
+Description = Un dolcetto a forma di fiocco. Se dato a un Milcery, lo farà roteare allegramente.
+#-------------------------------
+[VENUSAURITE]
+Name = Venusaurite
+NamePlural = Venusauriti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[CHARIZARDITEX]
+Name = Charizardite X
+NamePlural = Charizarditi X
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[CHARIZARDITEY]
+Name = Charizardite Y
+NamePlural = Charizarditi Y
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[BLASTOISINITE]
+Name = Blastoisinite
+NamePlural = Blastoisiniti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[BEEDRILLITE]
+Name = Beedrillite
+NamePlural = Beedrilliti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[PIDGEOTITE]
+Name = Pidgeotite
+NamePlural = Pidgeotiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[ALAKAZITE]
+Name = Alakazite
+NamePlural = Alakaziti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[SLOWBRONITE]
+Name = Slowbronite
+NamePlural = Slowbroniti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[GENGARITE]
+Name = Gengarite
+NamePlural = Gengariti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[KANGASKHANITE]
+Name = Kangaskhanite
+NamePlural = Kangaskhaniti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[PINSIRITE]
+Name = Pinsirite
+NamePlural = Pinsiriti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[GYARADOSITE]
+Name = Gyaradosite
+NamePlural = Gyaradositi
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[AERODACTYLITE]
+Name = Aerodactylite
+NamePlural = Aerodactyliti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[MEWTWONITEX]
+Name = Mewtwonite X
+NamePlural = Mewtwoniti X
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[MEWTWONITEY]
+Name = Mewtwonite Y
+NamePlural = Mewtwoniti Y
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[AMPHAROSITE]
+Name = Ampharosite
+NamePlural = Ampharositi
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[STEELIXITE]
+Name = Steelixite
+NamePlural = Steelixiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[SCIZORITE]
+Name = Scizorite
+NamePlural = Scizoriti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[HERACRONITE]
+Name = Heracronite
+NamePlural = Heracroniti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[HOUNDOOMINITE]
+Name = Houndoominite
+NamePlural = Houndoominiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[TYRANITARITE]
+Name = Tyranitarite
+NamePlural = Tyranitariti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[SCEPTILITE]
+Name = Sceptilite
+NamePlural = Sceptiliti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[BLAZIKENITE]
+Name = Blazikenite
+NamePlural = Blazikeniti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[SWAMPERTITE]
+Name = Swampertite
+NamePlural = Swampertiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[GARDEVOIRITE]
+Name = Gardevoirite
+NamePlural = Gardevoiriti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[SABLENITE]
+Name = Sablenite
+NamePlural = Sableniti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[MAWILITE]
+Name = Mawilite
+NamePlural = Mawiliti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[AGGRONITE]
+Name = Aggronite
+NamePlural = Aggroniti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[MEDICHAMITE]
+Name = Medichamite
+NamePlural = Medichamiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[MANECTITE]
+Name = Manectite
+NamePlural = Manectiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[SHARPEDONITE]
+Name = Sharpedonite
+NamePlural = Sharpedoniti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[CAMERUPTITE]
+Name = Cameruptite
+NamePlural = Cameruptiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[ALTARIANITE]
+Name = Altarianite
+NamePlural = Altarianiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[BANETTITE]
+Name = Banettite
+NamePlural = Banettiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[ABSOLITE]
+Name = Absolite
+NamePlural = Absoliti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[GLALITITE]
+Name = Glalitite
+NamePlural = Glalititi
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[SALAMENCITE]
+Name = Salamencite
+NamePlural = Salamenciti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[METAGROSSITE]
+Name = Metagrossite
+NamePlural = Metagrossiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[LATIASITE]
+Name = Latiasite
+NamePlural = Latiasiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[LATIOSITE]
+Name = Latiosite
+NamePlural = Latiositi
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[LOPUNNITE]
+Name = Lopunnite
+NamePlural = Lopunniti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[GARCHOMPITE]
+Name = Garchompite
+NamePlural = Garchompiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[LUCARIONITE]
+Name = Lucarionite
+NamePlural = Lucarioniti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[ABOMASITE]
+Name = Abomasite
+NamePlural = Abomasiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[GALLADITE]
+Name = Galladite
+NamePlural = Galladiti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[AUDINITE]
+Name = Audinite
+NamePlural = Audiniti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[DIANCITE]
+Name = Diancite
+NamePlural = Dianciti
+Pocket = 1
+Price = 0
+BPPrice = 50
+Flags = MegaStone,Fling_80
+Description = Una delle numerose e misteriose Megapietre.
+#-------------------------------
+[REDORB]
+Name = Sfera Rossa
+NamePlural = Sfere Rosse
+Pocket = 1
+Price = 10000
+SellPrice = 0
+BPPrice = 50
+Description = Una sfera di un rosso brillante, legata a un'antica leggenda della regione di Hoenn.
+#-------------------------------
+[BLUEORB]
+Name = Sfera Blu
+NamePlural = Sfere Blu
+Pocket = 1
+Price = 10000
+SellPrice = 0
+BPPrice = 50
+Description = Una sfera di un blu brillante, legata a un'antica leggenda della regione di Hoenn.
+#-------------------------------
+[POTION]
+Name = Pozione
+NamePlural = Pozioni
+Pocket = 2
+Price = 200
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Medicina spray che cura le ferite. Fa recuperare 20 PS a un Pokémon.
+#-------------------------------
+[SUPERPOTION]
+Name = Superpozione
+NamePlural = Superpozioni
+Pocket = 2
+Price = 700
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Medicina spray che cura le ferite. Fa recuperare 60 PS a un Pokémon.
+#-------------------------------
+[HYPERPOTION]
+Name = Iperpozione
+NamePlural = Iperpozioni
+Pocket = 2
+Price = 1500
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Medicina spray che cura le ferite. Fa recuperare 120 PS a un Pokémon.
+#-------------------------------
+[MAXPOTION]
+Name = Pozione Max
+NamePlural = Pozioni Max
+Pocket = 2
+Price = 2500
+BPPrice = 2
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Medicina spray che cura le ferite. Fa recuperare completamente i PS di un Pokémon.
+#-------------------------------
+[FULLRESTORE]
+Name = Ricarica Totale
+NamePlural = Ricariche Totali
+Pocket = 2
+Price = 3000
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Medicina che rigenera tutti i PS e cura tutti i problemi di stato di un Pokémon.
+#-------------------------------
+[SACREDASH]
+Name = Ceneremagica
+NamePlural = Cenerimagiche
+PortionName = ampolla di Ceneremagica
+PortionNamePlural = ampolle di Ceneremagica
+Pocket = 2
+Price = 50000
+FieldUse = Direct
+Flags = Fling_30
+Description = Rivitalizza tutti i Pokémon esausti, ripristinandone completamente i PS.
+#-------------------------------
+[AWAKENING]
+Name = Sveglia
+NamePlural = Sveglie
+Pocket = 2
+Price = 200
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Medicina spray che serve a svegliare un Pokémon dal sonno.
+#-------------------------------
+[ANTIDOTE]
+Name = Antidoto
+NamePlural = Antidoti
+Pocket = 2
+Price = 200
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Medicina spray che cura un Pokémon dal veleno.
+#-------------------------------
+[BURNHEAL]
+Name = Antiscotto
+NamePlural = Antiscotti
+Pocket = 2
+Price = 200
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Medicina spray che cura un Pokémon da una scottatura.
+#-------------------------------
+[PARALYZEHEAL]
+Name = Antiparalisi
+NamePlural = Antiparalisi
+Pocket = 2
+Price = 200
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Medicina spray che cura un Pokémon dalla paralisi.
+#-------------------------------
+[ICEHEAL]
+Name = Antigelo
+NamePlural = Antigeli
+Pocket = 2
+Price = 200
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Medicina spray che serve a scongelare un Pokémon.
+#-------------------------------
+[FULLHEAL]
+Name = Cura Totale
+NamePlural = Cure Totali
+Pocket = 2
+Price = 400
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Medicina spray che cura tutti i problemi di stato di un Pokémon.
+#-------------------------------
+[PEWTERCRUNCHIES]
+Name = Croccopoli
+NamePlural = Croccopoli
+PortionName = sacchetto di Croccopoli
+PortionNamePlural = sacchetti di Croccopoli
+Pocket = 2
+Price = 250
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Il famoso snack croccante di Plumbeopoli. Cura tutti i problemi di stato di un Pokémon.
+#-------------------------------
+[RAGECANDYBAR]
+Name = Iramella
+NamePlural = Iramelle
+Pocket = 2
+Price = 350
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Il celebre dolce di Mogania. Cura tutti i problemi di stato di un Pokémon.
+#-------------------------------
+[LAVACOOKIE]
+Name = Lavafrollino
+NamePlural = Lavafrollini
+Pocket = 2
+Price = 350
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Specialità locale di Brunifoglia. Cura tutti i problemi di stato di un Pokémon.
+#-------------------------------
+[OLDGATEAU]
+Name = Dolce Gateau
+NamePlural = Dolci Gateaux
+Pocket = 2
+Price = 350
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Specialità tipica dell'Antico Castello. Cura tutti i problemi di stato di un Pokémon.
+#-------------------------------
+[CASTELIACONE]
+Name = Conostropoli
+NamePlural = Conostropoli
+Pocket = 2
+Price = 350
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Famoso gelato di Austropoli. Cura tutti i problemi di stato di un Pokémon.
+#-------------------------------
+[LUMIOSEGALETTE]
+Name = Pan di Lumiose
+NamePlural = Pan di Lumiose
+Pocket = 2
+Price = 350
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Famoso dolce di Luminopoli. Cura tutti i problemi di stato di un Pokémon.
+#-------------------------------
+[SHALOURSABLE]
+Name = frollino di Yantaropoli
+NamePlural = frollini di Yantaropoli
+Pocket = 2
+Price = 350
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Il celebre frollino di Yantaropoli. Cura tutti i problemi di stato di un Pokémon.
+#-------------------------------
+[BIGMALASADA]
+Name = Malasada max
+NamePlural = Malasade max
+Pocket = 2
+Price = 350
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Famoso dolce fritto di Alola. Cura tutti i problemi di stato di un Pokémon.
+#-------------------------------
+[REVIVE]
+Name = Revitalizzante
+NamePlural = Revitalizzanti
+Pocket = 2
+Price = 2000
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Medicina che rianima un Pokémon esausto, ripristinando metà dei suoi PS massimi.
+#-------------------------------
+[MAXREVIVE]
+Name = Revitalizzante Max
+NamePlural = Revitalizzanti Max
+Pocket = 2
+Price = 4000
+BPPrice = 20
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Medicina che rianima un Pokémon esausto, ripristinando completamente i suoi PS massimi.
+#-------------------------------
+[BERRYJUICE]
+Name = Succodibacca
+NamePlural = Succodibacca
+PortionName = bicchiere di Succodibacca
+PortionNamePlural = bicchieri di Succodibacca
+Pocket = 2
+Price = 100
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Succo puro al 100% ricavato dalle Bacche. Restituisce 20 PS a un Pokémon.
+#-------------------------------
+[SWEETHEART]
+Name = Dolcecuore
+NamePlural = Dolcecuori
+Pocket = 2
+Price = 3000
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Un cioccolato molto dolce. Restituisce 20 PS a un Pokémon.
+#-------------------------------
+[FRESHWATER]
+Name = Acqua Fresca
+NamePlural = Acque Fresche
+PortionName = bottiglia di Acqua Fresca
+PortionNamePlural = bottiglie di Acqua Fresca
+Pocket = 2
+Price = 200
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Acqua ad alto contenuto minerale. Restituisce 30 PS a un Pokémon.
+#-------------------------------
+[SODAPOP]
+Name = Soda
+NamePlural = Sode
+PortionName = bottiglia di Soda
+PortionNamePlural = bottiglie di Soda
+Pocket = 2
+Price = 300
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Una bevanda molto frizzante. Restituisce 50 PS a un Pokémon.
+#-------------------------------
+[LEMONADE]
+Name = Lemonsucco
+NamePlural = Lemonsucchi
+PortionName = lattina di Lemonsucco
+PortionNamePlural = lattine di Lemonsucco
+Pocket = 2
+Price = 350
+SellPrice = 200
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Una bevanda dolce e rinfrescante. Restituisce 70 PS a un Pokémon.
+#-------------------------------
+[MOOMOOMILK]
+Name = Latte Mumu
+NamePlural = Latti Mumu
+PortionName = bottiglia di Latte Mumu
+PortionNamePlural = bottiglie di Latte Mumu
+Pocket = 2
+Price = 600
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Latte molto nutriente che restituisce 100 PS a un Pokémon.
+#-------------------------------
+[ENERGYPOWDER]
+Name = Polvenergia
+NamePlural = Polvenergie
+PortionName = dose di Polvenergia
+PortionNamePlural = dosi di Polvenergia
+Pocket = 2
+Price = 500
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Una polvere medicinale molto amara. Restituisce 60 PS a un Pokémon.
+#-------------------------------
+[ENERGYROOT]
+Name = Radicenergia
+NamePlural = Radicenergie
+Pocket = 2
+Price = 1200
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Una radice medicinale estremamente amara. Restituisce 120 PS a un Pokémon.
+#-------------------------------
+[HEALPOWDER]
+Name = Polvocura
+NamePlural = Polvocure
+PortionName = dose di Polvocura
+PortionNamePlural = dosi di Polvocura
+Pocket = 2
+Price = 300
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Una polvere medicinale molto amara. Cura tutti i problemi di stato di un Pokémon.
+#-------------------------------
+[REVIVALHERB]
+Name = Erba Vita
+NamePlural = Erbe Vita
+Pocket = 2
+Price = 2800
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Un'erba medicinale molto amara. Rianima un Pokémon esausto ripristinando tutti i suoi PS.
+#-------------------------------
+[MAXHONEY]
+Name = Miele Max
+NamePlural = Mieli Max
+PortionName = favo di Miele Max
+PortionNamePlural = favi di Miele Max
+Pocket = 2
+Price = 8000
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Miele prodotto da Vespiquen Dynamax. Ha lo stesso effetto di un Revitalizzante Max.
+#-------------------------------
+[ETHER]
+Name = Etere
+NamePlural = Eteri
+Pocket = 2
+Price = 1200
+BPPrice = 4
+FieldUse = OnPokemon
+BattleUse = OnMove
+Flags = Fling_30
+Description = Ripristina al massimo 10 PP di una mossa a scelta di un Pokémon.
+#-------------------------------
+[MAXETHER]
+Name = Etere Max
+NamePlural = Eteri Max
+Pocket = 2
+Price = 2000
+FieldUse = OnPokemon
+BattleUse = OnMove
+Flags = Fling_30
+Description = Ripristina interamente i PP di una mossa a scelta di un Pokémon.
+#-------------------------------
+[ELIXIR]
+Name = Elisir
+NamePlural = Elisir
+Pocket = 2
+Price = 3000
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Ripristina 10 PP di tutte le mosse di un Pokémon.
+#-------------------------------
+[MAXELIXIR]
+Name = Elisir Max
+NamePlural = Elisir Max
+Pocket = 2
+Price = 4500
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Description = Ripristina interamente i PP di tutte le mosse di un Pokémon.
+#-------------------------------
+[PPUP]
+Name = PP-Su
+NamePlural = PP-Su
+PortionName = flacone di PP-Su
+PortionNamePlural = flaconi di PP-Su
+Pocket = 2
+Price = 10000
+BPPrice = 10
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Aumenta leggermente i PP massimi di una mossa a scelta di un Pokémon.
+#-------------------------------
+[PPMAX]
+Name = PP-Max
+NamePlural = PP-Max
+PortionName = flacone di PP-Max
+PortionNamePlural = flaconi di PP-Max
+Pocket = 2
+Price = 10000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Porta al limite massimo i PP di una mossa a scelta di un Pokémon.
+#-------------------------------
+[HPUP]
+Name = PS-Su
+NamePlural = PS-Su
+PortionName = flacone di PS-Su
+PortionNamePlural = flaconi di PS-Su
+Pocket = 2
+Price = 10000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Bevanda nutriente che aumenta i PS di base di un Pokémon.
+#-------------------------------
+[PROTEIN]
+Name = Proteina
+NamePlural = Proteine
+PortionName = flacone di Proteina
+PortionNamePlural = flaconi di Proteine
+Pocket = 2
+Price = 10000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Bevanda nutriente che aumenta l'Attacco di base di un Pokémon.
+#-------------------------------
+[IRON]
+Name = Ferro
+NamePlural = Ferri
+PortionName = flacone di Ferro
+PortionNamePlural = flaconi di Ferro
+Pocket = 2
+Price = 10000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Bevanda nutriente che aumenta la Difesa di base di un Pokémon.
+#-------------------------------
+[CALCIUM]
+Name = Calcio
+NamePlural = Calci
+PortionName = flacone di Calcio
+PortionNamePlural = flaconi di Calcio
+Pocket = 2
+Price = 10000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Bevanda nutriente che aumenta l'Attacco Speciale di base di un Pokémon.
+#-------------------------------
+[ZINC]
+Name = Zinco
+NamePlural = Zinchi
+PortionName = flacone di Zinco
+PortionNamePlural = flaconi di Zinco
+Pocket = 2
+Price = 10000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Bevanda nutriente che aumenta la Difesa Speciale di base di un Pokémon.
+#-------------------------------
+[CARBOS]
+Name = Carburante
+NamePlural = Carburanti
+PortionName = flacone di Carburante
+PortionNamePlural = flaconi di Carburante
+Pocket = 2
+Price = 10000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Bevanda nutriente che aumenta la Velocità di base di un Pokémon.
+#-------------------------------
+[HEALTHFEATHER]
+Name = Piumabella
+NamePlural = Piumebelle
+Pocket = 2
+Price = 300
+FieldUse = OnPokemon
+Flags = Fling_20
+Description = Piuma che aumenta leggermente i PS di base di un Pokémon.
+#-------------------------------
+[MUSCLEFEATHER]
+Name = Piumapotenza
+NamePlural = Piumepotenza
+Pocket = 2
+Price = 300
+FieldUse = OnPokemon
+Flags = Fling_20
+Description = Piuma che aumenta leggermente l'Attacco di base di un Pokémon.
+#-------------------------------
+[RESISTFEATHER]
+Name = Piumafesa
+NamePlural = Piumefesa
+Pocket = 2
+Price = 300
+FieldUse = OnPokemon
+Flags = Fling_20
+Description = Piuma che aumenta leggermente la Difesa di base di un Pokémon.
+#-------------------------------
+[GENIUSFEATHER]
+Name = Piumamente
+NamePlural = Piumemente
+Pocket = 2
+Price = 300
+FieldUse = OnPokemon
+Flags = Fling_20
+Description = Piuma che aumenta leggermente l'Attacco Speciale di base di un Pokémon.
+#-------------------------------
+[CLEVERFEATHER]
+Name = Piumasaggia
+NamePlural = Piumesagge
+Pocket = 2
+Price = 300
+FieldUse = OnPokemon
+Flags = Fling_20
+Description = Piuma che aumenta leggermente la Difesa Speciale di base di un Pokémon.
+#-------------------------------
+[SWIFTFEATHER]
+Name = Piumasprint
+NamePlural = Piumesprint
+Pocket = 2
+Price = 300
+FieldUse = OnPokemon
+Flags = Fling_20
+Description = Piuma che aumenta leggermente la Velocità di base di un Pokémon.
+#-------------------------------
+[LONELYMINT]
+Name = Menta Schiva
+NamePlural = Mente Schive
+PortionName = foglia di Menta Schiva
+PortionNamePlural = foglie di Menta Schiva
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo dell'Attacco, ma rallenta quello della Difesa.
+#-------------------------------
+[ADAMANTMINT]
+Name = Menta Decisa
+NamePlural = Mente Decise
+PortionName = foglia di Menta Decisa
+PortionNamePlural = foglie di Menta Decisa
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo dell'Attacco, ma rallenta quello dell'Attacco Speciale.
+#-------------------------------
+[NAUGHTYMINT]
+Name = Menta Birbona
+NamePlural = Mente Birbone
+PortionName = foglia di Menta Birbona
+PortionNamePlural = foglie di Menta Birbona
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo dell'Attacco, ma rallenta quello della Difesa Speciale.
+#-------------------------------
+[BRAVEMINT]
+Name = Menta Audace
+NamePlural = Mente Audaci
+PortionName = foglia di Menta Audace
+PortionNamePlural = foglie di Menta Audace
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo dell'Attacco, ma rallenta quello della Velocità.
+#-------------------------------
+[BOLDMINT]
+Name = Menta Sicura
+NamePlural = Mente Sicure
+PortionName = foglia di Menta Sicura
+PortionNamePlural = foglie di Menta Sicura
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo della Difesa, ma rallenta quello dell'Attacco.
+#-------------------------------
+[IMPISHMINT]
+Name = Menta Scaltra
+NamePlural = Mente Scaltre
+PortionName = foglia di Menta Scaltra
+PortionNamePlural = foglie di Menta Scaltra
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo della Difesa, ma rallenta quello dell'Attacco Speciale.
+#-------------------------------
+[LAXMINT]
+Name = Menta Fiacca
+NamePlural = Mente Fiacche
+PortionName = foglia di Menta Fiacca
+PortionNamePlural = foglie di Menta Fiacca
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo della Difesa, ma rallenta quello della Difesa Speciale.
+#-------------------------------
+[RELAXEDMINT]
+Name = Menta Placida
+NamePlural = Mente Placide
+PortionName = foglia di Menta Placida
+PortionNamePlural = foglie di Menta Placida
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo della Difesa, ma rallenta quello della Velocità.
+#-------------------------------
+[MODESTMINT]
+Name = Menta Modesta
+NamePlural = Mente Modeste
+PortionName = foglia di Menta Modesta
+PortionNamePlural = foglie di Menta Modesta
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo dell'Attacco Speciale, ma rallenta quello dell'Attacco.
+#-------------------------------
+[MILDMINT]
+Name = Menta Mite
+NamePlural = Mente Miti
+PortionName = foglia di Menta Mite
+PortionNamePlural = foglie di Menta Mite
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo dell'Attacco Speciale, ma rallenta quello della Difesa.
+#-------------------------------
+[RASHMINT]
+Name = Menta Ardente
+NamePlural = Mente Ardenti
+PortionName = foglia di Menta Ardente
+PortionNamePlural = foglie di Menta Ardente
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo dell'Attacco Speciale, ma rallenta quello della Difesa Speciale.
+#-------------------------------
+[QUIETMINT]
+Name = Menta Quieta
+NamePlural = Mente Quiete
+PortionName = foglia di Menta Quieta
+PortionNamePlural = foglie di Menta Quieta
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo dell'Attacco Speciale, ma rallenta quello della Velocità.
+#-------------------------------
+[CALMMINT]
+Name = Menta Calma
+NamePlural = Mente Calme
+PortionName = foglia di Menta Calma
+PortionNamePlural = foglie di Menta Calma
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo della Difesa Speciale, ma rallenta quello dell'Attacco.
+#-------------------------------
+[GENTLEMINT]
+Name = Menta Gentile
+NamePlural = Mente Gentili
+PortionName = foglia di Menta Gentile
+PortionNamePlural = foglie di Menta Gentile
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo della Difesa Speciale, ma rallenta quello della Difesa.
+#-------------------------------
+[CAREFULMINT]
+Name = Menta Cauta
+NamePlural = Mente Caute
+PortionName = foglia di Menta Cauta
+PortionNamePlural = foglie di Menta Cauta
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo della Difesa Speciale, ma rallenta quello dell'Attacco Speciale.
+#-------------------------------
+[SASSYMINT]
+Name = Menta Vivace
+NamePlural = Mente Vivaci
+PortionName = foglia di Menta Vivace
+PortionNamePlural = foglie di Menta Vivace
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo della Difesa Speciale, ma rallenta quello della Velocità.
+#-------------------------------
+[TIMIDMINT]
+Name = Menta Timida
+NamePlural = Mente Timide
+PortionName = foglia di Menta Timida
+PortionNamePlural = foglie di Menta Timida
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo della Velocità, ma rallenta quello dell'Attacco.
+#-------------------------------
+[HASTYMINT]
+Name = Menta Lesta
+NamePlural = Mente Leste
+PortionName = foglia di Menta Lesta
+PortionNamePlural = foglie di Menta Lesta
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo della Velocità, ma rallenta quello della Difesa.
+#-------------------------------
+[JOLLYMINT]
+Name = Menta Allegra
+NamePlural = Mente Allegre
+PortionName = foglia di Menta Allegra
+PortionNamePlural = foglie di Menta Allegra
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo della Velocità, ma rallenta quello dell'Attacco Speciale.
+#-------------------------------
+[NAIVEMINT]
+Name = Menta Ingenua
+NamePlural = Mente Ingenue
+PortionName = foglia di Menta Ingenua
+PortionNamePlural = foglie di Menta Ingenua
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta favorisce lo sviluppo della Velocità, ma rallenta quello della Difesa Speciale.
+#-------------------------------
+[SERIOUSMINT]
+Name = Menta Seria
+NamePlural = Mente Serie
+PortionName = foglia di Menta Seria
+PortionNamePlural = foglie di Menta Seria
+Pocket = 2
+Price = 20
+BPPrice = 50
+FieldUse = OnPokemon
+Flags = Fling_10
+Description = Il profumo di questa menta fa sì che tutte le statistiche crescano con lo stesso ritmo.
+#-------------------------------
+[ABILITYCAPSULE]
+Name = Capsula Abilità
+NamePlural = Capsule Abilità
+Pocket = 2
+Price = 10000
+BPPrice = 50
+FieldUse = OnPokemon
+Description = Una capsula che permette a un Pokémon con due Abilità di passare dall'una all'altra.
+#-------------------------------
+[ABILITYPATCH]
+Name = Cerotto Abilità
+NamePlural = Cerotti Abilità
+Pocket = 2
+Price = 10000
+BPPrice = 200
+FieldUse = OnPokemon
+Description = Un cerotto che permette a un Pokémon con un'Abilità comune di acquisire un'Abilità rara.
+#-------------------------------
+[EXPCANDYXS]
+Name = Slatatella XS
+NamePlural = Caramelle ESP XS
+Pocket = 2
+Price = 20
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Una caramella piena di energia. Conferisce a un Pokémon una piccolissima quantità di Punti Esperienza.
+#-------------------------------
+[EXPCANDYS]
+Name = Slatatella S
+NamePlural = Caramelle ESP S
+Pocket = 2
+Price = 240
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Una caramella piena di energia. Conferisce a un Pokémon una piccola quantità di Punti Esperienza.
+#-------------------------------
+[EXPCANDYM]
+Name = Slatatella M
+NamePlural = Caramelle ESP M
+Pocket = 2
+Price = 1000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Una caramella piena di energia. Conferisce a un Pokémon una discreta quantità di Punti Esperienza.
+#-------------------------------
+[EXPCANDYL]
+Name = Slatatella L
+NamePlural = Caramelle ESP L
+Pocket = 2
+Price = 3000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Una caramella piena di energia. Conferisce a un Pokémon una grande quantità di Punti Esperienza.
+#-------------------------------
+[EXPCANDYXL]
+Name = Slatatella XL
+NamePlural = Caramelle ESP XL
+Pocket = 2
+Price = 10000
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Una caramella piena di energia. Conferisce a un Pokémon una grandissima quantità di Punti Esperienza.
+#-------------------------------
+[RARECANDY]
+Name = Caramella Rara
+NamePlural = Caramelle Rare
+Pocket = 2
+Price = 10000
+BPPrice = 20
+FieldUse = OnPokemon
+Flags = Fling_30
+Description = Una caramella piena di energia che aumenta di uno il livello di un Pokémon.
+#-------------------------------
+[MASTERBALL]
+Name = Master Ball
+NamePlural = Master Ball
+Pocket = 3
+Price = 0
+BattleUse = OnFoe
+Flags = PokeBall
+Description = La migliore delle Ball. Cattura qualsiasi Pokémon selvatico senza mai fallire.
+#-------------------------------
+[ULTRABALL]
+Name = Ultra Ball
+NamePlural = Ultra Ball
+Pocket = 3
+Price = 800
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Ball dalle prestazioni eccellenti, con un tasso di cattura superiore a quello della Mega Ball.
+#-------------------------------
+[GREATBALL]
+Name = Mega Ball
+NamePlural = Mega Ball
+Pocket = 3
+Price = 600
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Ball dalle prestazioni elevate, con un tasso di cattura superiore a quello della Poké Ball.
+#-------------------------------
+[POKEBALL]
+Name = Poké Ball
+NamePlural = Poké Ball
+Pocket = 3
+Price = 200
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Strumento a forma di capsula per catturare i Pokémon selvatici. Si lancia come una palla.
+#-------------------------------
+[SAFARIBALL]
+Name = Safari Ball
+NamePlural = Safari Ball
+Pocket = 3
+Price = 0
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball speciale decorata con un motivo mimetico, usabile solo nella Zona Safari.
+#-------------------------------
+[SPORTBALL]
+Name = Gara Ball
+NamePlural = Gara Ball
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball speciale usata durante la Gara Pigliamosche.
+#-------------------------------
+[NETBALL]
+Name = Rete Ball
+NamePlural = Rete Ball
+Pocket = 3
+Price = 1000
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball un po' diversa, particolarmente efficace con i Pokémon di tipo Acqua e Coleottero.
+#-------------------------------
+[DIVEBALL]
+Name = Sub Ball
+NamePlural = Sub Ball
+Pocket = 3
+Price = 1000
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball un po' diversa, particolarmente efficace con i Pokémon che vivono sott'acqua.
+#-------------------------------
+[NESTBALL]
+Name = Minor Ball
+NamePlural = Minor Ball
+Pocket = 3
+Price = 1000
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball un po' diversa, particolarmente efficace con i Pokémon selvatici più deboli.
+#-------------------------------
+[REPEATBALL]
+Name = Bis Ball
+NamePlural = Bis Ball
+Pocket = 3
+Price = 1000
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball un po' diversa, particolarmente efficace con specie di Pokémon già catturate in precedenza.
+#-------------------------------
+[TIMERBALL]
+Name = Timer Ball
+NamePlural = Timer Ball
+Pocket = 3
+Price = 1000
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball un po' diversa, la cui efficacia aumenta con il passare dei turni della lotta.
+#-------------------------------
+[LUXURYBALL]
+Name = Friend Ball
+NamePlural = Friend Ball
+Pocket = 3
+Price = 3000
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball molto accogliente che rende i Pokémon catturati più amichevoli in poco tempo.
+#-------------------------------
+[PREMIERBALL]
+Name = Premier Ball
+NamePlural = Premier Ball
+Pocket = 3
+Price = 200
+SellPrice = 10
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball piuttosto rara, prodotta per commemorare un evento particolare.
+#-------------------------------
+[DUSKBALL]
+Name = Scuro Ball
+NamePlural = Scuro Ball
+Pocket = 3
+Price = 1000
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball un po' diversa, che facilita la cattura di Pokémon selvatici di notte o in luoghi bui.
+#-------------------------------
+[HEALBALL]
+Name = Cura Ball
+NamePlural = Cura Ball
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Ball che rigenera i PS del Pokémon catturato e ne cura i problemi di stato.
+#-------------------------------
+[QUICKBALL]
+Name = Velociball
+NamePlural = Velociball
+Pocket = 3
+Price = 1000
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball un po' diversa, molto efficace se usata all'inizio di un incontro con un Pokémon selvatico.
+#-------------------------------
+[CHERISHBALL]
+Name = Pregio Ball
+NamePlural = Pregio Ball
+Pocket = 3
+Price = 0
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball molto rara, creata per commemorare un'occasione speciale.
+#-------------------------------
+[FASTBALL]
+Name = Rapid Ball
+NamePlural = Rapid Ball
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball che facilita la cattura dei Pokémon più veloci.
+#-------------------------------
+[LEVELBALL]
+Name = Level Ball
+NamePlural = Level Ball
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball per catturare Pokémon di livello inferiore rispetto a quello del proprio Pokémon in campo.
+#-------------------------------
+[LUREBALL]
+Name = Esca Ball
+NamePlural = Esca Ball
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball per catturare Pokémon pescati con l'Amo.
+#-------------------------------
+[HEAVYBALL]
+Name = Peso Ball
+NamePlural = Peso Ball
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball ideale per catturare i Pokémon molto pesanti.
+#-------------------------------
+[LOVEBALL]
+Name = Love Ball
+NamePlural = Love Ball
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball per catturare Pokémon di sesso opposto rispetto al proprio.
+#-------------------------------
+[FRIENDBALL]
+Name = Amico Ball
+NamePlural = Amico Ball
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball che rende i Pokémon appena catturati più amichevoli.
+#-------------------------------
+[MOONBALL]
+Name = Luna Ball
+NamePlural = Luna Ball
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball per catturare i Pokémon che si evolvono con la Pietralunare.
+#-------------------------------
+[DREAMBALL]
+Name = Dream Ball
+NamePlural = Dream Ball
+Pocket = 3
+Price = 300
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una Poké Ball un po' diversa, che facilita la cattura di Pokémon addormentati.
+#-------------------------------
+[BEASTBALL]
+Name = UC Ball
+NamePlural = UC Ball
+Pocket = 3
+Price = 1000
+BattleUse = OnFoe
+Flags = PokeBall
+Description = Una speciale Poké Ball progettata per catturare le Ultracreature. Poco efficace con gli altri Pokémon.
+#-------------------------------
+[TM01]
+Name = MT01
+NamePlural = MT01
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_150
+Move = FOCUSPUNCH
+Description = Chi la usa si concentra prima di sferrare un pugno. Fallisce se l'utilizzatore viene colpito prima.
+#-------------------------------
+[TM02]
+Name = MT02
+NamePlural = MT02
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_80
+Move = DRAGONCLAW
+Description = Il Pokémon attacca il bersaglio con artigli affilati.
+#-------------------------------
+[TM03]
+Name = MT03
+NamePlural = MT03
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_60
+Move = WATERPULSE
+Description = Il Pokémon attacca con un getto d'acqua pulsante che può confondere il bersaglio.
+#-------------------------------
+[TM04]
+Name = MT04
+NamePlural = MT04
+Pocket = 4
+Price = 1500
+BPPrice = 48
+FieldUse = TR
+Flags = Fling_10
+Move = CALMMIND
+Description = Il Pokémon si concentra e calma lo spirito per aumentare l'Attacco Speciale e la Difesa Speciale.
+#-------------------------------
+[TM05]
+Name = MT05
+NamePlural = MT05
+Pocket = 4
+Price = 1000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = ROAR
+Description = Spaventa il bersaglio facendolo fuggire. In campo scende un altro Pokémon. Nelle lotte selvatiche termina la sfida.
+#-------------------------------
+[TM06]
+Name = MT06
+NamePlural = MT06
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = TOXIC
+Description = Iperavvelena il bersaglio con una tossina che causa danni sempre maggiori a ogni turno.
+#-------------------------------
+[TM07]
+Name = MT07
+NamePlural = MT07
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = HAIL
+Description = Evoca una tempesta di grandine che dura cinque turni e colpisce tutti i Pokémon, tranne quelli di tipo Ghiaccio.
+#-------------------------------
+[TM08]
+Name = MT08
+NamePlural = MT08
+Pocket = 4
+Price = 1500
+BPPrice = 48
+FieldUse = TR
+Flags = Fling_10
+Move = BULKUP
+Description = Il Pokémon gonfia i muscoli aumentando l'Attacco e la Difesa.
+#-------------------------------
+[TM09]
+Name = MT09
+NamePlural = MT09
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_25
+Move = BULLETSEED
+Description = Il Pokémon spara da due a five raffiche di semi contro il bersaglio.
+#-------------------------------
+[TM10]
+Name = MT10
+NamePlural = MT10
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = WORKUP
+Description = Chi la usa si scalda, aumentando il proprio Attacco e Attacco Speciale.
+#-------------------------------
+[TM11]
+Name = MT11
+NamePlural = MT11
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = SUNNYDAY
+Description = Intensifica i raggi solari per cinque turni, potenziando le mosse di tipo Fuoco e indebolendo quelle di tipo Acqua.
+#-------------------------------
+[TM12]
+Name = MT12
+NamePlural = MT12
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = TAUNT
+Description = Il bersaglio è provocato e può usare solo mosse d'attacco per tre turni.
+#-------------------------------
+[TM13]
+Name = MT13
+NamePlural = MT13
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_90
+Move = ICEBEAM
+Description = Il bersaglio viene colpito da un raggio di energia gelida. Può anche congelarlo.
+#-------------------------------
+[TM14]
+Name = MT14
+NamePlural = MT14
+Pocket = 4
+Price = 5500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_110
+Move = BLIZZARD
+Description = Una violenta tempesta di neve si abbatte sui nemici. Può anche congelarli.
+#-------------------------------
+[TM15]
+Name = MT15
+NamePlural = MT15
+Pocket = 4
+Price = 7500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_150
+Move = HYPERBEAM
+Description = Il bersaglio viene colpito da un potente raggio. Chi la usa deve riposarsi nel turno successivo.
+#-------------------------------
+[TM16]
+Name = MT16
+NamePlural = MT16
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = LIGHTSCREEN
+Description = Un muro di luce riduce i danni degli attacchi speciali per cinque turni.
+#-------------------------------
+[TM17]
+Name = MT17
+NamePlural = MT17
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = PROTECT
+Description = Protegge l'utilizzatore da tutti gli attacchi. Può fallire se usata in successione.
+#-------------------------------
+[TM18]
+Name = MT18
+NamePlural = MT18
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = RAINDANCE
+Description = Evoca una fitta pioggia per cinque turni, potenziando le mosse di tipo Acqua e indebolendo quelle di tipo Fuoco.
+#-------------------------------
+[TM19]
+Name = MT19
+NamePlural = MT19
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_75
+Move = GIGADRAIN
+Description = Un attacco che assorbe nutrienti. Chi la usa recupera metà dei danni inflitti al bersaglio.
+#-------------------------------
+[TM20]
+Name = MT20
+NamePlural = MT20
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = SAFEGUARD
+Description = Crea un campo protettivo che impedisce i problemi di stato per cinque turni.
+#-------------------------------
+[TM21]
+Name = MT21
+NamePlural = MT21
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_80
+Move = DAZZLINGGLEAM
+Description = Il Pokémon colpisce i nemici con una luce accecante.
+#-------------------------------
+[TM22]
+Name = MT22
+NamePlural = MT22
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_120
+Move = SOLARBEAM
+Description = In questo attacco a due turni, il Pokémon accumula luce per poi sprigionarla nel turno successivo.
+#-------------------------------
+[TM23]
+Name = MT23
+NamePlural = MT23
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_100
+Move = IRONTAIL
+Description = Il bersaglio viene colpito da una coda d'acciaio. Può anche ridurne la Difesa.
+#-------------------------------
+[TM24]
+Name = MT24
+NamePlural = MT24
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_90
+Move = THUNDERBOLT
+Description = Una potente scarica elettrica colpisce il bersaglio. Può anche paralizzarlo.
+#-------------------------------
+[TM25]
+Name = MT25
+NamePlural = MT25
+Pocket = 4
+Price = 5500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_110
+Move = THUNDER
+Description = Un fulmine spaventoso cade sul bersaglio. Può anche paralizzarlo.
+#-------------------------------
+[TM26]
+Name = MT26
+NamePlural = MT26
+Pocket = 4
+Price = 3000
+BPPrice = 80
+FieldUse = TR
+Flags = Fling_100
+Move = EARTHQUAKE
+Description = Chi la usa scatena un terremoto che colpisce tutti i Pokémon circostanti.
+#-------------------------------
+[TM27]
+Name = MT27
+NamePlural = MT27
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_65
+Move = LOWSWEEP
+Description = Un attacco rapido alle gambe del bersaglio che ne riduce la Velocità.
+#-------------------------------
+[TM28]
+Name = MT28
+NamePlural = MT28
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_80
+Move = DIG
+Description = Il Pokémon scava un tunnel e attacca nel turno successivo. Si può usare per uscire dalle grotte.
+#-------------------------------
+[TM29]
+Name = MT29
+NamePlural = MT29
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_90
+Move = PSYCHIC
+Description = Il bersaglio viene colpito da una potente forza telecinetica. Può anche ridurne la Difesa Speciale.
+#-------------------------------
+[TM30]
+Name = MT30
+NamePlural = MT30
+Pocket = 4
+Price = 3000
+BPPrice = 64
+FieldUse = TR
+Flags = Fling_80
+Move = SHADOWBALL
+Description = Il Pokémon lancia una sfera d'ombra. Può anche ridurre la Difesa Speciale del bersaglio.
+#-------------------------------
+[TM31]
+Name = MT31
+NamePlural = MT31
+Pocket = 4
+Price = 3000
+BPPrice = 40
+FieldUse = TR
+Flags = Fling_75
+Move = BRICKBREAK
+Description = Un colpo secco che può anche infrangere barriere come Riflesso e Schermoluce.
+#-------------------------------
+[TM32]
+Name = MT32
+NamePlural = MT32
+Pocket = 4
+Price = 1000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = DOUBLETEAM
+Description = Il Pokémon si muove così velocemente da creare copie illusorie di sé, aumentando l'elusione.
+#-------------------------------
+[TM33]
+Name = MT33
+NamePlural = MT33
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = REFLECT
+Description = Un muro di luce riduce i danni degli attacchi fisici per cinque turni.
+#-------------------------------
+[TM34]
+Name = MT34
+NamePlural = MT34
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_60
+Move = SHOCKWAVE
+Description = Il Pokémon colpisce il bersaglio con una scarica elettrica rapidissima. È un attacco infallibile.
+#-------------------------------
+[TM35]
+Name = MT35
+NamePlural = MT35
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_90
+Move = FLAMETHROWER
+Description = Il bersaglio viene colpito da un'intensa fiammata che può anche causare una scottatura.
+#-------------------------------
+[TM36]
+Name = MT36
+NamePlural = MT36
+Pocket = 4
+Price = 3000
+BPPrice = 80
+FieldUse = TR
+Flags = Fling_90
+Move = SLUDGEBOMB
+Description = Il Pokémon lancia del fango tossico che può anche avvelenare il bersaglio.
+#-------------------------------
+[TM37]
+Name = MT37
+NamePlural = MT37
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = SANDSTORM
+Description = Evoca una tempesta di sabbia che dura cinque turni e danneggia tutti i tipi, eccetto Roccia, Terra e Acciaio.
+#-------------------------------
+[TM38]
+Name = MT38
+NamePlural = MT38
+Pocket = 4
+Price = 5500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_110
+Move = FIREBLAST
+Description = Il bersaglio viene colpito da una fiammata devastante che può anche causare una scottatura.
+#-------------------------------
+[TM39]
+Name = MT39
+NamePlural = MT39
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_60
+Move = ROCKTOMB
+Description = Scaglia massi contro il bersaglio, riducendone anche la Velocità.
+#-------------------------------
+[TM40]
+Name = MT40
+NamePlural = MT40
+Pocket = 4
+Price = 3000
+BPPrice = 40
+FieldUse = TR
+Flags = Fling_60
+Move = AERIALACE
+Description = Il Pokémon confonde il nemico con la sua velocità e lo colpisce. È un attacco infallibile.
+#-------------------------------
+[TM41]
+Name = MT41
+NamePlural = MT41
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = TORMENT
+Description = Tormenta e fa infuriare il bersaglio, impedendogli di usare la stessa mossa due volte di seguito.
+#-------------------------------
+[TM42]
+Name = MT42
+NamePlural = MT42
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_70
+Move = FACADE
+Description = Questa mossa raddoppia la propria potenza se chi la usa è avvelenato, scottato o paralizzato.
+#-------------------------------
+[TM43]
+Name = MT43
+NamePlural = MT43
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_70
+Move = VOLTSWITCH
+Description = Dopo l'attacco, il Pokémon torna nella propria Poké Ball e viene sostituito da un compagno.
+#-------------------------------
+[TM44]
+Name = MT44
+NamePlural = MT44
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = REST
+Description = Chi la usa dorme per due turni. Questo ripristina tutti i PS e cura ogni problema di stato.
+#-------------------------------
+[TM45]
+Name = MT45
+NamePlural = MT45
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = ATTRACT
+Description = Se il bersaglio è di sesso opposto, rimane ammaliato e ha meno probabilità di attaccare.
+#-------------------------------
+[TM46]
+Name = MT46
+NamePlural = MT46
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_60
+Move = THIEF
+Description = Il Pokémon attacca e contemporaneamente ruba lo strumento tenuto dal bersaglio.
+#-------------------------------
+[TM47]
+Name = MT47
+NamePlural = MT47
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_70
+Move = STEELWING
+Description = Il bersaglio viene colpito da ali d'acciaio. Può anche aumentare la Difesa di chi la usa.
+#-------------------------------
+[TM48]
+Name = MT48
+NamePlural = MT48
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = SKILLSWAP
+Description = Chi la usa sfrutta i suoi poteri psichici per scambiare la sua Abilità con quella del bersaglio.
+#-------------------------------
+[TM49]
+Name = MT49
+NamePlural = MT49
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_80
+Move = SCALD
+Description = Il Pokémon lancia acqua bollente che può anche scottare il bersaglio.
+#-------------------------------
+[TM50]
+Name = MT50
+NamePlural = MT50
+Pocket = 4
+Price = 5500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_130
+Move = OVERHEAT
+Description = Un attacco a piena potenza il cui contraccolpo riduce drasticamente l'Attacco Speciale di chi lo usa.
+#-------------------------------
+[TM51]
+Name = MT51
+NamePlural = MT51
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = ROOST
+Description = Il Pokémon atterra e si riposa, ripristinando fino a metà dei suoi PS massimi.
+#-------------------------------
+[TM52]
+Name = MT52
+NamePlural = MT52
+Pocket = 4
+Price = 5500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_120
+Move = FOCUSBLAST
+Description = Chi la usa concentra la mente e rilascia il suo potere. Può anche ridurre la Difesa Speciale del bersaglio.
+#-------------------------------
+[TM53]
+Name = MT53
+NamePlural = MT53
+Pocket = 4
+Price = 3000
+BPPrice = 64
+FieldUse = TR
+Flags = Fling_90
+Move = ENERGYBALL
+Description = Chi la usa attinge energia dalla natura e la lancia. Può anche ridurre la Difesa Speciale del bersaglio.
+#-------------------------------
+[TM54]
+Name = MT54
+NamePlural = MT54
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_40
+Move = FALSESWIPE
+Description = Un attacco misurato che impedisce al nemico di finire KO, lasciandolo con almeno 1 PS.
+#-------------------------------
+[TM55]
+Name = MT55
+NamePlural = MT55
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_65
+Move = BRINE
+Description = Se i PS del bersaglio sono pari o inferiori alla metà, la potenza di questo attacco raddoppia.
+#-------------------------------
+[TM56]
+Name = MT56
+NamePlural = MT56
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = FLING
+Description = Chi la usa lancia lo strumento tenuto contro il nemico. Potenza ed effetti variano in base all'oggetto.
+#-------------------------------
+[TM57]
+Name = MT57
+NamePlural = MT57
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_50
+Move = CHARGEBEAM
+Description = Il Pokémon attacca con una scarica elettrica. Può anche aumentare il proprio Attacco Speciale.
+#-------------------------------
+[TM58]
+Name = MT58
+NamePlural = MT58
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = ENDURE
+Description = Permette di resistere a qualsiasi attacco restando con almeno 1 PS. Può fallire se usata in successione.
+#-------------------------------
+[TM59]
+Name = MT59
+NamePlural = MT59
+Pocket = 4
+Price = 3000
+BPPrice = 80
+FieldUse = TR
+Flags = Fling_85
+Move = DRAGONPULSE
+Description = Il bersaglio viene investito da un'onda d'urto generata dalla bocca spalancata di chi attacca.
+#-------------------------------
+[TM60]
+Name = MT60
+NamePlural = MT60
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_75
+Move = DRAINPUNCH
+Description = Un pugno che assorbe energia. Chi la usa recupera metà dei danni inflitti al bersaglio.
+#-------------------------------
+[TM61]
+Name = MT61
+NamePlural = MT61
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = WILLOWISP
+Description = Il Pokémon lancia una sinistra fiamma violacea che scotta il bersaglio.
+#-------------------------------
+[TM62]
+Name = MT62
+NamePlural = MT62
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_90
+Move = BUGBUZZ
+Description = Il Pokémon emette un'onda sonora vibrante. Può anche ridurre la Difesa Speciale del bersaglio.
+#-------------------------------
+[TM63]
+Name = MT63
+NamePlural = MT63
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = NASTYPLOT
+Description = Il Pokémon stimola il cervello con pensieri cattivi, aumentando drasticamente il proprio Attacco Speciale.
+#-------------------------------
+[TM64]
+Name = MT64
+NamePlural = MT64
+Pocket = 4
+Price = 7500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_250
+Move = EXPLOSION
+Description = Il Pokémon scatena una tremenda esplosione che colpisce chiunque lo circondi. Chi la usa finisce KO.
+#-------------------------------
+[TM65]
+Name = MT65
+NamePlural = MT65
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_70
+Move = SHADOWCLAW
+Description = Il Pokémon attacca con artigli d'ombra. Ha un'alta probabilità di infliggere un brutto colpo.
+#-------------------------------
+[TM66]
+Name = MT66
+NamePlural = MT66
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_50
+Move = PAYBACK
+Description = Chi la usa accumula forza e poi attacca. Se agisce dopo il nemico, la potenza raddoppia.
+#-------------------------------
+[TM67]
+Name = MT67
+NamePlural = MT67
+Pocket = 4
+Price = 1000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = RECYCLE
+Description = Permette di recuperare uno strumento già consumato durante la lotta per poterlo usare di nuovo.
+#-------------------------------
+[TM68]
+Name = MT68
+NamePlural = MT68
+Pocket = 4
+Price = 7500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_150
+Move = GIGAIMPACT
+Description = Un attacco a piena potenza. Chi la usa deve riposarsi nel turno successivo.
+#-------------------------------
+[TM69]
+Name = MT69
+NamePlural = MT69
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = ROCKPOLISH
+Description = Il Pokémon lucida il proprio corpo per ridurre l'attrito, aumentando drasticamente la Velocità.
+#-------------------------------
+[TM70]
+Name = MT70
+NamePlural = MT70
+Pocket = 4
+Price = 1000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = FLASH
+Description = Un bagliore che riduce la precisione del nemico. Si può usare per illuminare le grotte buie.
+#-------------------------------
+[TM71]
+Name = MT71
+NamePlural = MT71
+Pocket = 4
+Price = 3000
+BPPrice = 80
+FieldUse = TR
+Flags = Fling_100
+Move = STONEEDGE
+Description = Il Pokémon colpisce il nemico dal basso con pietre affilate. Ha un'alta probabilità di brutto colpo.
+#-------------------------------
+[TM72]
+Name = MT72
+NamePlural = MT72
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_60
+Move = AVALANCHE
+Description = La potenza di questo attacco raddoppia se chi la usa è già stato colpito dal bersaglio nello stesso turno.
+#-------------------------------
+[TM73]
+Name = MT73
+NamePlural = MT73
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = THUNDERWAVE
+Description = Una debole scarica elettrica che paralizza il bersaglio.
+#-------------------------------
+[TM74]
+Name = MT74
+NamePlural = MT74
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = GYROBALL
+Description = Il Pokémon colpisce il nemico ruotando velocemente. È più forte se chi la usa è più lento del bersaglio.
+#-------------------------------
+[TM75]
+Name = MT75
+NamePlural = MT75
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = SWORDSDANCE
+Description = Una danza frenetica che aumenta lo spirito combattivo e accresce drasticamente l'Attacco.
+#-------------------------------
+[TM76]
+Name = MT76
+NamePlural = MT76
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = STEALTHROCK
+Description = Piazza trappole di rocce fluttuanti attorno ai nemici, danneggiando chiunque entri in campo.
+#-------------------------------
+[TM77]
+Name = MT77
+NamePlural = MT77
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = PSYCHUP
+Description = Chi la usa si ipnotizza per copiare i cambiamenti delle statistiche del bersaglio.
+#-------------------------------
+[TM78]
+Name = MT78
+NamePlural = MT78
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_55
+Move = SNARL
+Description = Il Pokémon lancia urla cariche di rabbia, riducendo l'Attacco Speciale dei nemici.
+#-------------------------------
+[TM79]
+Name = MT79
+NamePlural = MT79
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_80
+Move = DARKPULSE
+Description = Chi la usa sprigiona un'aura carica di cattivi pensieri. Può anche far tentennare il bersaglio.
+#-------------------------------
+[TM80]
+Name = MT80
+NamePlural = MT80
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_75
+Move = ROCKSLIDE
+Description = Grandi massi vengono lanciati sui nemici. Può anche farli tentennare.
+#-------------------------------
+[TM81]
+Name = MT81
+NamePlural = MT81
+Pocket = 4
+Price = 3000
+BPPrice = 64
+FieldUse = TR
+Flags = Fling_80
+Move = XSCISSOR
+Description = Il Pokémon colpisce il nemico incrociando gli artigli o le falci come fossero forbici.
+#-------------------------------
+[TM82]
+Name = MT82
+NamePlural = MT82
+Pocket = 4
+Price = 1000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = SLEEPTALK
+Description = Mentre dorme, il Pokémon usa una delle sue mosse a caso.
+#-------------------------------
+[TM83]
+Name = MT83
+NamePlural = MT83
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_55
+Move = BULLDOZE
+Description = Chi la usa calpesta il terreno colpendo tutto ciò che lo circonda e riducendo la Velocità dei colpiti.
+#-------------------------------
+[TM84]
+Name = MT84
+NamePlural = MT84
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_80
+Move = POISONJAB
+Description = Il bersaglio viene colpito da una parte del corpo intrisa di veleno. Può anche avvelenarlo.
+#-------------------------------
+[TM85]
+Name = MT85
+NamePlural = MT85
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_100
+Move = DREAMEATER
+Description = Chi la usa mangia i sogni del nemico addormentato, recuperando metà dei danni inflitti.
+#-------------------------------
+[TM86]
+Name = MT86
+NamePlural = MT86
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = GRASSKNOT
+Description = Il Pokémon fa inciampare il bersaglio con dei fili d'erba. Più il nemico è pesante, più il colpo è forte.
+#-------------------------------
+[TM87]
+Name = MT87
+NamePlural = MT87
+Pocket = 4
+Price = 1500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = SWAGGER
+Description = Fa infuriare e confonde il bersaglio, aumentandone però drasticamente l'Attacco.
+#-------------------------------
+#-------------------------------
+[TM88]
+Name = MT88
+NamePlural = MT88
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_60
+Move = PLUCK
+Description = Il Pokémon becca il bersaglio. Se questi tiene una Bacca, l'utilizzatore la mangia ricevendone l'effetto[cite: 352, 353].
+#-------------------------------
+[TM89]
+Name = MT89
+NamePlural = MT89
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_70
+Move = UTURN
+Description = Dopo l'attacco, il Pokémon torna nella propria Poké Ball e viene sostituito da un compagno[cite: 354].
+#-------------------------------
+[TM90]
+Name = MT90
+NamePlural = MT90
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = SUBSTITUTE
+Description = Chi la usa crea un sostituto di se stesso usando parte dei propri PS. Il sostituto funge da esca[cite: 355, 356].
+#-------------------------------
+[TM91]
+Name = MT91
+NamePlural = MT91
+Pocket = 4
+Price = 3000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_80
+Move = FLASHCANNON
+Description = Il Pokémon accumula energia luminosa e la rilascia tutta in un colpo. Può anche ridurre la Difesa Speciale del bersaglio[cite: 357].
+#-------------------------------
+[TM92]
+Name = MT92
+NamePlural = MT92
+Pocket = 4
+Price = 5500
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = TRICKROOM
+Description = Crea un'area bizzarra in cui i Pokémon più lenti agiscono per primi per cinque turni[cite: 358].
+#-------------------------------
+[TM93]
+Name = MT93
+NamePlural = MT93
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_50
+Move = CUT
+Description = Il bersaglio viene colpito con una falce o un artiglio[cite: 359].
+#-------------------------------
+[TM94]
+Name = MT94
+NamePlural = MT94
+Pocket = 4
+Price = 2000
+BPPrice = 40
+FieldUse = TR
+Flags = Fling_90
+Move = FLY
+Description = Il Pokémon vola in alto e colpisce il bersaglio nel turno successivo[cite: 360].
+#-------------------------------
+[TM95]
+Name = MT95
+NamePlural = MT95
+Pocket = 4
+Price = 2500
+BPPrice = 64
+FieldUse = TR
+Flags = Fling_90
+Move = SURF
+Description = Chi la usa scatena una gigantesca ondata che colpisce tutti i Pokémon circostanti[cite: 361].
+#-------------------------------
+[TM96]
+Name = MT96
+NamePlural = MT96
+Pocket = 4
+Price = 2000
+BPPrice = 40
+FieldUse = TR
+Flags = Fling_80
+Move = STRENGTH
+Description = Il bersaglio viene colpito da un pugno sferrato alla massima potenza[cite: 362].
+#-------------------------------
+[TM97]
+Name = MT97
+NamePlural = MT97
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_10
+Move = DEFOG
+Description = Un forte vento spazza via barriere come Riflesso e riduce l'elusione del nemico[cite: 363].
+#-------------------------------
+[TM98]
+Name = MT98
+NamePlural = MT98
+Pocket = 4
+Price = 2000
+BPPrice = 40
+FieldUse = TR
+Flags = Fling_40
+Move = ROCKSMASH
+Description = Un pugno che può anche ridurre la Difesa del bersaglio[cite: 364].
+#-------------------------------
+[TM99]
+Name = MT99
+NamePlural = MT99
+Pocket = 4
+Price = 2500
+BPPrice = 64
+FieldUse = TR
+Flags = Fling_80
+Move = WATERFALL
+Description = Il Pokémon carica il bersaglio e può farlo tentennare[cite: 365].
+#-------------------------------
+[TM100]
+Name = MT100
+NamePlural = MT100
+Pocket = 4
+Price = 2000
+BPPrice = 32
+FieldUse = TR
+Flags = Fling_90
+Move = ROCKCLIMB
+Description = Un attacco in carica che può anche confondere il nemico[cite: 366].
+#-------------------------------
+[HM01]
+Name = MN01
+NamePlural = MN01
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = CUT
+Description = Il bersaglio viene colpito con artigli o falci. Si può usare anche per tagliare piccoli alberi[cite: 367, 368].
+#-------------------------------
+[HM02]
+Name = MN02
+NamePlural = MN02
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = FLY
+Description = Il Pokémon vola in alto e colpisce nel turno successivo. Si può usare anche per volare in città già note[cite: 369, 370].
+#-------------------------------
+[HM03]
+Name = MN03
+NamePlural = MN03
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = SURF
+Description = Un'ondata gigante colpisce tutti i presenti. Si può usare anche per viaggiare sull'acqua[cite: 371].
+#-------------------------------
+[HM04]
+Name = MN04
+NamePlural = MN04
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = STRENGTH
+Description = Un pugno sferrato alla massima potenza. Si può usare anche per spostare pesanti massi[cite: 372].
+#-------------------------------
+[HM05]
+Name = MN05
+NamePlural = MN05
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = WATERFALL
+Description = Il Pokémon carica il nemico e può farlo tentennare. Si può usare anche per risalire le cascate[cite: 373].
+#-------------------------------
+[HM06]
+Name = MN06
+NamePlural = MN06
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = DIVE
+Description = Il Pokémon s'immerge e attacca nel turno successivo. Si può usare per esplorare i fondali marini[cite: 374].
+#-------------------------------
+[CHERIBERRY]
+Name = Bacca ciliegia
+NamePlural = Bacche ciliegia
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_FIRE_80
+Description = Se usata o tenuta da un Pokémon, lo guarisce dalla paralisi[cite: 375].
+#-------------------------------
+[CHESTOBERRY]
+Name = Bacca castagna
+NamePlural = Bacche castagna
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_WATER_80
+Description = Se usata o tenuta da un Pokémon, lo sveglia dal sonno[cite: 376].
+#-------------------------------
+[PECHABERRY]
+Name = Bacca pescarancia
+NamePlural = Bacche pescarancia
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_ELECTRIC_80
+Description = Se usata o tenuta da un Pokémon, lo guarisce dal veleno[cite: 377].
+#-------------------------------
+[RAWSTBERRY]
+Name = Bacca fragofragola
+NamePlural = Bacche fragofragola
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_GRASS_80
+Description = Se usata o tenuta da un Pokémon, lo guarisce da una scottatura[cite: 378].
+#-------------------------------
+[ASPEARBERRY]
+Name = Bacca peragialla
+NamePlural = Bacche peragialla
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_ICE_80
+Description = Se usata o tenuta da un Pokémon, lo libera dal congelamento[cite: 379].
+#-------------------------------
+[LEPPABERRY]
+Name = Bacca mela
+NamePlural = Bacche mela
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+BattleUse = OnMove
+Flags = Berry,Fling_10,NaturalGift_FIGHTING_80
+Description = Se usata o tenuta da un Pokémon, ripristina 10 PP di una sua mossa.
+#-------------------------------
+[ORANBERRY]
+Name = Bacca arancia
+NamePlural = Bacche arancia
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_POISON_80
+Description = Se usata o tenuta da un Pokémon, gli restituisce 10 PS[cite: 380].
+#-------------------------------
+[PERSIMBERRY]
+Name = Bacca cachi
+NamePlural = Bacche cachi
+Pocket = 5
+Price = 20
+BattleUse = OnBattler
+Flags = Berry,Fling_10,NaturalGift_GROUND_80
+Description = Se usata o tenuta da un Pokémon, lo guarisce dalla confusione[cite: 381].
+#-------------------------------
+[LUMBERRY]
+Name = Bacca prugna
+NamePlural = Bacche prugna
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_FLYING_80
+Description = Se usata o tenuta da un Pokémon, lo guarisce da qualsiasi problema di stato[cite: 382].
+#-------------------------------
+[SITRUSBERRY]
+Name = Bacca cedro
+NamePlural = Bacche cedro
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_PSYCHIC_80
+Description = Se usata o tenuta da un Pokémon, ne ripristina un po' di PS[cite: 383].
+#-------------------------------
+[FIGYBERRY]
+Name = Bacca fichi
+NamePlural = Bacche fichi
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_BUG_80
+Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto[cite: 384].
+#-------------------------------
+[WIKIBERRY]
+Name = Bacca kiwi
+NamePlural = Bacche kiwi
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_ROCK_80
+Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto[cite: 385].
+#-------------------------------
+[MAGOBERRY]
+Name = Bacca mango
+NamePlural = Bacche mango
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_GHOST_80
+Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto[cite: 386].
+#-------------------------------
+[AGUAVBERRY]
+Name = Bacca guava
+NamePlural = Bacche guava
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_DRAGON_80
+Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto[cite: 387].
+#-------------------------------
+[IAPAPABERRY]
+Name = Bacca iapapa
+NamePlural = Bacche iapapa
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_DARK_80
+Description = Se tenuta, ripristina PS in caso di bisogno, ma può confondere chi non ne ama il gusto[cite: 388].
+#-------------------------------
+[RAZZBERRY]
+Name = Bacca lampon
+NamePlural = Bacche lampon
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_STEEL_80
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 389].
+#-------------------------------
+[BLUKBERRY]
+Name = Bacca mora
+NamePlural = Bacche mora
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_FIRE_90
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 390].
+#-------------------------------
+[NANABBERRY]
+Name = Bacca banna
+NamePlural = Bacche banna
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_WATER_90
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 391].
+#-------------------------------
+[WEPEARBERRY]
+Name = Bacca pera
+NamePlural = Bacche pera
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_ELECTRIC_90
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 392].
+#-------------------------------
+[PINAPBERRY]
+Name = Bacca ananas
+NamePlural = Bacche ananas
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_GRASS_90
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 393].
+#-------------------------------
+[POMEGBERRY]
+Name = Bacca pomi
+NamePlural = Bacche pomi
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_ICE_90
+Description = Rende i Pokémon più amichevoli, ma ne riduce i PS di base[cite: 394].
+#-------------------------------
+[KELPSYBERRY]
+Name = Bacca algatonda
+NamePlural = Bacche algatonda
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_FIGHTING_90
+Description = Rende i Pokémon più amichevoli, ma ne riduce l'Attacco di base[cite: 395].
+#-------------------------------
+[QUALOTBERRY]
+Name = Bacca lopi
+NamePlural = Bacche lopi
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_POISON_90
+Description = Rende i Pokémon più amichevoli, ma ne riduce la Difesa di base[cite: 396].
+#-------------------------------
+[HONDEWBERRY]
+Name = Bacca melone
+NamePlural = Bacche melone
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_GROUND_90
+Description = Rende i Pokémon più amichevoli, ma ne riduce l'Attacco Speciale di base[cite: 397].
+#-------------------------------
+[GREPABERRY]
+Name = Bacca uva
+NamePlural = Bacche uva
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_FLYING_90
+Description = Rende i Pokémon più amichevoli, ma ne riduce la Difesa Speciale di base[cite: 398].
+#-------------------------------
+[TAMATOBERRY]
+Name = Bacca pomodoro
+NamePlural = Bacche pomodoro
+Pocket = 5
+Price = 20
+FieldUse = OnPokemon
+Flags = Berry,Fling_10,NaturalGift_PSYCHIC_90
+Description = Rende i Pokémon più amichevoli, ma ne riduce la Velocità di base[cite: 399].
+#-------------------------------
+[CORNNBERRY]
+Name = Bacca grano
+NamePlural = Bacche grano
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_BUG_90
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 400].
+#-------------------------------
+[MAGOSTBERRY]
+Name = Bacca mangostana
+NamePlural = Bacche mangostana
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_ROCK_90
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 401].
+#-------------------------------
+[RABUTABERRY]
+Name = Bacca carambola
+NamePlural = Bacche carambola
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_GHOST_90
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 402].
+#-------------------------------
+[NOMELBERRY]
+Name = Bacca melone
+NamePlural = Bacche melone
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_DRAGON_90
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 403].
+#-------------------------------
+[SPELONBERRY]
+Name = Bacca durian
+NamePlural = Bacche durian
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_DARK_90
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 404].
+#-------------------------------
+[PAMTREBERRY]
+Name = Bacca palma
+NamePlural = Bacche palma
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_STEEL_90
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 405].
+#-------------------------------
+[WATMELBERRY]
+Name = Bacca cocco
+NamePlural = Bacche cocco
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_FIRE_100
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 406].
+#-------------------------------
+[DURINBERRY]
+Name = Bacca durian
+NamePlural = Bacche durian
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_WATER_100
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 407].
+#-------------------------------
+[BELUEBERRY]
+Name = Bacca moretta
+NamePlural = Bacche moretta
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_ELECTRIC_100
+Description = A Sinnoh è usata spesso per preparare i Poffin[cite: 408].
+#-------------------------------
+[OCCABERRY]
+Name = Bacca babiri
+NamePlural = Bacche babiri
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_FIRE_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Fuoco[cite: 409].
+#-------------------------------
+[PASSHOBERRY]
+Name = Bacca bietola
+NamePlural = Bacche bietola
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_WATER_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Acqua[cite: 410].
+#-------------------------------
+[WACANBERRY]
+Name = Bacca acan
+NamePlural = Bacche acan
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_ELECTRIC_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Elettro[cite: 411].
+#-------------------------------
+[RINDOBERRY]
+Name = Bacca rindo
+NamePlural = Bacche rindo
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_GRASS_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Erba[cite: 412].
+#-------------------------------
+[YACHEBERRY]
+Name = Bacca yache
+NamePlural = Bacche yache
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_ICE_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Ghiaccio[cite: 413].
+#-------------------------------
+[CHOPLEBERRY]
+Name = Bacca chople
+NamePlural = Bacche chople
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_FIGHTING_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Lotta[cite: 414].
+#-------------------------------
+[KEBIABERRY]
+Name = Bacca kebia
+NamePlural = Bacche kebia
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_POISON_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Veleno[cite: 415].
+#-------------------------------
+[SHUCABERRY]
+Name = Bacca shuca
+NamePlural = Bacche shuca
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_GROUND_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Terra[cite: 416].
+#-------------------------------
+[COBABERRY]
+Name = Bacca coba
+NamePlural = Bacche coba
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_FLYING_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Volante[cite: 417].
+#-------------------------------
+[PAYAPABERRY]
+Name = Bacca payapa
+NamePlural = Bacche payapa
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_PSYCHIC_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Psico[cite: 418].
+#-------------------------------
+[TANGABERRY]
+Name = Bacca tanga
+NamePlural = Bacche tanga
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_BUG_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Coleottero[cite: 419].
+#-------------------------------
+[CHARTIBERRY]
+Name = Bacca charti
+NamePlural = Bacche charti
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_ROCK_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Roccia[cite: 420].
+#-------------------------------
+[KASIBBERRY]
+Name = Bacca kasib
+NamePlural = Bacche kasib
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_GHOST_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Spettro[cite: 421].
+#-------------------------------
+[HABANBERRY]
+Name = Bacca haban
+NamePlural = Bacche haban
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_DRAGON_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Drago[cite: 422].
+#-------------------------------
+[COLBURBERRY]
+Name = Bacca colbur
+NamePlural = Bacche colbur
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_DARK_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Buio[cite: 423].
+#-------------------------------
+[BABIRIBERRY]
+Name = Bacca babiri
+NamePlural = Bacche babiri
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_STEEL_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Acciaio[cite: 424].
+#-------------------------------
+[ROSELIBERRY]
+Name = Bacca roseli
+NamePlural = Bacche roseli
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_FAIRY_80
+Description = Se tenuta, attenua un attacco superefficace di tipo Folletto[cite: 425].
+#-------------------------------
+[CHILANBERRY]
+Name = Bacca chilan
+NamePlural = Bacche chilan
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_NORMAL_80
+Description = Se tenuta, attenua un attacco di tipo Normale[cite: 426].
+#-------------------------------
+[LIECHIBERRY]
+Name = Bacca lici
+NamePlural = Bacche lici
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_GRASS_100
+Description = Se tenuta, aumenta l'Attacco in caso di bisogno[cite: 427].
+#-------------------------------
+[GANLONBERRY]
+Name = Bacca ganlon
+NamePlural = Bacche ganlon
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_ICE_100
+Description = Se tenuta, aumenta la Difesa in caso di bisogno[cite: 428].
+#-------------------------------
+[SALACBERRY]
+Name = Bacca salac
+NamePlural = Bacche salac
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_FIGHTING_100
+Description = Se tenuta, aumenta la Velocità in caso di bisogno[cite: 429].
+#-------------------------------
+[PETAYABERRY]
+Name = Bacca petaya
+NamePlural = Bacche petaya
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_POISON_100
+Description = Se tenuta, aumenta l'Attacco Speciale in caso di bisogno[cite: 430].
+#-------------------------------
+[APICOTBERRY]
+Name = Bacca albicocca
+NamePlural = Bacche albicocca
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_GROUND_100
+Description = Se tenuta, aumenta la Difesa Speciale in caso di bisogno[cite: 431].
+#-------------------------------
+[LANSATBERRY]
+Name = Bacca lansat
+NamePlural = Bacche lansat
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_FLYING_100
+Description = Se tenuta, aumenta la probabilità di brutti colpi in caso di bisogno[cite: 432].
+#-------------------------------
+[STARFBERRY]
+Name = Bacca enigma
+NamePlural = Bacche enigma
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_PSYCHIC_100
+Description = Se tenuta, aumenta drasticamente una statistica a caso in caso di bisogno[cite: 433].
+#-------------------------------
+[ENIGMABERRY]
+Name = Bacca enigma
+NamePlural = Bacche enigma
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_BUG_100
+Description = Se tenuta, ripristina PS se il Pokémon è colpito da una mossa superefficace[cite: 434].
+#-------------------------------
+[MICLEBERRY]
+Name = Bacca micle
+NamePlural = Bacche micle
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_ROCK_100
+Description = Se tenuta, aumenta la precisione di una mossa in caso di bisogno[cite: 435].
+#-------------------------------
+[CUSTAPBERRY]
+Name = Bacca custap
+NamePlural = Bacche custap
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_GHOST_100
+Description = Se tenuta, permette di agire per primi per una volta in caso di bisogno[cite: 436].
+#-------------------------------
+[JABOCABERRY]
+Name = Bacca jaboca
+NamePlural = Bacche jaboca
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_DRAGON_100
+Description = Se tenuta, infligge danni al nemico che colpisce con un attacco fisico[cite: 437].
+#-------------------------------
+[ROWAPBERRY]
+Name = Bacca rowap
+NamePlural = Bacche rowap
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_DARK_100
+Description = Se tenuta, infligge danni al nemico che colpisce con un attacco speciale[cite: 438].
+#-------------------------------
+[KEEBERRY]
+Name = Bacca kee
+NamePlural = Bacche kee
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_FAIRY_100
+Description = Se tenuta, aumenta la Difesa se il Pokémon è colpito da una mossa fisica[cite: 439].
+#-------------------------------
+[MARANGABERRY]
+Name = Bacca maranga
+NamePlural = Bacche maranga
+Pocket = 5
+Price = 20
+Flags = Berry,Fling_10,NaturalGift_DARK_100
+Description = Se tenuta, aumenta la Difesa Speciale se il Pokémon è colpito da una mossa speciale[cite: 440].
+#-------------------------------
+[GRASSMAIL]
+Name = Messaggio Erba
+NamePlural = Messaggi Erba
+PortionName = pezzo di Messaggio Erba
+PortionNamePlural = pezzi di Messaggio Erba
+Pocket = 6
+Price = 50
+Flags = IconMail
+Description = Carta da lettere con un prato verde. Dalla a un Pokémon perché la consegni[cite: 441].
+#-------------------------------
+[FLAMEMAIL]
+Name = Messaggio Fuoco
+NamePlural = Messaggi Fuoco
+PortionName = pezzo di Messaggio Fuoco
+PortionNamePlural = pezzi di Messaggio Fuoco
+Pocket = 6
+Price = 50
+Flags = IconMail
+Description = Carta da lettere con fiamme rosse. Dalla a un Pokémon perché la consegni[cite: 442].
+#-------------------------------
+[BUBBLEMAIL]
+Name = Messaggio Bolla
+NamePlural = Messaggi Bolla
+PortionName = pezzo di Messaggio Bolla
+PortionNamePlural = pezzi di Messaggio Bolla
+Pocket = 6
+Price = 50
+Flags = IconMail
+Description = Carta da lettere con un mondo sommerso. Dalla a un Pokémon perché la consegni[cite: 443].
+#-------------------------------
+[BLOOMMAIL]
+Name = Messaggio Fiore
+NamePlural = Messaggi Fiore
+PortionName = pezzo di Messaggio Fiore
+PortionNamePlural = pezzi di Messaggio Fiore
+Pocket = 6
+Price = 50
+Flags = IconMail
+Description = Carta da lettere con motivi floreali. Dalla a un Pokémon perché la consegni[cite: 444].
+#-------------------------------
+[TUNNELMAIL]
+Name = Messaggio Miniera
+NamePlural = Messaggi Miniera
+PortionName = pezzo di Messaggio Miniera
+PortionNamePlural = pezzi di Messaggio Miniera
+Pocket = 6
+Price = 50
+Flags = IconMail
+Description = Carta da lettere con una miniera buia. Dalla a un Pokémon perché la consegni[cite: 445].
+#-------------------------------
+[STEELMAIL]
+Name = Messaggio Acciaio
+NamePlural = Messaggi Acciaio
+PortionName = pezzo di Messaggio Acciaio
+PortionNamePlural = pezzi di Messaggio Acciaio
+Pocket = 6
+Price = 50
+Flags = IconMail
+Description = Carta da lettere con disegni meccanici. Dalla a un Pokémon perché la consegni[cite: 446].
+#-------------------------------
+[HEARTMAIL]
+Name = Messaggio Cuore
+NamePlural = Messaggi Cuore
+PortionName = pezzo di Messaggio Cuore
+PortionNamePlural = pezzi di Messaggio Cuore
+Pocket = 6
+Price = 50
+Flags = IconMail
+Description = Carta da lettere con grandi cuori. Dalla a un Pokémon perché la consegni[cite: 447].
+#-------------------------------
+[SNOWMAIL]
+Name = Messaggio Neve
+NamePlural = Messaggi Neve
+PortionName = pezzo di Messaggio Neve
+PortionNamePlural = pezzi di Messaggio Neve
+Pocket = 6
+Price = 50
+Flags = IconMail
+Description = Carta da lettere con un paesaggio innevato. Dalla a un Pokémon perché la consegni[cite: 448].
+#-------------------------------
+[SPACEMAIL]
+Name = Messaggio Spazio
+NamePlural = Messaggi Spazio
+PortionName = pezzo di Messaggio Spazio
+PortionNamePlural = pezzi di Messaggio Spazio
+Pocket = 6
+Price = 50
+Flags = IconMail
+Description = Carta da lettere con lo spazio aperto. Dalla a un Pokémon perché la consegni[cite: 449].
+#-------------------------------
+[AIRMAIL]
+Name = Messaggio Volo
+NamePlural = Messaggi Volo
+PortionName = pezzo di Messaggio Volo
+PortionNamePlural = pezzi di Messaggio Volo
+Pocket = 6
+Price = 50
+Flags = IconMail
+Description = Carta da lettere con motivi colorati. Dalla a un Pokémon perché la consegni[cite: 450].
+#-------------------------------
+[MOSAICMAIL]
+Name = Messaggio Mosaico
+NamePlural = Messaggi Mosaico
+PortionName = pezzo di Messaggio Mosaico
+PortionNamePlural = pezzi di Messaggio Mosaico
+Pocket = 6
+Price = 50
+Flags = IconMail
+Description = Carta da lettere con un arcobaleno. Dalla a un Pokémon perché la consegni[cite: 451].
+#-------------------------------
+[BRICKMAIL]
+Name = Messaggio Mattone
+NamePlural = Messaggi Mattone
+PortionName = pezzo di Messaggio Mattone
+PortionNamePlural = pezzi di Messaggio Mattone
+Pocket = 6
+Price = 50
+Flags = IconMail
+Description = Carta da lettere con mattoni resistenti. Dalla a un Pokémon perché la consegni[cite: 452].
+#-------------------------------
+[XATTACK]
+Name = Attacco X
+NamePlural = Attacchi X
+Pocket = 7
+Price = 1000
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto l'Attacco di un Pokémon durante la lotta[cite: 453].
+#-------------------------------
+[XATTACK2]
+Name = Attacco X 2
+NamePlural = Attacchi X 2
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto l'Attacco di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito[cite: 454].
+#-------------------------------
+[XATTACK3]
+Name = Attacco X 3
+NamePlural = Attacchi X 3
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta drasticamente l'Attacco di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito[cite: 455].
+#-------------------------------
+[XATTACK6]
+Name = Attacco X 6
+NamePlural = Attacchi X 6
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta immensamente l'Attacco di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito[cite: 456].
+#-------------------------------
+[XDEFENSE]
+Name = Difesa X
+NamePlural = Difese X
+Pocket = 7
+Price = 2000
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto la Difesa di un Pokémon durante la lotta[cite: 457].
+#-------------------------------
+[XDEFENSE2]
+Name = Difesa X 2
+NamePlural = Difese X 2
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto la Difesa di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito[cite: 458].
+#-------------------------------
+[XDEFENSE3]
+Name = Difesa X 3
+NamePlural = Difese X 3
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta drasticamente la Difesa di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito[cite: 459].
+#-------------------------------
+[XDEFENSE6]
+Name = Difesa X 6
+NamePlural = Difese X 6
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta immensamente la Difesa di un Pokémon in lotta. L'effetto svanisce se il Pokémon viene sostituito[cite: 460].
+#-------------------------------
+[XSPATK]
+Name = Attacco Sp. X
+NamePlural = Attacchi Sp. X
+Pocket = 7
+Price = 1000
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto l'Attacco Speciale di un Pokémon durante la lotta[cite: 461, 462].
+#-------------------------------
+[XSPATK2]
+Name = Attacco Sp. X 2
+NamePlural = Attacchi Sp. X 2
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto l'Attacco Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 463, 464].
+#-------------------------------
+[XSPATK3]
+Name = Attacco Sp. X 3
+NamePlural = Attacchi Sp. X 3
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta drasticamente l'Attacco Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 465, 466].
+#-------------------------------
+[XSPATK6]
+Name = Attacco Sp. X 6
+NamePlural = Attacchi Sp. X 6
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta immensamente l'Attacco Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 467, 468].
+#-------------------------------
+[XSPDEF]
+Name = Difesa Sp. X
+NamePlural = Difese Sp. X
+Pocket = 7
+Price = 2000
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto la Difesa Speciale di un Pokémon durante la lotta[cite: 469, 470].
+#-------------------------------
+[XSPDEF2]
+Name = Difesa Sp. X 2
+NamePlural = Difese Sp. X 2
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto la Difesa Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 471, 472].
+#-------------------------------
+[XSPDEF3]
+Name = Difesa Sp. X 3
+NamePlural = Difese Sp. X 3
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta drasticamente la Difesa Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 473, 474].
+#-------------------------------
+[XSPDEF6]
+Name = Difesa Sp. X 6
+NamePlural = Difese Sp. X 6
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta immensamente la Difesa Speciale di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 475, 476, 477].
+#-------------------------------
+[XSPEED]
+Name = Velocità X
+NamePlural = Velocità X
+Pocket = 7
+Price = 1000
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto la Velocità di un Pokémon durante la lotta[cite: 478].
+#-------------------------------
+[XSPEED2]
+Name = Velocità X 2
+NamePlural = Velocità X 2
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto la Velocità di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 479].
+#-------------------------------
+[XSPEED3]
+Name = Velocità X 3
+NamePlural = Velocità X 3
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta drasticamente la Velocità di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 480].
+#-------------------------------
+[XSPEED6]
+Name = Velocità X 6
+NamePlural = Velocità X 6
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta immensamente la Velocità di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 481].
+#-------------------------------
+[XACCURACY]
+Name = Precisione X
+NamePlural = Precisioni X
+Pocket = 7
+Price = 1000
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto la precisione di un Pokémon durante la lotta[cite: 482].
+#-------------------------------
+[XACCURACY2]
+Name = Precisione X 2
+NamePlural = Precisioni X 2
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto la precisione di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 483].
+#-------------------------------
+[XACCURACY3]
+Name = Precisione X 3
+NamePlural = Precisioni X 3
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta drasticamente la precisione di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 484].
+#-------------------------------
+[XACCURACY6]
+Name = Precisione X 6
+NamePlural = Precisioni X 6
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta immensamente la precisione di un Pokémon in lotta. L'effetto svanisce se sostituito[cite: 485].
+#-------------------------------
+[MAXMUSHROOMS]
+Name = Funghi Max
+NamePlural = Funghi Max
+PortionName = mazzetto di Funghi Max
+PortionNamePlural = mazzetti di Funghi Max
+Pocket = 7
+Price = 8000
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Funghi che aumentano tutte le statistiche di un Pokémon durante la lotta[cite: 486].
+#-------------------------------
+[DIREHIT]
+Name = Supercolpo
+NamePlural = Supercolpi
+Pocket = 7
+Price = 1000
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto la probabilità di brutti colpi. L'effetto svanisce se sostituito[cite: 487].
+#-------------------------------
+[DIREHIT2]
+Name = Supercolpo 2
+NamePlural = Supercolpi 2
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta di molto la probabilità di brutti colpi. L'effetto svanisce se sostituito[cite: 488].
+#-------------------------------
+[DIREHIT3]
+Name = Supercolpo 3
+NamePlural = Supercolpi 3
+Pocket = 7
+Price = 0
+BattleUse = OnBattler
+Flags = Fling_30
+Description = Aumenta sensibilmente la probabilità di brutti colpi. L'effetto svanisce se sostituito[cite: 489].
+#-------------------------------
+[GUARDSPEC]
+Name = Superguardia
+NamePlural = Superguardie
+Pocket = 7
+Price = 1500
+BattleUse = Direct
+Flags = Fling_30
+Description = Impedisce il calo delle statistiche dei Pokémon in campo per cinque turni[cite: 490, 491].
+#-------------------------------
+[RESETURGE]
+Name = Incitamentreset
+NamePlural = Incitamentireset
+Pocket = 7
+Price = 0
+Flags = Fling_30
+Description = Se usato, annulla i cambiamenti delle statistiche di un Pokémon alleato[cite: 492].
+#-------------------------------
+[ABILITYURGE]
+Name = Incitamentabilità
+NamePlural = Incitamentiabilità
+Pocket = 7
+Price = 0
+Flags = Fling_30
+Description = Se usato, attiva l'abilità di un Pokémon alleato[cite: 493].
+#-------------------------------
+[ITEMURGE]
+Name = Incitamentostrum
+NamePlural = Incitamentistrum
+Pocket = 7
+Price = 0
+Flags = Fling_30
+Description = Se usato, induce un Pokémon alleato a usare lo strumento tenuto[cite: 494].
+#-------------------------------
+[ITEMDROP]
+Name = Lanciostrumento
+NamePlural = Lanciostramenti
+Pocket = 7
+Price = 0
+Flags = Fling_30
+Description = Se usato, induce un Pokémon alleato a lanciare lo strumento tenuto[cite: 495].
+#-------------------------------
+[BLUEFLUTE]
+Name = Flauto Blu
+NamePlural = Flauti Blu
+Pocket = 7
+Price = 20
+FieldUse = OnPokemon
+BattleUse = OnPokemon
+Flags = Fling_30
+Consumable = false
+Description = Un flauto blu di vetro soffiato. Sveglia un Pokémon dal sonno[cite: 496].
+#-------------------------------
+[YELLOWFLUTE]
+Name = Flauto Giallo
+NamePlural = Flauti Giallo
+Pocket = 7
+Price = 20
+BattleUse = OnBattler
+Flags = Fling_30
+Consumable = false
+Description = Un flauto giallo di vetro soffiato. Cura un Pokémon dalla confusione[cite: 497].
+#-------------------------------
+[REDFLUTE]
+Name = Flauto Rosso
+NamePlural = Flauti Rossi
+Pocket = 7
+Price = 20
+BattleUse = OnBattler
+Flags = Fling_30
+Consumable = false
+Description = Un flauto rosso di vetro soffiato. Cura un Pokémon dall'attrazione[cite: 498].
+#-------------------------------
+[POKEDOLL]
+Name = Poké Bambola
+NamePlural = Poké Bambole
+Pocket = 7
+Price = 300
+BattleUse = Direct
+Flags = Fling_30
+Description = Una bambola che attrae i Pokémon. Permette di fuggire da una lotta con un Pokémon selvatico[cite: 499, 500].
+#-------------------------------
+[FLUFFYTAIL]
+Name = Coda Skitty
+NamePlural = Code Skitty
+Pocket = 7
+Price = 300
+BattleUse = Direct
+Flags = Fling_30
+Description = Strumento che attrae i Pokémon. Permette di fuggire da una lotta con un Pokémon selvatico[cite: 501, 502].
+#-------------------------------
+[POKETOY]
+Name = Poké Giocattolo
+NamePlural = Poké Giocattoli
+Pocket = 7
+Price = 300
+BattleUse = Direct
+Flags = Fling_30
+Description = Strumento che attrae i Pokémon. Permette di fuggire da una lotta con un Pokémon selvatico[cite: 503, 504].
+#-------------------------------
+[BICYCLE]
+Name = Bicicletta
+NamePlural = Biciclette
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Una bicicletta pieghevole che permette di muoversi più velocemente delle Scarpe da Corsa[cite: 505].
+#-------------------------------
+[OLDROD]
+Name = Amo Vecchio
+NamePlural = Ami Vecchi
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Un vecchio amo malandato. Usalo vicino all'acqua per pescare Pokémon selvatici[cite: 506, 507].
+#-------------------------------
+[GOODROD]
+Name = Amo Buono
+NamePlural = Ami Buoni
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Un amo nuovo e di buona qualità. Usalo vicino all'acqua per pescare Pokémon selvatici[cite: 508, 509].
+#-------------------------------
+[SUPERROD]
+Name = Super Amo
+NamePlural = Super Ami
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Un amo tecnologico e formidabile. Usalo vicino all'acqua per pescare Pokémon selvatici[cite: 510, 511].
+#-------------------------------
+[ITEMFINDER]
+Name = Detector
+NamePlural = Detector
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Dispositivo per trovare strumenti nascosti. Emette un segnale se ne trova uno nelle vicinanze[cite: 512, 513].
+#-------------------------------
+[DOWSINGMACHINE]
+Name = Ricerca Strumenti
+NamePlural = Ricerca Strumenti
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Cerca strumenti invisibili emettendo suoni e segnali luminosi quando ne trova uno[cite: 514].
+#-------------------------------
+[POKERADAR]
+Name = Poké Radar
+NamePlural = Poké Radar
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Strumento per scovare Pokémon nell'erba alta. Si ricarica camminando[cite: 515].
+#-------------------------------
+[TOWNMAP]
+Name = Mappa Città
+NamePlural = Mappe Città
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Una mappa molto comoda che mostra la posizione attuale[cite: 516].
+#-------------------------------
+[ESCAPEROPE]
+Name = Fune di Fuga
+NamePlural = Funi di Fuga
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Una fune lunga e resistente. Usala per uscire subito da grotte o dungeon[cite: 517, 518].
+#-------------------------------
+[COINCASE]
+Name = Salvadanaio
+NamePlural = Salvadanai
+Pocket = 8
+Price = 0
+FieldUse = Direct
+Flags = KeyItem
+Description = Contenitore per i gettoni del Casinò. Ne può contenere fino a 99.999[cite: 519].
+#-------------------------------
+[POKEFLUTE]
+Name = Poké Flauto
+NamePlural = Poké Flauti
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+BattleUse = Direct
+Flags = KeyItem
+Description = Un flauto dal suono melodioso capace di svegliare all'istante qualsiasi Pokémon[cite: 520].
+#-------------------------------
+[SOOTSACK]
+Name = Sacco Cenere
+NamePlural = Sacchi Cenere
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Un sacco per raccogliere e contenere cenere vulcanica[cite: 521].
+#-------------------------------
+[SILPHSCOPE]
+Name = Spettrosonda
+NamePlural = Spettrosonde
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Una sonda della Silph SpA che rende visibili i Pokémon altrimenti invisibili[cite: 522].
+#-------------------------------
+[DEVONSCOPE]
+Name = Devonscopio
+NamePlural = Devonscopi
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Un dispositivo della Devon che segnala la presenza di Pokémon invisibili[cite: 523].
+#-------------------------------
+[SQUIRTBOTTLE]
+Name = Annaffiatoio
+NamePlural = Annaffiatoi
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Annaffiatoio a forma di Squirtle. Aiuta la crescita delle Bacche piantate nel terreno[cite: 524, 525].
+#-------------------------------
+[SPRAYDUCK]
+Name = Sprayduck
+NamePlural = Sprayduck
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Annaffiatoio a forma di Psyduck. Aiuta la crescita delle Bacche piantate nel terreno[cite: 526, 527].
+#-------------------------------
+[WAILMERPAIL]
+Name = Secchiello Wailmer
+NamePlural = Secchielli Wailmer
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Un pratico annaffiatoio. Usalo per favorire la crescita delle Bacche[cite: 528, 529].
+#-------------------------------
+[SPRINKLOTAD]
+Name = Sprinklotad
+NamePlural = Sprinklotad
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Annaffiatoio a forma di Lotad. Aiuta la sana crescita delle Bacche[cite: 530, 531].
+#-------------------------------
+[GRACIDEA]
+Name = Gracidea
+NamePlural = Gracidee
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = Un fiore spesso usato nei bouquet per esprimere gratitudine in occasioni speciali[cite: 532].
+#-------------------------------
+[REVEALGLASS]
+Name = Verispecchio
+NamePlural = Verispecchi
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = Uno specchio misterioso che restituisce a certi Pokémon la loro forma originale[cite: 533, 534].
+#-------------------------------
+[PRISONBOTTLE]
+Name = Vaso del Vincolo
+NamePlural = Vasi del Vincolo
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = Bottiglia usata molto tempo fa per sigillare il potere di un certo Pokémon[cite: 535].
+#-------------------------------
+[ROTOMCATALOG]
+Name = Catalogo Rotom
+NamePlural = Cataloghi Rotom
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = Catalogo di elettrodomestici amati da Rotom per fargli cambiare forma[cite: 536, 537].
+#-------------------------------
+[ZYGARDECUBE]
+Name = Teca Zygarde
+NamePlural = Teche Zygarde
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = Contenitore per Nuclei e Cellule di Zygarde. Permette di cambiarne la forma[cite: 538].
+#-------------------------------
+[DNASPLICERS]
+Name = Cuneo DNA
+NamePlural = Cunei DNA
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = Strumento per fondere Kyurem con un certo Pokémon. Si dice fossero un unico essere[cite: 539, 540].
+#-------------------------------
+[DNASPLICERSUSED]
+Name = Cuneo DNA
+NamePlural = Cunei DNA
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = Strumento per separare Kyurem dal Pokémon con cui è stato fuso[cite: 541].
+#-------------------------------
+[NSOLARIZER]
+Name = Necrosolix
+NamePlural = Necrosolix
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = Macchinario per fondere Necrozma con Solgaleo[cite: 542].
+#-------------------------------
+[NSOLARIZERUSED]
+Name = Necrosolix
+NamePlural = Necrosolix
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = Macchinario per separare Necrozma da Solgaleo[cite: 543].
+#-------------------------------
+[NLUNARIZER]
+Name = Necrolunix
+NamePlural = Necrolunix
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = Macchinario per fondere Necrozma con Lunala[cite: 544].
+#-------------------------------
+[NLUNARIZERUSED]
+Name = Necrolunix
+NamePlural = Necrolunix
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = Macchinario per separare Necrozma da Lunala[cite: 545].
+#-------------------------------
+[REINSOFUNITY]
+Name = Briglie dell'Unione
+NamePlural = Briglie dell'Unione
+PortionName = set di Briglie dell'Unione
+PortionNamePlural = set di Briglie dell'Unione
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = Briglie offerte al re per unire Calyrex al suo destriero[cite: 546].
+#-------------------------------
+[REINSOFUNITYUSED]
+Name = Briglie dell'Unione
+NamePlural = Briglie dell'Unione
+PortionName = set di Briglie dell'Unione
+PortionNamePlural = set di Briglie dell'Unione
+Pocket = 8
+Price = 0
+FieldUse = OnPokemon
+Flags = KeyItem
+Description = Briglie offerte al re per separare Calyrex dal suo destriero[cite: 547].
+#-------------------------------
+[OVALCHARM]
+Name = Amuleto Ovale
+NamePlural = Amuleti Ovali
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Amuleto che aumenta le probabilità di trovare Uova all'Ostello[cite: 548].
+#-------------------------------
+[SHINYCHARM]
+Name = Cromamuleto
+NamePlural = Cromamuleti
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Amuleto che aumenta le probabilità di trovare Pokémon cromatici[cite: 549].
+#-------------------------------
+[CATCHINGCHARM]
+Name = Amuleto Cattura
+NamePlural = Amuleti Cattura
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Amuleto che aumenta le probabilità di effettuare una cattura critica[cite: 550].
+#-------------------------------
+[EXPCHARM]
+Name = Amuleto Esperienza
+NamePlural = Amuleti Esperienza
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Amuleto che aumenta i Punti Esperienza ricevuti dai Pokémon[cite: 551, 552].
+#-------------------------------
+[MEGARING]
+Name = Megacerchio
+NamePlural = Megacerchi
+Pocket = 8
+Price = 0
+Flags = KeyItem,MegaRing
+Description = Cerchio che permette ai Pokémon dotati di Megapietra di megaevolversi[cite: 553].
+#-------------------------------
+[POKEMONBOXLINK]
+Name = Box Pokémon
+NamePlural = Box Pokémon
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Dispositivo per accedere al sistema di deposito Pokémon ovunque[cite: 554].
+#-------------------------------
+[AURORATICKET]
+Name = Biglietto Aurora
+NamePlural = Biglietti Aurora
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Biglietto necessario per imbarcarsi verso l'Isola Materna[cite: 555].
+#-------------------------------
+[OLDSEAMAP]
+Name = Vecchia Mappa
+NamePlural = Vecchie Mappe
+Pocket = 8
+Price = 0
+Flags = KeyItem
+Description = Una mappa sbiadita che mostra la rotta per una certa isola[cite: 556].
+#-------------------------------
+[RUNNINGSHOES]
+Name = Scarpe da Corsa
+NamePlural = Scarpe da Corsa
+Pocket = 8
+Price = 0
+Description = Scarpe speciali che permettono di correre tenendo premuto B.
+Flags = KeyItem
+#-------------------------------

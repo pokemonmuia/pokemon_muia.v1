@@ -1,0 +1,396 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Lappet Town (2) - Route 1 (5)
+2,North,0,5,South,4
+# Lappet Town (2) - Safari Zone outside (66)
+2,West,0,66,East,0
+# Route 8 (69) - Lappet Town (2)
+69,North,12,2,South,0
+# Route 6 (44) - Route 1 (5)
+44,South,43,5,North,0
+# Safari Zone outside (66) - Route 1 (5)
+66,North,18,5,South,0
+# Cedolan City (7) - Route 1 (5)
+7,South,0,5,North,2
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 2 (21) - Route 7 (47)
+21,East,77,47,West,0
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 3 (31) - Ingido Plateau outside (35)
+31,West,0,35,East,10
+# Ingido Plateau outside (35) - Route 4 (39)
+35,West,11,39,East,0
+# Route 5 (41) - Route 4 Cycling Road (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 Cycling Road (45)
+41,South,6,45,North,0
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 8 (69) - Safari Zone outside (66)
+69,North,0,66,South,10
+# Caliterna (P) (82) - Viale XXV Aprile_1 (106)
+82,East,0,106,West,148
+# Via Gabriele D'Annunzio (97) - Viale XXV Aprile_1 (106)
+97,North,0,106,South,46
+# Piazza Della Repubblica (85) - Viale XXV Aprile_1 (106)
+85,East,0,106,West,118
+# Via Bembo (108) - Viale XXV Aprile_1 (106)
+108,East,0,106,West,0
+# Via S. Giovanni_4 (107) - Viale XXV Aprile_1 (106)
+107,East,0,106,West,15
+# Via Roma (86) - Viale XXV Aprile_1 (106)
+86,East,0,106,West,103
+# Calli: Bernardis / Parini (89) - Viale XXV Aprile_1 (106)
+89,West,0,106,East,113
+# Ricreatorio F. Penso (94) - Viale XXV Aprile_1 (106)
+94,East,0,106,West,80
+# Via S. Giovanni_2 (99) - Viale XXV Aprile_1 (106)
+99,North,20,106,South,0
+# Giardinetti D'Europa (96) - Viale XXV Aprile_1 (106)
+96,West,0,106,East,68
+# Via S. Giovanni (98) - Viale XXV Aprile_1 (106)
+98,North,0,106,South,0
+# Via Borgolauro (109) - Viale XXV Aprile_1 (106)
+109,West,0,106,East,0
+# Via Dante Alighieri (32) - Caliterna (P) (82)
+32,South,0,82,North,80
+# Vecchio Squero (83) - Caliterna (P) (82)
+83,West,0,82,East,0
+# Mandracchio (76) - Caliterna (P) (82)
+76,North,0,82,South,80
+# Caliterna (81) - Caliterna (P) (82)
+81,North,0,82,South,0
+# Piazza Della Repubblica (85) - Caliterna (P) (82)
+85,South,0,82,North,9
+# Via Dante Alighieri (Volto) (84) - Caliterna (P) (82)
+84,West,15,82,East,0
+# Cul de Nave (87) - Caliterna (P) (82)
+87,West,35,82,East,0
+# Via Roma_2 (92) - Caliterna (P) (82)
+92,West,50,82,East,0
+# Calle Parini (Bassa) (90) - Caliterna (P) (82)
+90,South,0,82,North,111
+# Via G. Mazzini / Parco giochi (95) - Caliterna (P) (82)
+95,West,80,82,East,0
+# Via S. Giovanni (98) - Caliterna (P) (82)
+98,West,95,82,East,0
+# Vecchio Squero (83) - Via Dante Alighieri (32)
+83,North,21,32,South,0
+# Piazza Marconi (42) - Via Dante Alighieri (32)
+42,North,0,32,South,0
+# Caliterna (81) - Via Dante Alighieri (32)
+81,East,0,32,West,41
+# Via Dante Alighieri (Volto) (84) - Via Dante Alighieri (32)
+84,East,0,32,West,0
+# Cul de Nave (87) - Via Dante Alighieri (32)
+87,South,21,32,North,0
+# Calli: Bernardis / Parini (89) - Via Dante Alighieri (32)
+89,South,1,32,North,0
+# Calle Parini (Alta) (91) - Via Dante Alighieri (32)
+91,West,20,32,East,0
+# Calle Parini (Bassa) (90) - Via Dante Alighieri (32)
+90,West,0,32,East,0
+# Piazza Marconi (42) - Vecchio Squero (83)
+42,West,0,83,East,0
+# Mandracchio (76) - Vecchio Squero (83)
+76,West,0,83,East,26
+# Caliterna (81) - Vecchio Squero (83)
+81,North,59,83,South,0
+# Piazza Della Repubblica (85) - Vecchio Squero (83)
+85,East,30,83,West,0
+# Via Dante Alighieri (Volto) (84) - Vecchio Squero (83)
+84,South,0,83,North,0
+# Via Bembo (108) - Vecchio Squero (83)
+108,East,148,83,West,0
+# Via S. Giovanni_4 (107) - Vecchio Squero (83)
+107,East,133,83,West,0
+# Via Roma (86) - Vecchio Squero (83)
+86,East,45,83,West,0
+# Calle Parini (Bassa) (90) - Vecchio Squero (83)
+90,South,0,83,North,52
+# Ricreatorio F. Penso (94) - Vecchio Squero (83)
+94,East,68,83,West,0
+# Via S. Giovanni_2 (99) - Vecchio Squero (83)
+99,East,95,83,West,0
+# Mandracchio (76) - Piazza Marconi (42)
+76,North,0,42,South,0
+# Circolo della Vela_2 (79) - Piazza Marconi (42)
+79,West,0,42,East,46
+# Caliterna (81) - Piazza Marconi (42)
+81,North,80,42,South,0
+# Piazza Della Repubblica (85) - Piazza Marconi (42)
+85,South,71,42,North,0
+# Via Dante Alighieri (Volto) (84) - Piazza Marconi (42)
+84,East,15,42,West,0
+# Calle Parini (Bassa) (90) - Piazza Marconi (42)
+90,South,0,42,North,31
+# Circolo della Vela_2 (79) - Mandracchio (76)
+79,West,0,76,East,20
+# Solo_Molo (48) - Mandracchio (76)
+48,North,7,76,South,0
+# Mandracchio_2 (43) - Mandracchio (76)
+43,North,0,76,South,13
+# Caliterna (81) - Mandracchio (76)
+81,East,0,76,West,0
+# Via Dante Alighieri (Volto) (84) - Mandracchio (76)
+84,East,41,76,West,0
+# Molo dei Bersaglieri (22) - Circolo della Vela_2 (79)
+22,North,45,79,South,0
+# Mandracchio_2 (43) - Circolo della Vela_2 (79)
+43,East,0,79,West,0
+# Caliterna (81) - Circolo della Vela_2 (79)
+81,South,138,79,North,0
+# Circolo della Vela (77) - Circolo della Vela_2 (79)
+77,East,0,79,West,20
+# Via Gabriele D'Annunzio (97) - Circolo della Vela_2 (79)
+97,East,141,79,West,0
+# Salita delle Mura / Via della Torre (93) - Circolo della Vela_2 (79)
+93,East,96,79,West,0
+# Calle Parini (Alta) (91) - Circolo della Vela_2 (79)
+91,East,81,79,West,0
+# Calle Parini (Bassa) (90) - Circolo della Vela_2 (79)
+90,East,61,79,West,0
+# Via Gabriele D'annunzio (110) - Circolo della Vela_2 (79)
+110,East,194,79,West,0
+# Solo_Molo (48) - Molo dei Bersaglieri (22)
+48,East,60,22,West,0
+# Circolo della Vela (77) - Molo dei Bersaglieri (22)
+77,South,0,22,North,0
+# Punta Molo C.Colombo (78) - Molo dei Bersaglieri (22)
+78,North,20,22,South,0
+# Mandracchio_2 (43) - Solo_Molo (48)
+43,West,0,48,East,0
+# Caliterna (81) - Solo_Molo (48)
+81,South,73,48,North,0
+# Circolo della Vela (77) - Solo_Molo (48)
+77,West,0,48,East,20
+# Punta Molo C.Colombo (78) - Solo_Molo (48)
+78,North,0,48,South,0
+# Caliterna (81) - Mandracchio_2 (43)
+81,South,93,43,North,0
+# Circolo della Vela (77) - Mandracchio_2 (43)
+77,North,0,43,South,0
+# Coppa Rotatoria (88) - Via Gabriele D'Annunzio (97)
+88,North,106,97,South,0
+# Via S. Giovanni_4 (107) - Via Gabriele D'Annunzio (97)
+107,South,66,97,North,0
+# Via Roma_2 (92) - Via Gabriele D'Annunzio (97)
+92,North,46,97,South,0
+# Salita delle Mura / Via della Torre (93) - Via Gabriele D'Annunzio (97)
+93,North,0,97,South,9
+# Giardinetti D'Europa (96) - Via Gabriele D'Annunzio (97)
+96,East,0,97,West,15
+# Via S. Giovanni (98) - Via Gabriele D'Annunzio (97)
+98,East,0,97,West,0
+# Via Borgolauro (109) - Via Gabriele D'Annunzio (97)
+109,East,53,97,West,0
+# Via Gabriele D'annunzio (110) - Via Gabriele D'Annunzio (97)
+110,South,0,97,North,0
+# Piazza Della Repubblica (85) - Coppa Rotatoria (88)
+85,North,0,88,South,10
+# Via Roma (86) - Coppa Rotatoria (88)
+86,West,0,88,East,5
+# Via G. Mazzini / Parco giochi (95) - Coppa Rotatoria (88)
+95,South,0,88,North,60
+# Ricreatorio F. Penso (94) - Coppa Rotatoria (88)
+94,West,18,88,East,0
+# Giardinetti D'Europa (96) - Coppa Rotatoria (88)
+96,South,0,88,North,80
+# Piazzale Curriel (103) - Coppa Rotatoria (88)
+103,South,10,88,North,0
+# Via Dante Alighieri (Volto) (84) - Piazza Della Repubblica (85)
+84,West,0,85,East,15
+# Cul de Nave (87) - Piazza Della Repubblica (85)
+87,West,5,85,East,0
+# Via Roma (86) - Piazza Della Repubblica (85)
+86,South,0,85,North,12
+# Via Roma_2 (92) - Piazza Della Repubblica (85)
+92,West,20,85,East,0
+# Via G. Mazzini / Parco giochi (95) - Piazza Della Repubblica (85)
+95,West,50,85,East,0
+# Via S. Giovanni (98) - Piazza Della Repubblica (85)
+98,West,65,85,East,0
+# Via Bembo (108) - Via Dante Alighieri (Volto) (84)
+108,East,133,84,West,0
+# Via S. Giovanni_4 (107) - Via Dante Alighieri (Volto) (84)
+107,East,118,84,West,0
+# Cul de Nave (87) - Via Dante Alighieri (Volto) (84)
+87,South,0,84,North,0
+# Via Roma (86) - Via Dante Alighieri (Volto) (84)
+86,East,30,84,West,0
+# Calli: Bernardis / Parini (89) - Via Dante Alighieri (Volto) (84)
+89,South,0,84,North,20
+# Calle Parini (Alta) (91) - Via Dante Alighieri (Volto) (84)
+91,South,0,84,North,52
+# Ricreatorio F. Penso (94) - Via Dante Alighieri (Volto) (84)
+94,East,53,84,West,0
+# Via S. Giovanni_2 (99) - Via Dante Alighieri (Volto) (84)
+99,East,80,84,West,0
+# Via S. Giovanni_4 (107) - Via Bembo (108)
+107,North,0,108,South,52
+# Cul de Nave (87) - Via Bembo (108)
+87,West,0,108,East,113
+# Via Roma_2 (92) - Via Bembo (108)
+92,West,0,108,East,98
+# Via G. Mazzini / Parco giochi (95) - Via Bembo (108)
+95,West,0,108,East,68
+# Via S. Giovanni (98) - Via Bembo (108)
+98,West,0,108,East,53
+# Via Mazzarei (104) - Via Bembo (108)
+104,North,0,108,South,0
+# Via Mazzarei_2 (105) - Via Bembo (108)
+105,North,0,108,South,32
+# Cul de Nave (87) - Via S. Giovanni_4 (107)
+87,West,0,107,East,98
+# Via Roma_2 (92) - Via S. Giovanni_4 (107)
+92,West,0,107,East,83
+# Via G. Mazzini / Parco giochi (95) - Via S. Giovanni_4 (107)
+95,West,0,107,East,53
+# Via S. Giovanni_2 (99) - Via S. Giovanni_4 (107)
+99,North,0,107,South,0
+# Via S. Giovanni (98) - Via S. Giovanni_4 (107)
+98,West,0,107,East,38
+# Via Singolo (100) - Via S. Giovanni_4 (107)
+100,East,0,107,West,50
+# Via S. Giovanni_3 (101) - Via S. Giovanni_4 (107)
+101,East,0,107,West,32
+# Via Mazzarei_2 (105) - Via S. Giovanni_4 (107)
+105,East,0,107,West,0
+# Via Roma (86) - Cul de Nave (87)
+86,East,10,87,West,0
+# Calli: Bernardis / Parini (89) - Cul de Nave (87)
+89,West,0,87,East,0
+# Via Roma_2 (92) - Cul de Nave (87)
+92,South,0,87,North,0
+# Salita delle Mura / Via della Torre (93) - Cul de Nave (87)
+93,South,0,87,North,55
+# Calle Parini (Bassa) (90) - Cul de Nave (87)
+90,North,0,87,South,52
+# Ricreatorio F. Penso (94) - Cul de Nave (87)
+94,East,33,87,West,0
+# Via S. Giovanni_2 (99) - Cul de Nave (87)
+99,East,60,87,West,0
+# Giardinetti D'Europa (96) - Cul de Nave (87)
+96,West,45,87,East,0
+# Via Borgolauro (109) - Cul de Nave (87)
+109,West,113,87,East,0
+# Via Roma_2 (92) - Via Roma (86)
+92,West,5,86,East,0
+# Via G. Mazzini / Parco giochi (95) - Via Roma (86)
+95,West,35,86,East,0
+# Ricreatorio F. Penso (94) - Via Roma (86)
+94,South,0,86,North,0
+# Via S. Giovanni (98) - Via Roma (86)
+98,West,50,86,East,0
+# Piazzale Curriel (103) - Via Roma (86)
+103,East,23,86,West,0
+# Via Roma_2 (92) - Calli: Bernardis / Parini (89)
+92,South,20,89,North,0
+# Salita delle Mura / Via della Torre (93) - Calli: Bernardis / Parini (89)
+93,South,0,89,North,35
+# Calle Parini (Alta) (91) - Calli: Bernardis / Parini (89)
+91,West,0,89,East,0
+# Calle Parini (Bassa) (90) - Calli: Bernardis / Parini (89)
+90,West,0,89,East,20
+# Via G. Mazzini / Parco giochi (95) - Calli: Bernardis / Parini (89)
+95,East,45,89,West,0
+# Salita delle Mura / Via della Torre (93) - Via Roma_2 (92)
+93,West,0,92,East,0
+# Calle Parini (Alta) (91) - Via Roma_2 (92)
+91,North,0,92,South,52
+# Via G. Mazzini / Parco giochi (95) - Via Roma_2 (92)
+95,South,0,92,North,0
+# Ricreatorio F. Penso (94) - Via Roma_2 (92)
+94,East,18,92,West,0
+# Via S. Giovanni_2 (99) - Via Roma_2 (92)
+99,East,45,92,West,0
+# Giardinetti D'Europa (96) - Via Roma_2 (92)
+96,South,0,92,North,20
+# Piazzale Curriel (103) - Via Roma_2 (92)
+103,South,70,92,North,0
+# Calle Parini (Alta) (91) - Salita delle Mura / Via della Torre (93)
+91,North,3,93,South,0
+# Via G. Mazzini / Parco giochi (95) - Salita delle Mura / Via della Torre (93)
+95,South,55,93,North,0
+# Giardinetti D'Europa (96) - Salita delle Mura / Via della Torre (93)
+96,South,35,93,North,0
+# Piazzale Curriel (103) - Salita delle Mura / Via della Torre (93)
+103,South,125,93,North,0
+# Calle Parini (Bassa) (90) - Calle Parini (Alta) (91)
+90,North,0,91,South,0
+# Ricreatorio F. Penso (94) - Via G. Mazzini / Parco giochi (95)
+94,East,0,95,West,12
+# Via S. Giovanni_2 (99) - Via G. Mazzini / Parco giochi (95)
+99,East,15,95,West,0
+# Giardinetti D'Europa (96) - Via G. Mazzini / Parco giochi (95)
+96,West,0,95,East,0
+# Via S. Giovanni (98) - Via G. Mazzini / Parco giochi (95)
+98,South,0,95,North,0
+# Via Borgolauro (109) - Via G. Mazzini / Parco giochi (95)
+109,West,68,95,East,0
+# Via S. Giovanni_2 (99) - Ricreatorio F. Penso (94)
+99,South,0,94,North,18
+# Via S. Giovanni (98) - Ricreatorio F. Penso (94)
+98,West,27,94,East,0
+# Piazzale Curriel (103) - Ricreatorio F. Penso (94)
+103,East,0,94,West,0
+# Via Singolo (100) - Ricreatorio F. Penso (94)
+100,South,2,94,North,0
+# Piazzale Foschiatti (102) - Ricreatorio F. Penso (94)
+102,South,32,94,North,0
+# Via S. Giovanni (98) - Via S. Giovanni_2 (99)
+98,West,0,99,East,0
+# Via Borgolauro (109) - Via S. Giovanni_2 (99)
+109,South,0,99,North,40
+# Piazzale Curriel (103) - Via S. Giovanni_2 (99)
+103,North,50,99,South,0
+# Via Singolo (100) - Via S. Giovanni_2 (99)
+100,East,0,99,West,12
+# Via S. Giovanni_3 (101) - Via S. Giovanni_2 (99)
+101,East,6,99,West,0
+# Via Mazzarei_2 (105) - Via S. Giovanni_2 (99)
+105,East,38,99,West,0
+# Via Gabriele D'annunzio (110) - Via S. Giovanni_2 (99)
+110,South,0,99,North,66
+# Via S. Giovanni (98) - Giardinetti D'Europa (96)
+98,South,20,96,North,0
+# Via Gabriele D'annunzio (110) - Giardinetti D'Europa (96)
+110,West,68,96,East,0
+# Via Borgolauro (109) - Via S. Giovanni (98)
+109,South,0,98,North,20
+# Via Gabriele D'annunzio (110) - Via S. Giovanni (98)
+110,West,53,98,East,0
+# Via Gabriele D'annunzio (110) - Via Borgolauro (109)
+110,West,0,109,East,0
+# Via Singolo (100) - Piazzale Curriel (103)
+100,South,0,103,North,30
+# Piazzale Foschiatti (102) - Piazzale Curriel (103)
+102,South,0,103,North,0
+# Via Mazzarei (104) - Via Singolo (100)
+104,East,50,100,West,0
+# Via S. Giovanni_3 (101) - Via Singolo (100)
+101,South,0,100,North,0
+# Piazzale Foschiatti (102) - Via Singolo (100)
+102,East,0,100,West,0
+# Via S. Giovanni_3 (101) - Via Mazzarei (104)
+101,West,0,104,East,32
+# Via Mazzarei_2 (105) - Via Mazzarei (104)
+105,West,0,104,East,0
+# Piazzale Foschiatti (102) - Via Mazzarei (104)
+102,North,0,104,South,2
+# Via Mazzarei_2 (105) - Via S. Giovanni_3 (101)
+105,South,0,101,North,0
+# Piazzale Foschiatti (102) - Via S. Giovanni_3 (101)
+102,North,30,101,South,0
+# Piazzale Foschiatti (102) - Via Mazzarei_2 (105)
+102,East,0,105,West,50

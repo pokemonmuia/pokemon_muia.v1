@@ -1,0 +1,48 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[Default]
+Intro = Pronto. Qui è \TN.
+Intro = Buongiorno, \PN! Ciao. Qui è \TN.
+Intro = Come va? \PN, ehi! Qui è \TN. Non è una bella giornata?
+Intro = \PN, buona giornata! Sono io, \TN. Hai un minuto?
+Intro = Ciao, \PN. Qui è \TN. Come vanno le cose?
+IntroMorning = Buongiorno, \PN. Qui è \TN. Ti ho svegliato?
+IntroAfternoon = Buon pomeriggio, \PN! Qui c'è \TN.
+IntroEvening = \PN, buonasera! Ciao. Qui è \TN.
+Body = Come stanno i tuoi Pokémon?\mIl mio \TP è davvero energico. È un terremoto!\mAh sì, sono riuscito a battere un osso duro come \TE.\mDevo rendere la mia squadra più forte.
+Body = Il mio \TP è davvero fantastico. Vorrei potertelo mostrare.\mEhi, ascolta! L'altro giorno ho quasi catturato un \TE.\mOh, ci sono andato vicinissimooooo!
+Body1 = Come stanno i tuoi Pokémon?\mIl mio \TP è davvero energico. È un terremoto!
+Body1 = Come stanno i tuoi Pokémon?\mTengo sempre il mio \TP in ottima forma andando ai Centri Pokémon.
+Body1 = Il mio \TP è davvero fantastico. Vorrei potertelo mostrare.
+Body1 = Ho agghindato il mio \TP ed è ancora più carino di prima.
+Body2 = Ah sì, sono riuscito a battere un osso duro come \TE.\mDevo rendere la mia squadra più forte.
+Body2 = Devi sentire questa! Ho lottato contro \TE l'altro giorno.\mÈ stato facile! Ero in vantaggio di tipo.
+Body2 = Ehi, ascolta! L'altro giorno ho quasi catturato \TE.\mOh, ci sono andato vicinissimooooo!
+Body2 = Indovina cosa è successo l'altro giorno. Mi è scappato di nuovo \TE.\mForse non sono molto bravo in questo.
+BattleRequest = Vuoi lottare? Non finirà come l'ultima volta che ci siamo visti.\mTi aspetterò nei paraggi di \TM.
+BattleRequest = Ti va una lotta? Stavolta vincerò io!\mTi aspetterò nei paraggi di \TM.\mCercami, ok? Il mio \TP ti aspetta.
+#-------------------------------
+[CAMPER,Jeff]
+Intro = Pronto. Qui è \TN...\mCome va, \PN?
+Body1 = Il mio \TP mi somiglia sempre di più. Sta diventando carinissimo!
+Body2 = E sai una cosa? Ora possiamo mandare KO \TE facilmente.\mDovrei sfidare la Palestra di Cedolan.
+Body2 = E sai una cosa? Abbiamo appena mancato la vittoria contro \TE per un soffio.\mImmagino che i livelli dei miei Pokémon non siano ancora abbastanza alti...
+BattleRequest = Sarai diventato molto più bravo ormai, eh?\mChe ne dici di mostrarmi la tua tecnica in una vera lotta con me?\mTi aspetterò su \TM.
+BattleRemind = Dove sei? Facciamo questa lotta al più presto!\mTi aspetterò su \TM.
+End = Ci vediamo più tardi!
+#-------------------------------
+[PICNICKER,Susie]
+Intro = Qui è \TN!
+Intro = Ciao, qui è \TN!
+IntroMorning = Qui è \TN! Buongiorno, \PN!
+IntroMorning = Ciao, qui è \TN! Buongiorno, \PN!
+IntroAfternoon = Qui è \TN! Buon pomeriggio, \PN!
+IntroAfternoon = Ciao, qui è \TN! Buon pomeriggio, \PN!
+IntroEvening = Qui è \TN! Buonasera, \PN!
+IntroEvening = Ciao, qui è \TN! Buonasera, \PN!
+Body1 = Io e il mio \TP siamo sempre più in sintonia.
+Body2 = Abbiamo lottato contro un \TE selvatico e siamo riusciti a batterlo in un match combattuto.\mCi stiamo prendendo la mano!
+Body2 = Ma sai una cosa? Non ho ancora catturato \TE.\mIncomincia a essere più che frustrante...
+BattleRequest = Ti andrebbe di essere di nuovo il mio compagno di allenamento qualche volta?\mTi aspetterò su \TM...\mPotresti andarci un po' più leggero con me la prossima volta?
+BattleRemind = Tra quanto pensi di arrivare?\mNon dimenticare, \TM!
+End = Ciao! Sentiamoci ancora!
