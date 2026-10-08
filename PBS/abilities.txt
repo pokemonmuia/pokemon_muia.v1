@@ -9,7 +9,7 @@ Name = Piovischio
 Description = Il Pokémon evoca la pioggia quando entra in campo.
 #-------------------------------
 [SPEEDBOOST]
-Name = Accelerazione
+Name = Acceleratore
 Description = La Velocità del Pokémon aumenta gradualmente.
 #-------------------------------
 [BATTLEARMOR]
@@ -33,11 +33,11 @@ Name = Sabbiavelo
 Description = Aumenta l'elusione del Pokémon durante una tempesta di sabbia.
 #-------------------------------
 [STATIC]
-Name = Staticità
+Name = Statico
 Description = Il contatto con il Pokémon può causare paralisi.
 #-------------------------------
 [VOLTABSORB]
-Name = Assorbielettro
+Name = Assorbivolt
 Description = Ripristina i PS se colpiti da una mossa di tipo Elettro.
 #-------------------------------
 [WATERABSORB]
@@ -69,7 +69,7 @@ Name = Immunità
 Description = Impedisce al Pokémon di venire avvelenato.
 #-------------------------------
 [FLASHFIRE]
-Name = Fuocodentro
+Name = Fuocardore
 Description = Potenzia le mosse di tipo Fuoco se colpiti da una di esse.
 #-------------------------------
 [SHIELDDUST]
@@ -81,7 +81,7 @@ Name = Mente Locale
 Description = Impedisce al Pokémon di cadere in stato di confusione.
 #-------------------------------
 [SUCTIONCUPS]
-Name = Ventosa
+Name = Ventose
 Description = Annulla l'effetto delle mosse che costringono alla sostituzione.
 #-------------------------------
 [INTIMIDATE]
@@ -153,7 +153,7 @@ Name = Velenopunto
 Description = Il contatto con il Pokémon può avvelenare l'attaccante.
 #-------------------------------
 [INNERFOCUS]
-Name = Fuocodentro
+Name = Forza Interiore
 Description = Protegge il Pokémon dal tentennamento.
 #-------------------------------
 [MAGMAARMOR]
@@ -194,12 +194,12 @@ Name = Sveglialampo
 Description = Il Pokémon si sveglia rapidamente dal sonno.
 #-------------------------------
 [FLAMEBODY]
-Name = Corpofunesto
+Name = Corpodifuoco
 Description = Il contatto con il Pokémon può scottare l'attaccante.
 Flags = FasterEggHatching
 #-------------------------------
 [RUNAWAY]
-Name = Fuga
+Name = Fugafacile
 Description = Permette di fuggire sempre dai Pokémon selvatici.
 #-------------------------------
 [KEENEYE]
@@ -215,7 +215,7 @@ Name = Raccolta
 Description = Il Pokémon può raccogliere strumenti durante il viaggio.
 #-------------------------------
 [TRUANT]
-Name = Pigrizia
+Name = Pigrone
 Description = Il Pokémon può attaccare solo un turno sì e uno no.
 #-------------------------------
 [HUSTLE]
@@ -251,7 +251,7 @@ Name = Dentistretti
 Description = Aumenta l'Attacco se il Pokémon ha un problema di stato.
 #-------------------------------
 [MARVELSCALE]
-Name = Pellesquama
+Name = Pelledura
 Description = Aumenta la Difesa se il Pokémon ha un problema di stato.
 #-------------------------------
 [LIQUIDOOZE]
@@ -283,7 +283,7 @@ Name = Siccità
 Description = Il Pokémon evoca luce solare intensa quando entra in campo.
 #-------------------------------
 [ARENATRAP]
-Name = Trappolarena
+Name = Trappoarena
 Description = Impedisce la fuga ai Pokémon avversari.
 #-------------------------------
 [VITALSPIRIT]
@@ -291,7 +291,7 @@ Name = Spiritovivo
 Description = Impedisce al Pokémon di addormentarsi.
 #-------------------------------
 [WHITESMOKE]
-Name = Fumobianco
+Name = Fumochiaro
 Description = Impedisce agli altri Pokémon di ridurre le statistiche.
 #-------------------------------
 [PUREPOWER]
@@ -307,11 +307,11 @@ Name = Riparo
 Description = Annulla gli effetti delle condizioni meteorologiche.
 #-------------------------------
 [TANGLEDFEET]
-Name = Intralcio
+Name = Intricopiedi
 Description = Aumenta l'elusione quando il Pokémon è confuso.
 #-------------------------------
 [MOTORDRIVE]
-Name = Elettrotrazione
+Name = Elettrorapid
 Description = Aumenta la Velocità se colpiti da una mossa di tipo Elettro.
 #-------------------------------
 [RIVALRY]
@@ -367,7 +367,7 @@ Name = Adattabilità
 Description = Potenzia le mosse dello stesso tipo del Pokémon.
 #-------------------------------
 [SKILLLINK]
-Name = Multiscatto
+Name = Abillegame
 Description = Aumenta il numero di colpi delle mosse multicandela.
 #-------------------------------
 [HYDRATION]
@@ -439,7 +439,7 @@ Name = Imprudenza
 Description = Ignora i cambiamenti delle statistiche dell'avversario.
 #-------------------------------
 [TINTEDLENS]
-Name = Lenteffetto
+Name = Lentifumé
 Description = Potenzia le mosse "non molto efficaci" usate dal Pokémon.
 #-------------------------------
 [FILTER]
@@ -447,7 +447,7 @@ Name = Filtro
 Description = Riduce i danni subiti dalle mosse superefficaci.
 #-------------------------------
 [SLOWSTART]
-Name = Inizio Lento
+Name = Lentoinizio
 Description = Dimezza temporaneamente l'Attacco e la Velocità.
 #-------------------------------
 [SCRAPPY]
@@ -539,7 +539,7 @@ Name = Metalpesante
 Description = Raddoppia il peso del Pokémon.
 #-------------------------------
 [LIGHTMETAL]
-Name = Metalloluce
+Name = Metalleggero
 Description = Dimezza il peso del Pokémon.
 #-------------------------------
 [MULTISCALE]
@@ -547,7 +547,7 @@ Name = Multisquame
 Description = Riduce i danni subiti quando i PS sono al massimo.
 #-------------------------------
 [TOXICBOOST]
-Name = Tossicofoschia
+Name = Velenimpeto
 Description = Potenzia gli attacchi fisici quando il Pokémon è avvelenato.
 #-------------------------------
 [FLAREBOOST]
@@ -555,7 +555,7 @@ Name = Bruciaimpeto
 Description = Potenzia gli attacchi speciali quando il Pokémon è scottato.
 #-------------------------------
 [HARVEST]
-Name = Raccolto
+Name = Coglibacche
 Description = Può rigenerare una Bacca già consumata.
 #-------------------------------
 [TELEPATHY]
@@ -587,7 +587,7 @@ Name = Remasabbia
 Description = Aumenta la Velocità del Pokémon durante una tempesta di sabbia.
 #-------------------------------
 [WONDERSKIN]
-Name = Pellemiracolo
+Name = Splendicute
 Description = Rende meno probabile subire mosse di stato.
 #-------------------------------
 [ANALYTIC]
@@ -635,11 +635,11 @@ Name = Burla
 Description = Conferisce priorità alle mosse di stato.
 #-------------------------------
 [SANDFORCE]
-Name = Silvoforza
+Name = Silicoforza
 Description = Potenzia alcune mosse durante una tempesta di sabbia.
 #-------------------------------
 [IRONBARBS]
-Name = Spineferree
+Name = Spineferrate
 Description = Danneggia il nemico che infligge un attacco diretto.
 #-------------------------------
 [ZENMODE]
@@ -695,7 +695,7 @@ Name = Ferromascella
 Description = Potenzia le mosse basate sui morsi.
 #-------------------------------
 [REFRIGERATE]
-Name = Pelleghiacciata
+Name = Pellegelo
 Description = Le mosse di tipo Normale diventano di tipo Ghiaccio e più potenti.
 #-------------------------------
 [SWEETVEIL]
@@ -703,7 +703,7 @@ Name = Dolcevelo
 Description = Impedisce al Pokémon e ai suoi alleati di addormentarsi.
 #-------------------------------
 [STANCECHANGE]
-Name = Acciaionero
+Name = Accendilotta
 Description = Il Pokémon cambia forma a seconda della mossa che usa.
 #-------------------------------
 [GALEWINGS]
@@ -715,7 +715,7 @@ Name = Megalancio
 Description = Potenzia le mosse a base di impulsi o aure.
 #-------------------------------
 [GRASSPELT]
-Name = Mantelnerba
+Name = Peloderba
 Description = Aumenta la Difesa se è attivo un Campo Erboso.
 #-------------------------------
 [SYMBIOSIS]
@@ -743,7 +743,7 @@ Name = Amorefiliale
 Description = Il genitore e il piccolo attaccano insieme.
 #-------------------------------
 [DARKAURA]
-Name = Auratenebra
+Name = Auratetra
 Description = Potenzia le mosse di tipo Buio di tutti i Pokémon in campo.
 #-------------------------------
 [FAIRYAURA]
@@ -767,7 +767,7 @@ Name = Flusso Delta
 Description = Crea una corrente d'aria che elimina le debolezze del tipo Volante.
 #-------------------------------
 [STAMINA]
-Name = Vigore
+Name = Sopportazione
 Description = Aumenta la Difesa quando il Pokémon subisce un attacco.
 #-------------------------------
 [WIMPOUT]
@@ -779,7 +779,7 @@ Name = Passoindietro
 Description = Il Pokémon si ritira se i suoi PS scendono a metà o meno.
 #-------------------------------
 [WATERCOMPACTION]
-Name = Idrocompattamento
+Name = Idrorinforzo
 Description = Se colpito da una mossa di tipo Acqua, la Difesa aumenta di molto.
 #-------------------------------
 [MERCILESS]
@@ -787,7 +787,7 @@ Name = Spietatezza
 Description = Se il bersaglio è avvelenato, gli attacchi sono brutti colpi sicuri.
 #-------------------------------
 [SHIELDSDOWN]
-Name = Scudoinfame
+Name = Scudosoglia
 Description = Quando i PS scendono a metà o meno, il guscio si rompe.
 #-------------------------------
 [STAKEOUT]
@@ -811,7 +811,7 @@ Name = Spalaneve
 Description = Aumenta la Velocità durante una tempesta di grandine.
 #-------------------------------
 [LONGREACH]
-Name = Lungoportata
+Name = Distacco
 Description = Il Pokémon usa le sue mosse senza entrare in contatto con il bersaglio.
 #-------------------------------
 [LIQUIDVOICE]
@@ -819,19 +819,19 @@ Name = Idrovoce
 Description = Le mosse basate sul suono diventano di tipo Acqua.
 #-------------------------------
 [TRIAGE]
-Name = Prontosoccorso
+Name = Primacura
 Description = Conferisce la massima priorità alle mosse curative.
 #-------------------------------
 [GALVANIZE]
-Name = Pelleelettro
+Name = Pellelettro
 Description = Le mosse di tipo Normale diventano di tipo Elettro e più potenti.
 #-------------------------------
 [SURGESURFER]
-Name = Coda Surge
+Name = Codasurf
 Description = Raddoppia la Velocità quando è attivo un Campo Elettrico.
 #-------------------------------
 [SCHOOLING]
-Name = Bancofila
+Name = Banco
 Description = Il Pokémon forma un banco potente finché ha PS a sufficienza.
 #-------------------------------
 [DISGUISE]
@@ -851,19 +851,19 @@ Name = Corrosione
 Description = Permette di avvelenare anche i Pokémon di tipo Acciaio o Veleno.
 #-------------------------------
 [COMATOSE]
-Name = Sonno Perenne
+Name = Sonno Assoluto
 Description = Il Pokémon è sempre addormentato e può attaccare senza svegliarsi.
 #-------------------------------
 [QUEENLYMAJESTY]
-Name = Maestà Regale
+Name = Regalità
 Description = Impedisce ai nemici di usare mosse con priorità alta.
 #-------------------------------
 [INNARDSOUT]
-Name = Espulsione
+Name = Espellinterno
 Description = Danneggia il nemico che infligge il colpo del KO.
 #-------------------------------
 [DANCER]
-Name = Danza
+Name = Sincrodanza
 Description = Copia immediatamente le mosse di danza degli altri Pokémon.
 #-------------------------------
 [BATTERY]
@@ -887,7 +887,7 @@ Name = Boccolidoro
 Description = Il contatto con il Pokémon riduce la Velocità dell'attaccante.
 #-------------------------------
 [RECEIVER]
-Name = Ricevitore
+Name = Ricezione
 Description = Copia l'abilità di un alleato andato KO.
 #-------------------------------
 [POWEROFALCHEMY]
@@ -907,7 +907,7 @@ Name = Elettrogenesi
 Description = Crea un Campo Elettrico quando il Pokémon entra in campo.
 #-------------------------------
 [PSYCHICSURGE]
-Name = Psico genesi
+Name = Psicogenesi
 Description = Crea un Campo Psichico quando il Pokémon entra in campo.
 #-------------------------------
 [MISTYSURGE]
@@ -915,7 +915,7 @@ Name = Nebbiogenesi
 Description = Crea un Campo Nebbioso quando il Pokémon entra in campo.
 #-------------------------------
 [GRASSYSURGE]
-Name = Erbabelva
+Name = Erbogenesi
 Description = Crea un Campo Erboso quando il Pokémon entra in campo.
 #-------------------------------
 [FULLMETALBODY]
@@ -931,7 +931,7 @@ Name = Scudoprisma
 Description = Riduce i danni subiti dalle mosse superefficaci.
 #-------------------------------
 [NEUROFORCE]
-Name = Filtrocerveello
+Name = Cerebroforza
 Description = Potenzia le mosse superefficaci usate dal Pokémon.
 #-------------------------------
 [INTREPIDSWORD]
@@ -947,7 +947,7 @@ Name = Libero
 Description = Cambia il tipo del Pokémon in quello della mossa che sta per usare.
 #-------------------------------
 [BALLFETCH]
-Name = Raccogliball
+Name = Raccattapalle
 Description = Se il lancio di una Poké Ball fallisce, il Pokémon la recupera.
 #-------------------------------
 [COTTONDOWN]
@@ -955,7 +955,7 @@ Name = Lanugine
 Description = Quando subisce un colpo, riduce la Velocità di tutti gli altri Pokémon.
 #-------------------------------
 [PROPELLERTAIL]
-Name = Timone
+Name = Elicopinna
 Description = Ignora gli effetti delle abilità o mosse che attirano i colpi.
 #-------------------------------
 [MIRRORARMOR]
@@ -963,11 +963,11 @@ Name = Blindospecchio
 Description = Riflette sul nemico gli effetti di riduzione delle statistiche.
 #-------------------------------
 [GULPMISSILE]
-Name = Inghiottitutto
+Name = Inghiottimissile
 Description = Se usa Surf o Sub, il Pokémon pesca una preda che sputa se colpito.
 #-------------------------------
 [STALWART]
-Name = Metalscudo
+Name = Volontà di Ferro
 Description = Ignora gli effetti delle abilità o mosse che attirano i colpi.
 #-------------------------------
 [STEAMENGINE]
@@ -984,7 +984,7 @@ Name = Sputasabbia
 Description = Il Pokémon evoca una tempesta di sabbia quando subisce un attacco.
 #-------------------------------
 [ICESCALES]
-Name = Pelogelo
+Name = Geloscaglie
 Description = Dimezza i danni subiti dalle mosse speciali.
 #-------------------------------
 [RIPEN]
@@ -1004,15 +1004,15 @@ Name = Mimetismo
 Description = Cambia il tipo del Pokémon a seconda del campo attivo.
 #-------------------------------
 [SCREENCLEANER]
-Name = Antiscreen
+Name = Annullabarriere
 Description = Quando entra in campo, annulla gli effetti di Riflesso e simili.
 #-------------------------------
 [STEELYSPIRIT]
-Name = Tempracciaio
+Name = Spiritoferreo
 Description = Potenzia le mosse di tipo Acciaio degli alleati.
 #-------------------------------
 [PERISHBODY]
-Name = Corpofunesto
+Name = Ultimotocco
 Description = Se colpito da un attacco diretto, i Pokémon vanno KO dopo tre turni.
 #-------------------------------
 [WANDERINGSPIRIT]
@@ -1020,7 +1020,7 @@ Name = Anima Errante
 Description = Chi sferra un attacco diretto scambia l'abilità con il Pokémon.
 #-------------------------------
 [GORILLATACTICS]
-Name = Vigor gorilla
+Name = Vigorilla
 Description = Aumenta l'Attacco, ma permette di usare solo la prima mossa scelta.
 #-------------------------------
 [NEUTRALIZINGGAS]
@@ -1032,19 +1032,19 @@ Name = Pastelvelo
 Description = Protegge il Pokémon e i suoi alleati dall'avvelenamento.
 #-------------------------------
 [HUNGERSWITCH]
-Name = Panciafame
+Name = Pancialterna
 Description = Il Pokémon cambia forma alla fine di ogni turno.
 #-------------------------------
 [QUICKDRAW]
-Name = Estrazione Rapida
+Name = Colpolesto
 Description = Talvolta permette al Pokémon di agire per primo.
 #-------------------------------
 [UNSEENFIST]
-Name = Pugno Invisibile
+Name = Pugni Invisibili
 Description = Le mosse a contatto diretto colpiscono anche se il bersaglio si protegge.
 #-------------------------------
 [CURIOUSMEDICINE]
-Name = Medicina Strana
+Name = Stranofarmaco
 Description = Quando entra in campo, annulla le variazioni di statistiche degli alleati.
 #-------------------------------
 [TRANSISTOR]
@@ -1052,7 +1052,7 @@ Name = Transistor
 Description = Potenzia le mosse di tipo Elettro.
 #-------------------------------
 [DRAGONSMAW]
-Name = Dragomascella
+Name = Dragomascelle
 Description = Potenzia le mosse di tipo Drago.
 #-------------------------------
 [CHILLINGNEIGH]

@@ -38,7 +38,7 @@ EffectChance = 10
 Description = Il Pokémon vibra le ali generando un'onda sonora dannosa. Può anche ridurre la Difesa Speciale del bersaglio.
 #-------------------------------
 [FIRSTIMPRESSION]
-Name = Sbalordimento
+Name = Schermaglia
 Type = BUG
 Category = Physical
 Power = 90
@@ -51,7 +51,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Mossa dalla potenza micidiale che però funziona solo al primo turno di permanenza in campo.
 #-------------------------------
 [POLLENPUFF]
-Name = Sferadipollini
+Name = Sferapolline
 Type = BUG
 Category = Special
 Power = 90
@@ -113,7 +113,7 @@ EffectChance = 10
 Description = Il Pokémon attacca con un raggio di luce sinistra. Può anche confondere il bersaglio.
 #-------------------------------
 [SKITTERSMACK]
-Name = Entomosbalzo
+Name = Strisciacolpo
 Type = BUG
 Category = Physical
 Power = 70
@@ -176,7 +176,7 @@ EffectChance = 10
 Description = Chi la usa attacca il nemico con scaglie polverose soffiate dal vento. Può aumentare tutte le statistiche.
 #-------------------------------
 [FELLSTINGER]
-Name = Pugnodritto
+Name = Pungiglione
 Type = BUG
 Category = Physical
 Power = 50
@@ -213,7 +213,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Il bersaglio è colpito da falci o artigli. La potenza aumenta se la mossa è usata in successione.
 #-------------------------------
 [PINMISSILE]
-Name = Agoinfica
+Name = Missilspillo
 Type = BUG
 Category = Physical
 Power = 25
@@ -225,7 +225,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Vengono lanciati degli aculei acuminati sul bersaglio in rapida successione da due a cinque volte.
 #-------------------------------
 [TWINEEDLE]
-Name = Doppioago
+Name = Doppio Ago
 Type = BUG
 Category = Physical
 Power = 25
@@ -238,7 +238,7 @@ EffectChance = 20
 Description = Il bersaglio è colpito due volte da una coppia di aculei. Può anche avvelenarlo.
 #-------------------------------
 [INFESTATION]
-Name = Infestazione
+Name = Assillo
 Type = BUG
 Category = Special
 Power = 20
@@ -270,7 +270,7 @@ FunctionCode = HealUserHalfOfTotalHP
 Description = Chi la usa chiama a raccolta i suoi sudditi per farsi curare. Recupera fino a metà dei suoi PS massimi.
 #-------------------------------
 [POWDER]
-Name = Polveremagica
+Name = Pulviscoppio
 Type = BUG
 Category = Status
 Accuracy = 100
@@ -292,7 +292,7 @@ Flags = Dance
 Description = Chi la usa danza con leggiadria aumentando l'Attacco Speciale, la Difesa Speciale e la Velocità.
 #-------------------------------
 [RAGEPOWDER]
-Name = Polvererabbia
+Name = Polverabbia
 Type = BUG
 Category = Status
 Accuracy = 0
@@ -395,7 +395,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Il Pokémon colpisce il bersaglio roteando entrambe le braccia. Ignora le modifiche alle statistiche del nemico.
 #-------------------------------
 [NIGHTDAZE]
-Name = Urto Oscuro
+Name = Urtoscuro
 Type = DARK
 Category = Special
 Power = 85
@@ -434,7 +434,7 @@ EffectChance = 20
 Description = Chi la usa sprigiona un'aura terribile piena di cattivi pensieri. Può far tentennare il bersaglio.
 #-------------------------------
 [FALSESURRENDER]
-Name = Sottomissione
+Name = Supplicolpo
 Type = DARK
 Category = Physical
 Power = 80
@@ -446,7 +446,7 @@ Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
 Description = Chi la usa finge di inchinarsi per poi colpire il bersaglio con i capelli irsuti. Non fallisce mai.
 #-------------------------------
 [JAWLOCK]
-Name = Presa Serrata
+Name = Morsostretto
 Type = DARK
 Category = Physical
 Power = 80
@@ -458,7 +458,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Questa mossa impedisce a chi la usa e al bersaglio di essere sostituiti finché uno dei due non va KO.
 #-------------------------------
 [THROATCHOP]
-Name = Colpogola
+Name = Colpo Infernale
 Type = DARK
 Category = Physical
 Power = 80
@@ -654,7 +654,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa lancia il suo strumento sul bersaglio. Potenza ed effetto dipendono dallo strumento.
 #-------------------------------
 [POWERTRIP]
-Name = Spavalderia
+Name = Tracotanza
 Type = DARK
 Category = Physical
 Power = 1
@@ -689,7 +689,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa trascina i nemici in un mondo di oscurità totale inducendo il sonno.
 #-------------------------------
 [EMBARGO]
-Name = Embargo
+Name = Divieto
 Type = DARK
 Category = Status
 Accuracy = 100
@@ -700,7 +700,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Impedisce al bersaglio di usare il proprio strumento e all'Allenatore di usare strumenti su di lui.
 #-------------------------------
 [FAKETEARS]
-Name = Falsalacrime
+Name = Falselacrime
 Type = DARK
 Category = Status
 Accuracy = 100
@@ -732,7 +732,7 @@ FunctionCode = RaiseUserAtkAcc1
 Description = Chi la usa affila gli artigli per aumentare il suo Attacco e la sua precisione.
 #-------------------------------
 [MEMENTO]
-Name = Monito
+Name = Memento
 Type = DARK
 Category = Status
 Accuracy = 100
@@ -775,7 +775,7 @@ Flags = CanProtect,CanMirrorMove,Sound
 Description = Chi la usa riduce l'Attacco e l'Attacco Speciale del nemico e poi si fa sostituire.
 #-------------------------------
 [QUASH]
-Name = Imposizione
+Name = Spintone
 Type = DARK
 Category = Status
 Accuracy = 100
@@ -797,7 +797,7 @@ FunctionCode = StealAndUseBeneficialStatusMove
 Description = Chi la usa ruba gli effetti di mosse curative o di variazione di statistiche tentate dal nemico.
 #-------------------------------
 [SWITCHEROO]
-Name = Raggiro
+Name = Rapidscambio
 Type = DARK
 Category = Status
 Accuracy = 100
@@ -962,7 +962,7 @@ Flags = CanProtect,CanMirrorMove,HighCriticalHitRate
 Description = Chi la usa lacera il bersaglio e lo spazio circostante. Brutti colpi più probabili.
 #-------------------------------
 [DRAGONHAMMER]
-Name = Marteldago
+Name = Marteldrago
 Type = DRAGON
 Category = Physical
 Power = 90
@@ -998,7 +998,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Chi la usa attacca il bersaglio con artigli grandi e affilati.
 #-------------------------------
 [BREAKINGSWIPE]
-Name = Vastaimpatto
+Name = Vastoimpatto
 Type = DRAGON
 Category = Physical
 Power = 60
@@ -1098,7 +1098,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Colpisce il bersaglio con un'onda d'urto devastante che infligge sempre 40 PS di danno.
 #-------------------------------
 [CLANGOROUSSOUL]
-Name = Animascaglia
+Name = Dracofonia
 Type = DRAGON
 Category = Status
 Accuracy = 0
@@ -1159,7 +1159,7 @@ EffectChance = 100
 Description = Chi la usa lancia un potente raggio elettrico che paralizza sempre il bersaglio, se lo colpisce.
 #-------------------------------
 [AURAWHEEL]
-Name = Ruotaurora
+Name = Ruota d'Aura
 Type = ELECTRIC
 Category = Physical
 Power = 110
@@ -1185,7 +1185,7 @@ EffectChance = 30
 Description = Un fulmine spaventoso cade sul bersaglio infliggendo danni. Può anche paralizzarlo.
 #-------------------------------
 [FUSIONBOLT]
-Name = Incrocituono
+Name = Incrotuono
 Type = ELECTRIC
 Category = Physical
 Power = 100
@@ -1234,7 +1234,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Chi la usa si carica di elettricità e travolge il nemico. Danneggia leggermente anche chi la usa.
 #-------------------------------
 [BOLTBEAK]
-Name = Beccofolgore
+Name = Beccoshock
 Type = ELECTRIC
 Category = Physical
 Power = 85
@@ -1259,7 +1259,7 @@ EffectChance = 30
 Description = Un'ondata di elettricità colpisce tutti i Pokémon intorno a chi la usa. Può anche paralizzarli.
 #-------------------------------
 [OVERDRIVE]
-Name = Punk Rock
+Name = Overdrive
 Type = ELECTRIC
 Category = Special
 Power = 80
@@ -1358,7 +1358,7 @@ EffectChance = 30
 Description = Chi la usa si scaglia sul bersaglio con una carica elettrica. Può anche paralizzarlo.
 #-------------------------------
 [THUNDERFANG]
-Name = Tuonozanna
+Name = Fulmindenti
 Type = ELECTRIC
 Category = Physical
 Power = 65
@@ -1396,7 +1396,7 @@ EffectChance = 100
 Description = Chi la usa cattura e attacca i nemici con una rete elettrica, riducendone la Velocità.
 #-------------------------------
 [CHARGEBEAM]
-Name = Caricaraggio
+Name = Raggioscossa
 Type = ELECTRIC
 Category = Special
 Power = 50
@@ -1435,7 +1435,7 @@ EffectChance = 100
 Description = Chi la usa strofina le sue guance elettrizzate contro il bersaglio, paralizzandolo.
 #-------------------------------
 [ELECTROBALL]
-Name = Elogosfera
+Name = Energisfera
 Type = ELECTRIC
 Category = Special
 Power = 1
@@ -1478,7 +1478,7 @@ FunctionCode = StartElectricTerrain
 Description = Per cinque turni il terreno di lotta viene elettrificato. I Pokémon a terra non possono addormentarsi.
 #-------------------------------
 [ELECTRIFY]
-Name = Elettrilotta
+Name = Elettrocontagio
 Type = ELECTRIC
 Category = Status
 Accuracy = 0
@@ -1489,7 +1489,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Se il bersaglio usa una mossa dopo essere stato colpito da Elettrilotta, questa diventa di tipo Elettro.
 #-------------------------------
 [IONDELUGE]
-Name = Pioggianteo
+Name = Pioggiaplasma
 Type = ELECTRIC
 Category = Status
 Accuracy = 0
@@ -1510,7 +1510,7 @@ FunctionCode = StartUserAirborne
 Description = Chi la usa genera un campo magnetico elettrico che gli permette di fluttuare per cinque turni.
 #-------------------------------
 [MAGNETICFLUX]
-Name = Magnetoflusso
+Name = Controllo Polare
 Type = ELECTRIC
 Category = Status
 Accuracy = 0
@@ -1543,7 +1543,7 @@ Flags = CanProtect,CanMirrorMove,CannotMetronome
 Description = Chi la usa attacca con un raggio di luce emesso dal Fiore Eterno. Danneggia seriamente anche chi la usa.
 #-------------------------------
 [FLEURCANNON]
-Name = Canonfiore
+Name = Cannonfiore
 Type = FAIRY
 Category = Special
 Power = 130
@@ -1555,7 +1555,7 @@ Flags = CanProtect,CanMirrorMove,CannotMetronome
 Description = Chi la usa sprigiona un potente raggio. Il contraccolpo riduce drasticamente il suo Attacco Speciale.
 #-------------------------------
 [MISTYEXPLOSION]
-Name = Nebbioesplosione
+Name = Nebbioscoppio
 Type = FAIRY
 Category = Special
 Power = 100
@@ -1593,7 +1593,7 @@ EffectChance = 10
 Description = Chi la usa attacca il bersaglio con carineria. Può anche ridurne l'Attacco.
 #-------------------------------
 [STRANGESTEAM]
-Name = Vaporefatato
+Name = Vapore Incantato
 Type = FAIRY
 Category = Special
 Power = 90
@@ -1618,7 +1618,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa danneggia i nemici emettendo una luce abbagliante.
 #-------------------------------
 [SPIRITBREAK]
-Name = Sottospiro
+Name = Frantumanima
 Type = FAIRY
 Category = Physical
 Power = 75
@@ -1631,7 +1631,7 @@ EffectChance = 100
 Description = Chi la usa attacca il bersaglio con una forza tale da scoraggiarlo e ridurne l'Attacco Speciale.
 #-------------------------------
 [DRAININGKISS]
-Name = Assorbabacio
+Name = Assorbibacio
 Type = FAIRY
 Category = Special
 Power = 50
@@ -1655,7 +1655,7 @@ Flags = CanProtect,CanMirrorMove,Sound
 Description = Il Pokémon emette un grido ammaliante che infligge danni emotivi ai nemici. L'attacco è infallibile.
 #-------------------------------
 [FAIRYWIND]
-Name = Ventofato
+Name = Vento di Fata
 Type = FAIRY
 Category = Special
 Power = 40
@@ -1679,7 +1679,7 @@ Flags = CanProtect,CanMirrorMove,CannotMetronome
 Description = Il Pokémon colpisce il bersaglio con la forza della natura, dimezzandone i PS.
 #-------------------------------
 [AROMATICMIST]
-Name = Nebbiaroma
+Name = Nebularoma
 Type = FAIRY
 Category = Status
 Accuracy = 0
@@ -1734,7 +1734,7 @@ Flags = CannotMetronome
 Description = Chi la usa decora il bersaglio aumentandone molto l'Attacco e l'Attacco Speciale.
 #-------------------------------
 [FAIRYLOCK]
-Name = Bloccofato
+Name = Blocco Fatato
 Type = FAIRY
 Category = Status
 Accuracy = 0
@@ -1745,7 +1745,7 @@ Flags = CanMirrorMove
 Description = Chi la usa sbarra la via di fuga a tutti i Pokémon in campo, impedendo loro di fuggire nel turno successivo.
 #-------------------------------
 [FLORALHEALING]
-Name = Floracura
+Name = Cura Floreale
 Type = FAIRY
 Category = Status
 Accuracy = 0
@@ -1820,7 +1820,7 @@ Flags = Contact,CanProtect,Punching
 Description = Chi la usa concentra la mente prima di attaccare. Se viene colpito nello stesso turno, la mossa fallisce.
 #-------------------------------
 [METEORASSAULT]
-Name = Sferrastrada
+Name = Sfolgorassalto
 Type = FIGHTING
 Category = Physical
 Power = 150
@@ -1832,7 +1832,7 @@ Flags = CanProtect,CanMirrorMove,CannotMetronome
 Description = Chi la usa si scaglia all'impazzata brandendo il suo grosso gambo. Deve poi riposarsi nel turno successivo.
 #-------------------------------
 [HIGHJUMPKICK]
-Name = Calciovolo
+Name = Calcinvolo
 Type = FIGHTING
 Category = Physical
 Power = 130
@@ -1942,7 +1942,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Il Pokémon attacca con un calcio saltando in alto. Se fallisce, chi la usa subisce dei danni.
 #-------------------------------
 [SACREDSWORD]
-Name = Spadasanta
+Name = Spadasolenne
 Type = FIGHTING
 Category = Physical
 Power = 90
@@ -2003,7 +2003,7 @@ Flags = CanProtect,CanMirrorMove,Pulse,Bomb
 Description = Chi la usa sprigiona una sfera di aura dal profondo del corpo. L'attacco è infallibile.
 #-------------------------------
 [BODYPRESS]
-Name = Body Press
+Name = Schiacciacorpo
 Type = FIGHTING
 Category = Physical
 Power = 80
@@ -2076,7 +2076,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Questa mossa infligge gravi danni se il bersaglio dorme, ma lo sveglia.
 #-------------------------------
 [LOWSWEEP]
-Name = Colpobasso
+Name = Calciobasso
 Type = FIGHTING
 Category = Physical
 Power = 65
@@ -2089,7 +2089,7 @@ EffectChance = 100
 Description = Chi la usa attacca con rapidità le gambe del bersaglio, riducendone la Velocità.
 #-------------------------------
 [CIRCLETHROW]
-Name = Ribaltamento
+Name = Ribaltiro
 Type = FIGHTING
 Category = Physical
 Power = 60
@@ -2128,7 +2128,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Questa mossa infligge il doppio dei danni se chi la usa è stato colpito dal nemico nello stesso turno.
 #-------------------------------
 [ROLLINGKICK]
-Name = Calciorotante
+Name = Calciorullo
 Type = FIGHTING
 Category = Physical
 Power = 60
@@ -2141,7 +2141,7 @@ EffectChance = 30
 Description = Chi la usa sferra un rapido calcio rotante. Può anche far tentennare il bersaglio.
 #-------------------------------
 [STORMTHROW]
-Name = Tempesta d'Aura
+Name = Tempestretta
 Type = FIGHTING
 Category = Physical
 Power = 60
@@ -2253,7 +2253,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Una serie di tre calci che infliggono danni crescenti a ogni colpo andato a segno.
 #-------------------------------
 [COUNTER]
-Name = Contatore
+Name = Contrattacco
 Type = FIGHTING
 Category = Physical
 Power = 1
@@ -2302,7 +2302,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Un attacco disperato che infligge più danni quando chi la usa ha pochi PS.
 #-------------------------------
 [SEISMICTOSS]
-Name = Movimento Sismico
+Name = Movim. Sismico
 Type = FIGHTING
 Category = Physical
 Power = 1
@@ -2346,7 +2346,7 @@ FunctionCode = ProtectUser
 Description = Permette di schivare tutti gli attacchi. Può fallire se usata più volte di seguito.
 #-------------------------------
 [MATBLOCK]
-Name = Ribaltatappeto
+Name = Ribaltappeto
 Type = FIGHTING
 Category = Status
 Accuracy = 0
@@ -2356,7 +2356,7 @@ FunctionCode = ProtectUserSideFromDamagingMovesIfUserFirstTurn
 Description = Chi la usa solleva un tappeto per proteggere se stesso e i suoi alleati dalle mosse che infliggono danni.
 #-------------------------------
 [NORETREAT]
-Name = Noisiricula
+Name = Spalle al Muro
 Type = FIGHTING
 Category = Status
 Accuracy = 0
@@ -2366,7 +2366,7 @@ FunctionCode = RaiseUserMainStats1TrapUserInBattle
 Description = Chi la usa aumenta tutte le sue statistiche, ma gli diventa impossibile fuggire o essere sostituito.
 #-------------------------------
 [OCTOLOCK]
-Name = Poltripresa
+Name = Tentacolock
 Type = FIGHTING
 Category = Status
 Accuracy = 100
@@ -2377,7 +2377,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa blocca il bersaglio impedendogli di fuggire e riducendone la Difesa e la Difesa Speciale a ogni turno.
 #-------------------------------
 [QUICKGUARD]
-Name = Anticura
+Name = Anticipo
 Type = FIGHTING
 Category = Status
 Accuracy = 0
@@ -2462,7 +2462,7 @@ EffectChance = 20
 Description = Chi la usa attacca avvolgendo il bersaglio in una bellissima e intensa fiamma blu. Può anche scottarlo.
 #-------------------------------
 [BURNUP]
-Name = Ultrafiammata
+Name = Ultima Fiamma
 Type = FIRE
 Category = Special
 Power = 130
@@ -2525,7 +2525,7 @@ EffectChance = 10
 Description = Il nemico viene colpito da una fiammata spaventosa che incenerisce ogni cosa. Può anche scottarlo.
 #-------------------------------
 [FUSIONFLARE]
-Name = Incrocifiamma
+Name = Incrofiamma
 Type = FIRE
 Category = Special
 Power = 100
@@ -2537,7 +2537,7 @@ Flags = CanProtect,CanMirrorMove,ThawsUser
 Description = Chi la usa lancia una fiammata gigantesca. La sua potenza aumenta se viene influenzata da un fulmine enorme.
 #-------------------------------
 [INFERNO]
-Name = Inferno
+Name = Marchiatura
 Type = FIRE
 Category = Special
 Power = 100
@@ -2550,7 +2550,7 @@ EffectChance = 100
 Description = Chi la usa attacca avvolgendo il bersaglio in fiamme intensissime, causandogli una scottatura.
 #-------------------------------
 [MAGMASTORM]
-Name = Magmabufora
+Name = Magmaclisma
 Type = FIRE
 Category = Special
 Power = 100
@@ -2627,7 +2627,7 @@ EffectChance = 10
 Description = Un calcio dall'alta probabilità di brutti colpi. Può anche scottare il bersaglio.
 #-------------------------------
 [FIERYDANCE]
-Name = Danza di Fuoco
+Name = Voldifuoco
 Type = FIRE
 Category = Special
 Power = 80
@@ -2640,7 +2640,7 @@ EffectChance = 50
 Description = Chi la usa sbatte le ali e danza avvolto dalle fiamme. Può anche aumentare il suo Attacco Speciale.
 #-------------------------------
 [FIRELASH]
-Name = Fuocofustigazione
+Name = Frusta di Fuoco
 Type = FIRE
 Category = Physical
 Power = 80
@@ -2665,7 +2665,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Una colonna di fuoco colpisce i nemici. Se usata con Erbapatto, crea un mare di fiamme.
 #-------------------------------
 [LAVAPLUME]
-Name = Fumitutto
+Name = Lavasbuffo
 Type = FIRE
 Category = Special
 Power = 80
@@ -2704,7 +2704,7 @@ EffectChance = 100
 Description = Chi la usa attacca emettendo un fumo caldissimo che riduce l'Attacco Speciale del bersaglio.
 #-------------------------------
 [BURNINGJEALOUSY]
-Name = Gelosia Ardente
+Name = Fiamminvidia
 Type = FIRE
 Category = Special
 Power = 70
@@ -3000,7 +3000,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Attacco rapido e infallibile che confonde il nemico.
 #-------------------------------
 [AIRCUTTER]
-Name = Vuotorecido
+Name = Aerasoio
 Type = FLYING
 Category = Special
 Power = 60
@@ -3012,7 +3012,7 @@ Flags = CanProtect,CanMirrorMove,HighCriticalHitRate
 Description = Vento tagliente che fende i nemici. Alta probabilità di brutti colpi.
 #-------------------------------
 [PLUCK]
-Name = Pizzico
+Name = Spennata
 Type = FLYING
 Category = Physical
 Power = 60
@@ -3107,7 +3107,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Un forte vento spazza via ostacoli nemici come Riflesso o Schermoluce e riduce l'elusione del bersaglio.
 #-------------------------------
 [FEATHERDANCE]
-Name = Danzapiuma
+Name = Danzadipiume
 Type = FLYING
 Category = Status
 Accuracy = 100
@@ -3118,7 +3118,7 @@ Flags = CanProtect,CanMirrorMove,Dance
 Description = Avvolge il bersaglio con una coltre di piume che ne riduce drasticamente l'Attacco.
 #-------------------------------
 [MIRRORMOVE]
-Name = Specularmossa
+Name = Speculmossa
 Type = FLYING
 Category = Status
 Accuracy = 0
@@ -3138,7 +3138,7 @@ FunctionCode = HealUserHalfOfTotalHPLoseFlyingTypeThisTurn
 Description = Chi la usa atterra e riposa, ripristinando fino a metà dei suoi PS massimi.
 #-------------------------------
 [TAILWIND]
-Name = Ventocoda
+Name = Ventoincoda
 Type = FLYING
 Category = Status
 Accuracy = 0
@@ -3208,7 +3208,7 @@ Flags = Contact,CanMirrorMove
 Description = Chi la usa svanisce nel nulla e attacca al turno successivo. Colpisce anche attraverso le mosse protettive.
 #-------------------------------
 [SPECTRALTHIEF]
-Name = Ombrafura
+Name = Ombrafurto
 Type = GHOST
 Category = Physical
 Power = 90
@@ -3321,7 +3321,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Chi la usa allunga la propria ombra per colpire il nemico alle spalle. Colpisce quasi sempre per prima.
 #-------------------------------
 [ASTONISH]
-Name = Sbigottimento
+Name = Sgomento
 Type = GHOST
 Category = Physical
 Power = 30
@@ -3457,7 +3457,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Scatena una tempesta di foglie taglienti. Il contraccolpo riduce drasticamente l'Attacco Speciale di chi la usa.
 #-------------------------------
 [SOLARBLADE]
-Name = Solaralama
+Name = Lama Solare
 Type = GRASS
 Category = Physical
 Power = 125
@@ -3543,7 +3543,7 @@ EffectChance = 10
 Description = Chi la usa attinge potere dalla natura e lo scaglia contro il bersaglio. Può ridurne la Difesa Speciale.
 #-------------------------------
 [LEAFBLADE]
-Name = Fendente
+Name = Fendifoglia
 Type = GRASS
 Category = Physical
 Power = 90
@@ -3580,7 +3580,7 @@ EffectChance = 100
 Description = Chi la usa attacca con un liquido acido ricavato da mele aspre, riducendo la Difesa Speciale del bersaglio.
 #-------------------------------
 [DRUMBEATING]
-Name = Tamburopesto
+Name = Tamburattacco
 Type = GRASS
 Category = Physical
 Power = 80
@@ -3642,7 +3642,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Un attacco che assorbe nutrienti. Chi la usa recupera PS pari alla metà del danno inflitto.
 #-------------------------------
 [HORNLEECH]
-Name = Legnocorno
+Name = Legnicorno
 Type = GRASS
 Category = Physical
 Power = 75
@@ -3654,7 +3654,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Chi la usa assorbe l'energia del nemico tramite le corna. Recupera PS pari alla metà del danno inflitto.
 #-------------------------------
 [GRASSYGLIDE]
-Name = Erba-scivolata
+Name = Erboscivolata
 Type = GRASS
 Category = Physical
 Power = 70
@@ -3666,7 +3666,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Chi la usa scivola sul terreno e attacca il bersaglio. Se è attivo il Campo Erboso, questa mossa agisce per prima.
 #-------------------------------
 [TROPKICK]
-Name = Calciotropicale
+Name = Tropicalcio
 Type = GRASS
 Category = Physical
 Power = 70
@@ -3679,7 +3679,7 @@ EffectChance = 100
 Description = Chi la usa sferra un potente calcio d'ispirazione tropicale che riduce l'Attacco del bersaglio.
 #-------------------------------
 [LEAFTORNADO]
-Name = Verdebufera
+Name = Vorticerba
 Type = GRASS
 Category = Special
 Power = 65
@@ -3704,7 +3704,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa sparge foglie fatate che inseguono il bersaglio. L'attacco è infallibile.
 #-------------------------------
 [NEEDLEARM]
-Name = Pugnopuntura
+Name = Pugnospine
 Type = GRASS
 Category = Physical
 Power = 60
@@ -3717,7 +3717,7 @@ EffectChance = 30
 Description = Chi la usa attacca agitando violentemente braccia spinose. Può far tentennare il nemico.
 #-------------------------------
 [RAZORLEAF]
-Name = Fogliamaia
+Name = Foglielama
 Type = GRASS
 Category = Physical
 Power = 55
@@ -3741,7 +3741,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Colpisce il nemico con sottili liane usate come fruste.
 #-------------------------------
 [BRANCHPOKE]
-Name = Ramosberla
+Name = Ramostoccata
 Type = GRASS
 Category = Physical
 Power = 40
@@ -3835,7 +3835,7 @@ FunctionCode = CureUserPartyStatus
 Description = Chi la usa sprigiona un profumo rilassante che cura i problemi di stato di tutta la squadra.
 #-------------------------------
 [COTTONGUARD]
-Name = Cottonscudo
+Name = Cotonscudo
 Type = GRASS
 Category = Status
 Accuracy = 0
@@ -3845,7 +3845,7 @@ FunctionCode = RaiseUserDefense3
 Description = Chi la usa si avvolge in uno strato di soffice cotone, aumentando drasticamente la propria Difesa.
 #-------------------------------
 [COTTONSPORE]
-Name = Cotonefischi
+Name = Cottonspora
 Type = GRASS
 Category = Status
 Accuracy = 100
@@ -3856,7 +3856,7 @@ Flags = CanProtect,CanMirrorMove,Powder
 Description = Spore simili a cotone si attaccano al nemico, riducendone drasticamente la Velocità.
 #-------------------------------
 [FORESTSCURSE]
-Name = Boschereccio
+Name = Boscomalocchio
 Type = GRASS
 Category = Status
 Accuracy = 100
@@ -3867,7 +3867,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa lancia un incantesimo della foresta sul bersaglio, aggiungendo il tipo Erba ai suoi tipi.
 #-------------------------------
 [GRASSWHISTLE]
-Name = Erbabuffo
+Name = Meloderba
 Type = GRASS
 Category = Status
 Accuracy = 55
@@ -3898,7 +3898,7 @@ FunctionCode = StartHealUserEachTurnTrapUserInBattle
 Description = Chi la usa mette radici che gli fanno recuperare PS a ogni turno, ma non potrà più essere sostituito.
 #-------------------------------
 [JUNGLEHEALING]
-Name = Cura Silvana
+Name = Giunglacura
 Type = GRASS
 Category = Status
 Accuracy = 0
@@ -3931,7 +3931,7 @@ Flags = CanProtect,CanMirrorMove,Powder
 Description = Chi la usa sparge una nuvola di polvere soporifera che fa addormentare il bersaglio.
 #-------------------------------
 [SPIKYSHIELD]
-Name = Agoscudo
+Name = Agodifesa
 Type = GRASS
 Category = Status
 Accuracy = 0
@@ -4093,7 +4093,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Chi la usa scava una fossa al primo turno e attacca al secondo. Utile anche per uscire dalle grotte.
 #-------------------------------
 [DRILLRUN]
-Name = Giravolta
+Name = Giravvita
 Type = GROUND
 Category = Physical
 Power = 80
@@ -4105,7 +4105,7 @@ Flags = Contact,CanProtect,CanMirrorMove,HighCriticalHitRate
 Description = Chi la usa si scaglia contro il bersaglio ruotando su se stesso come un trapano. Alta probabilità di brutti colpi.
 #-------------------------------
 [STOMPINGTANTRUM]
-Name = Battiterra
+Name = Battipiedi
 Type = GROUND
 Category = Physical
 Power = 75
@@ -4117,7 +4117,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Chi la usa attacca spinto dalla frustrazione. La potenza aumenta se la mossa precedente è fallita.
 #-------------------------------
 [SCORCHINGSANDS]
-Name = Sabbie Ardenti
+Name = Sabbiardente
 Type = GROUND
 Category = Special
 Power = 70
@@ -4143,7 +4143,7 @@ EffectChance = 10
 Description = Chi la usa colpisce il bersaglio con un osso. Può farlo tentennare.
 #-------------------------------
 [MUDBOMB]
-Name = Fangobomba
+Name = Pantanobomba
 Type = GROUND
 Category = Special
 Power = 65
@@ -4206,7 +4206,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Il bersaglio viene intrappolato in una tempesta di sabbia per quattro o cinque turni.
 #-------------------------------
 [BONERUSH]
-Name = Ossoraffiche
+Name = Ossoraffica
 Type = GROUND
 Category = Physical
 Power = 25
@@ -4265,7 +4265,7 @@ FunctionCode = StartWeakenElectricMoves
 Description = Chi la usa si copre di fango, indebolendo le mosse di tipo Elettro finché resta in campo.
 #-------------------------------
 [ROTOTILLER]
-Name = Aratura
+Name = Aracampo
 Type = GROUND
 Category = Status
 Accuracy = 0
@@ -4357,7 +4357,7 @@ EffectChance = 10
 Description = Una bufera di neve investe i nemici. Può anche congelarli.
 #-------------------------------
 [ICEHAMMER]
-Name = Martelpugno
+Name = Martelgelo
 Type = ICE
 Category = Physical
 Power = 100
@@ -4421,7 +4421,7 @@ EffectChance = 10
 Description = Chi la usa raffredda improvvisamente il bersaglio. Può anche congelarlo. È superefficace contro il tipo Acqua.
 #-------------------------------
 [AURORABEAM]
-Name = Raggiorsora
+Name = Raggiaurora
 Type = ICE
 Category = Special
 Power = 65
@@ -4434,7 +4434,7 @@ EffectChance = 10
 Description = Colpisce il bersaglio con un raggio arcobaleno. Può anche ridurne l'Attacco.
 #-------------------------------
 [GLACIATE]
-Name = Gelomondo
+Name = Gelamondo
 Type = ICE
 Category = Special
 Power = 65
@@ -4473,7 +4473,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Se il nemico danneggia chi la usa nello stesso turno, la potenza di questa mossa raddoppia.
 #-------------------------------
 [FROSTBREATH]
-Name = Alitofreddo
+Name = Alitogelido
 Type = ICE
 Category = Special
 Power = 60
@@ -4485,7 +4485,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa emette un soffio gelido sul bersaglio. Questo attacco infligge sempre un brutto colpo.
 #-------------------------------
 [ICYWIND]
-Name = Ventogelido
+Name = Ventogelato
 Type = ICE
 Category = Special
 Power = 55
@@ -4498,7 +4498,7 @@ EffectChance = 100
 Description = Il Pokémon attacca con una folata di aria gelida, riducendo la Velocità dei nemici.
 #-------------------------------
 [ICESHARD]
-Name = Gelscheggia
+Name = Geloscheggia
 Type = ICE
 Category = Physical
 Power = 40
@@ -4511,7 +4511,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa scaglia pezzi di ghiaccio istantaneo contro il bersaglio. Questa mossa ha priorità alta.
 #-------------------------------
 [POWDERSNOW]
-Name = Polvereneve
+Name = Polneve
 Type = ICE
 Category = Special
 Power = 40
@@ -4572,7 +4572,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Il nemico viene attaccato con un gelo spaventoso. Se il colpo va a segno, il bersaglio va KO.
 #-------------------------------
 [AURORAVEIL]
-Name = Aurora Velox
+Name = Velaurora
 Type = ICE
 Category = Status
 Accuracy = 0
@@ -4660,7 +4660,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Il nemico viene colpito da un raggio potentissimo. Chi la usa deve riposarsi nel turno successivo.
 #-------------------------------
 [BOOMBURST]
-Name = Ondasfalsata
+Name = Ondaboato
 Type = NORMAL
 Category = Special
 Power = 140
@@ -4756,7 +4756,7 @@ Flags = CanProtect,CanMirrorMove,CannotMetronome
 Description = Il Pokémon lancia un raggio di luce. Il tipo cambia a seconda del modulo che ha con sé.
 #-------------------------------
 [THRASH]
-Name = Ira
+Name = Colpo
 Type = NORMAL
 Category = Physical
 Power = 120
@@ -4768,7 +4768,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Chi la usa si scatena per due o tre turni, per poi cadere in preda alla confusione.
 #-------------------------------
 [EGGBOMB]
-Name = Bombuovo
+Name = Uovobomba
 Type = NORMAL
 Category = Physical
 Power = 100
@@ -4804,7 +4804,7 @@ Flags = CanProtect,CanMirrorMove,Sound
 Description = Chi la usa emette un grido spaventoso che infligge danni al bersaglio.
 #-------------------------------
 [REVELATIONDANCE]
-Name = Mutanza
+Name = Mutadanza
 Type = NORMAL
 Category = Special
 Power = 90
@@ -4841,7 +4841,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Una carica spericolata a corpo morto che danneggia un po' anche chi la usa.
 #-------------------------------
 [UPROAR]
-Name = Alitofreddo
+Name = Baraonda
 Type = NORMAL
 Category = Special
 Power = 90
@@ -4979,7 +4979,7 @@ EffectChance = 10
 Description = Chi la usa intona un canto antichissimo che agisce sul cuore di chi ascolta. Può indurre il sonno.
 #-------------------------------
 [CHIPAWAY]
-Name = Insidie
+Name = Insidia
 Type = NORMAL
 Category = Physical
 Power = 70
@@ -5054,7 +5054,7 @@ EffectChance = 30
 Description = Chi la usa attacca con una forza segreta i cui effetti variano a seconda del luogo in cui ci si trova.
 #-------------------------------
 [SLASH]
-Name = Dilaniamento
+Name = Lacerazione
 Type = NORMAL
 Category = Physical
 Power = 70
@@ -5066,7 +5066,7 @@ Flags = Contact,CanProtect,CanMirrorMove,HighCriticalHitRate
 Description = Il bersaglio viene colpito da artigli o lame. Alta probabilità di brutti colpi.
 #-------------------------------
 [SMELLINGSALTS]
-Name = Borisali
+Name = Maniereforti
 Type = NORMAL
 Category = Physical
 Power = 70
@@ -5139,7 +5139,7 @@ Flags = CanProtect,CanMirrorMove,Sound
 Description = Chi la usa attacca cantando. Se altri Pokémon usano Coro subito dopo, la mossa sarà più potente.
 #-------------------------------
 [SWIFT]
-Name = Cometa
+Name = Comete
 Type = NORMAL
 Category = Special
 Power = 60
@@ -5201,7 +5201,7 @@ EffectChance = 30
 Description = Può essere usata solo se chi la usa dorme. Il forte rumore può far tentennare il nemico.
 #-------------------------------
 [TERRAINPULSE]
-Name = Impulso Terreno
+Name = Campopulsar
 Type = NORMAL
 Category = Special
 Power = 50
@@ -5225,7 +5225,7 @@ Flags = CanProtect,CanMirrorMove,Bomb
 Description = La potenza e il tipo di questa mossa variano a seconda delle condizioni atmosferiche.
 #-------------------------------
 [ECHOEDVOICE]
-Name = Riecheggia
+Name = Echeggiavoce
 Type = NORMAL
 Category = Special
 Power = 40
@@ -5287,7 +5287,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa lancia monete contro il bersaglio. Dopo la lotta si ottiene del denaro extra.
 #-------------------------------
 [POUND]
-Name = Azione
+Name = Botta
 Type = NORMAL
 Category = Physical
 Power = 40
@@ -5336,7 +5336,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Un attacco fisico con cui chi la usa carica il bersaglio colpendolo con tutto il corpo.
 #-------------------------------
 [DOUBLEHIT]
-Name = Doppio Colpo
+Name = Doppiosmash
 Type = NORMAL
 Category = Physical
 Power = 35
@@ -5348,7 +5348,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Chi la usa colpisce il bersaglio con la coda, con le liane o simili due volte di seguito.
 #-------------------------------
 [FEINT]
-Name = Finta
+Name = Fintoattacco
 Type = NORMAL
 Category = Physical
 Power = 30
@@ -5385,7 +5385,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Finché questa mossa è attiva, l'Attacco del Pokémon aumenta ogni volta che subisce danni.
 #-------------------------------
 [SPIKECANNON]
-Name = Sparapiume
+Name = Sparalance
 Type = NORMAL
 Category = Physical
 Power = 20
@@ -5445,7 +5445,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Chi la usa lega e stringe il bersaglio per quattro o cinque turni.
 #-------------------------------
 [DOUBLESLAP]
-Name = Doppioschiaffo
+Name = Doppiasberla
 Type = NORMAL
 Category = Physical
 Power = 15
@@ -5507,7 +5507,7 @@ Flags = Contact,CanProtect
 Description = Chi la usa incassa attacchi per due turni e poi colpisce infliggendo il doppio del danno subito.
 #-------------------------------
 [CRUSHGRIP]
-Name = Sbriciolamento
+Name = Sbriciolmano
 Type = NORMAL
 Category = Physical
 Power = 1
@@ -5675,7 +5675,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Chi la usa stringe il bersaglio con forza. Più PS ha il nemico, maggiore è il danno inflitto.
 #-------------------------------
 [ACUPRESSURE]
-Name = Agopressione
+Name = Acupressione
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -5695,7 +5695,7 @@ FunctionCode = TargetActsNext
 Description = Chi la usa aiuta il bersaglio, permettendogli di usare la propria mossa subito dopo.
 #-------------------------------
 [ASSIST]
-Name = Assistenza
+Name = Assistente
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -5736,7 +5736,7 @@ FunctionCode = MaxUserAttackLoseHalfOfTotalHP
 Description = Chi la usa sacrifica metà dei propri PS per aumentare al massimo il suo Attacco.
 #-------------------------------
 [BESTOW]
-Name = Dono
+Name = Cediregalo
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -5872,7 +5872,7 @@ FunctionCode = RaiseUserEvasion1
 Description = Chi la usa si muove velocemente creando copie di se stesso per aumentare l'Elisività.
 #-------------------------------
 [ENCORE]
-Name = Ripetizione
+Name = Ripeti
 Type = NORMAL
 Category = Status
 Accuracy = 100
@@ -5894,7 +5894,7 @@ FunctionCode = UserEnduresFaintingThisTurn
 Description = Permette di resistere a qualsiasi attacco lasciando almeno un PS. Se usata in successione può fallire.
 #-------------------------------
 [ENTRAINMENT]
-Name = Coro
+Name = Saltamicizia
 Type = NORMAL
 Category = Status
 Accuracy = 100
@@ -5937,7 +5937,7 @@ FunctionCode = RedirectAllMovesToUser
 Description = Chi la usa attira l'attenzione su di sé, costringendo i nemici a prenderlo come unico bersaglio.
 #-------------------------------
 [FORESIGHT]
-Name = Leggimente
+Name = Preveggenza
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -5948,7 +5948,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Consente di colpire i Pokémon di tipo Spettro con qualsiasi mossa e di ignorare l'Elusività del bersaglio.
 #-------------------------------
 [GLARE]
-Name = Sguardoferoce
+Name = Sguardo Feroce
 Type = NORMAL
 Category = Status
 Accuracy = 100
@@ -5990,7 +5990,7 @@ FunctionCode = DoubleMoneyGainedFromBattle
 Description = Se viene usata questa mossa, la ricompensa in denaro raddoppia dopo la lotta.
 #-------------------------------
 [HARDEN]
-Name = Rafforzamento
+Name = Rafforzatore
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -6032,7 +6032,7 @@ FunctionCode = DoesNothingFailsIfNoAlly
 Description = Chi la usa e un alleato si tengono per mano. Questo li rende molto felici.
 #-------------------------------
 [HOWL]
-Name = Urlo
+Name = Gridodilotta
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -6053,7 +6053,7 @@ FunctionCode = EnsureNextCriticalHit
 Description = Chi la usa si concentra intensamente. Nel turno successivo, il suo attacco infliggerà sempre un brutto colpo.
 #-------------------------------
 [LEER]
-Name = Colpo d'Occhio
+Name = Fulmisguardo
 Type = NORMAL
 Category = Status
 Accuracy = 100
@@ -6064,7 +6064,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa lancia un'occhiataccia che riduce la Difesa del bersaglio.
 #-------------------------------
 [LOCKON]
-Name = Mirino
+Name = Localizza
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -6180,7 +6180,7 @@ FunctionCode = HealUserDependingOnWeather
 Description = Chi la usa ripristina i propri PS. La quantità recuperata varia a seconda delle condizioni atmosferiche.
 #-------------------------------
 [NATUREPOWER]
-Name = Natuforza
+Name = Naturforza
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -6190,7 +6190,7 @@ FunctionCode = UseMoveDependingOnEnvironment
 Description = Un attacco che attinge energia dalla natura. I suoi effetti variano a seconda del luogo in cui ci si trova.
 #-------------------------------
 [NOBLEROAR]
-Name = Urlo Nobile
+Name = Urlo
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -6286,7 +6286,7 @@ FunctionCode = RestoreUserConsumedItem
 Description = Consente di riciclare uno strumento già utilizzato durante la lotta per poterlo usare di nuovo.
 #-------------------------------
 [REFLECTTYPE]
-Name = Riflesso
+Name = Riflettipo
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -6297,7 +6297,7 @@ Flags = CanProtect
 Description = Chi la usa riflette il tipo del bersaglio rendendo il proprio tipo uguale al suo.
 #-------------------------------
 [REFRESH]
-Name = Rinfrescatina
+Name = Rinfrescata
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -6329,7 +6329,7 @@ FunctionCode = StartUserSideImmunityToInflictedStatus
 Description = Crea un campo protettivo che previene i problemi di stato per cinque turni.
 #-------------------------------
 [SCARYFACE]
-Name = Smorfia
+Name = Visotruce
 Type = NORMAL
 Category = Status
 Accuracy = 100
@@ -6371,7 +6371,7 @@ FunctionCode = LowerUserDefSpDef1RaiseUserAtkSpAtkSpd2
 Description = Chi la usa rompe il proprio guscio. La Difesa e la Difesa Speciale calano, ma le altre statistiche aumentano drasticamente.
 #-------------------------------
 [SIMPLEBEAM]
-Name = Ondasemplice
+Name = Ondisinvolta
 Type = NORMAL
 Category = Status
 Accuracy = 100
@@ -6403,7 +6403,7 @@ FunctionCode = ReplaceMoveWithTargetLastMoveUsed
 Description = Permette di imparare in modo permanente l'ultima mossa usata dal nemico. Una volta usata, Schizzo sparisce.
 #-------------------------------
 [SLACKOFF]
-Name = Pigrizia
+Name = Pigro
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -6476,7 +6476,7 @@ FunctionCode = UserAddStockpileRaiseDefSpDef1
 Description = Chi la usa accumula energia, aumentando la Difesa e la Difesa Speciale. Può essere usata fino a tre volte.
 #-------------------------------
 [STUFFCHEEKS]
-Name = Guancegonfie
+Name = Riempiguance
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -6518,7 +6518,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa provoca il bersaglio causandone la confusione, ma ne aumenta drasticamente l’Attacco.
 #-------------------------------
 [SWALLOW]
-Name = Intuito
+Name = Introenergia
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -6550,7 +6550,7 @@ Flags = Dance
 Description = Una danza frenetica che aumenta lo spirito combattivo. Aumenta drasticamente l’Attacco di chi la usa.
 #-------------------------------
 [TAILWHIP]
-Name = Colpo di Coda
+Name = Colpocoda
 Type = NORMAL
 Category = Status
 Accuracy = 100
@@ -6561,7 +6561,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa scodinzola amabilmente per distrarre i nemici e ridurne la Difesa.
 #-------------------------------
 [TEARFULLOOK]
-Name = Occhioni Teneri
+Name = Occhionilucidi
 Type = NORMAL
 Category = Status
 Accuracy = 0
@@ -6582,7 +6582,7 @@ FunctionCode = AllBattlersConsumeBerry
 Description = Chi la usa prende il tè con tutti i Pokémon in campo. Ogni Pokémon mangia la bacca che ha con sé.
 #-------------------------------
 [TEETERDANCE]
-Name = Vacillanza
+Name = Strampadanza
 Type = NORMAL
 Category = Status
 Accuracy = 100
@@ -6760,7 +6760,7 @@ EffectChance = 30
 Description = Chi la usa lancia fango tossico contro il bersaglio. Può anche avvelenarlo.
 #-------------------------------
 [VENOSHOCK]
-Name = Venoshock
+Name = Velenoshock
 Type = POISON
 Category = Special
 Power = 65
@@ -6872,7 +6872,7 @@ FunctionCode = RaiseUserDefense2
 Description = Chi la usa modifica la propria struttura cellulare liquefacendosi e aumentando drasticamente la Difesa.
 #-------------------------------
 [BANEFULBUNKER]
-Name = Acquadifesa
+Name = Fortino
 Type = POISON
 Category = Status
 Accuracy = 0
@@ -6926,7 +6926,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Una nube di gas tossico avvolge i nemici e può avvelenarli.
 #-------------------------------
 [POISONPOWDER]
-Name = Velenopolvere
+Name = Velenpolvere
 Type = POISON
 Category = Status
 Accuracy = 75
@@ -6969,7 +6969,7 @@ FunctionCode = AddToxicSpikesToFoeSide
 Description = Una trappola di punte velenose ai piedi dei nemici. Avvelena i Pokémon che entrano in campo.
 #-------------------------------
 [TOXICTHREAD]
-Name = Filo Venefico
+Name = Velenotela
 Type = POISON
 Category = Status
 Accuracy = 100
@@ -6980,7 +6980,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa lancia fili velenosi che avvelenano il bersaglio e ne riducono la Velocità.
 #-------------------------------
 [VENOMDRENCH]
-Name = Tossicointuito
+Name = Velenotrappola
 Type = POISON
 Category = Status
 Accuracy = 100
@@ -7074,7 +7074,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Un’onda psichica anomala che si materializza per infliggere danni fisici al bersaglio.
 #-------------------------------
 [FREEZINGGLARE]
-Name = Sguardo Siderale
+Name = Sguardo Gelido
 Type = PSYCHIC
 Category = Special
 Power = 90
@@ -7112,7 +7112,7 @@ Flags = Contact,CanProtect,CanMirrorMove,Biting
 Description = Chi la usa morde il nemico con poteri psichici. Può distruggere Riflesso e Schermoluce.
 #-------------------------------
 [EERIESPELL]
-Name = Sortilegio
+Name = Inquietantesimo
 Type = PSYCHIC
 Category = Special
 Power = 80
@@ -7125,7 +7125,7 @@ EffectChance = 100
 Description = Un attacco psichico tremendo che riduce anche di 3 i PP dell’ultima mossa usata dal bersaglio.
 #-------------------------------
 [EXPANDINGFORCE]
-Name = Vastoforza
+Name = Vastenergia
 Type = PSYCHIC
 Category = Special
 Power = 80
@@ -7150,7 +7150,7 @@ EffectChance = 10
 Description = Chi la usa attacca con un potere invisibile e bizzarro. Può anche far tentennare il bersaglio.
 #-------------------------------
 [HYPERSPACEHOLE]
-Name = Foro Dimensionale
+Name = Forodimensionale
 Type = PSYCHIC
 Category = Special
 Power = 80
@@ -7238,7 +7238,7 @@ EffectChance = 10
 Description = Il bersaglio viene colpito da un raggio bizzarro che può causare confusione.
 #-------------------------------
 [HEARTSTAMP]
-Name = Cuorditimbro
+Name = Cuorestampo
 Type = PSYCHIC
 Category = Physical
 Power = 60
@@ -7289,7 +7289,7 @@ Flags = CanProtect
 Description = Una mossa di ritorsione che risponde a qualsiasi attacco speciale infliggendo il doppio del danno subito.
 #-------------------------------
 [PSYWAVE]
-Name = Psico-ondata
+Name = Psiconda
 Type = PSYCHIC
 Category = Special
 Power = 1
@@ -7332,7 +7332,7 @@ FunctionCode = RaiseUserSpDef2
 Description = Chi la usa svuota la mente dimenticando i suoi crucci e aumentando drasticamente la Difesa Speciale.
 #-------------------------------
 [BARRIER]
-Name = Scudata
+Name = Barriera
 Type = PSYCHIC
 Category = Status
 Accuracy = 0
@@ -7383,7 +7383,7 @@ Flags = CanProtect
 Description = Chi la usa sfrutta i suoi poteri psichici per fare la media della sua Difesa e Difesa Speciale con quelle del bersaglio.
 #-------------------------------
 [GUARDSWAP]
-Name = Proteoscambio
+Name = Barattoscudo
 Type = PSYCHIC
 Category = Status
 Accuracy = 0
@@ -7426,7 +7426,7 @@ FunctionCode = UserFaintsHealAndCureReplacement
 Description = Chi la usa va KO, ma ripristina i PS e cura i problemi di stato del Pokémon che prende il suo posto.
 #-------------------------------
 [HEARTSWAP]
-Name = Cuorscambio
+Name = Cuorbaratto
 Type = PSYCHIC
 Category = Status
 Accuracy = 0
@@ -7448,7 +7448,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Chi la usa ipnotizza il bersaglio per farlo sprofondare in un sonno profondo.
 #-------------------------------
 [IMPRISON]
-Name = Prigione
+Name = Esclusiva
 Type = PSYCHIC
 Category = Status
 Accuracy = 0
@@ -7512,7 +7512,7 @@ FunctionCode = BounceBackProblemCausingStatusMoves
 Description = Una barriera che riflette sul bersaglio mosse come Parassitaseme e quelle che causano problemi di stato.
 #-------------------------------
 [MAGICPOWDER]
-Name = Polveremagica
+Name = Magipolvere
 Type = PSYCHIC
 Category = Status
 Accuracy = 100
@@ -7523,7 +7523,7 @@ Flags = CanProtect,CanMirrorMove,Powder
 Description = Chi la usa sparge una polvere magica che trasforma il bersaglio in un Pokémon di tipo Psico.
 #-------------------------------
 [MAGICROOM]
-Name = Zona Magica
+Name = Magicozona
 Type = PSYCHIC
 Category = Status
 Accuracy = 0
@@ -7566,7 +7566,7 @@ Flags = CanProtect
 Description = Chi la usa sfrutta i suoi poteri psichici per fare la media del suo Attacco e Attacco Speciale con quelli del bersaglio.
 #-------------------------------
 [POWERSWAP]
-Name = Forzacambio
+Name = Barattoforza
 Type = PSYCHIC
 Category = Status
 Accuracy = 0
@@ -7597,7 +7597,7 @@ FunctionCode = StartPsychicTerrain
 Description = Per cinque turni protegge i Pokémon a terra dalle mosse con priorità alta e potenzia quelle di tipo Psico.
 #-------------------------------
 [PSYCHOSHIFT]
-Name = Psicotrasferimento
+Name = Psicotransfer
 Type = PSYCHIC
 Category = Status
 Accuracy = 100
@@ -7717,7 +7717,7 @@ Flags = CanMirrorMove
 Description = Crea un’area bizzarra in cui, per cinque turni, la Difesa e la Difesa Speciale di tutti i Pokémon sono scambiate.
 #-------------------------------
 [HEADSMASH]
-Name = Zuclata
+Name = Zuccata
 Type = ROCK
 Category = Physical
 Power = 150
@@ -7778,7 +7778,7 @@ Flags = CanProtect,CanMirrorMove,HighCriticalHitRate
 Description = Chi la usa colpisce il bersaglio con pietre affilate. Alta probabilità di brutti colpi.
 #-------------------------------
 [POWERGEM]
-Name = Gemmapulsar
+Name = Gemmoforza
 Type = ROCK
 Category = Special
 Power = 80
@@ -7816,7 +7816,7 @@ EffectChance = 10
 Description = Chi la usa attacca con un potere preistorico. Può anche aumentare tutte le sue statistiche.
 #-------------------------------
 [ROCKTOMB]
-Name = Tombarocciata
+Name = Rocciotomba
 Type = ROCK
 Category = Physical
 Power = 60
@@ -7920,7 +7920,7 @@ FunctionCode = AddStealthRocksToFoeSide
 Description = Una trappola di pietre fluttuanti intorno ai nemici che danneggia i Pokémon che entrano in campo.
 #-------------------------------
 [TARSHOT]
-Name = Catramecatapulta
+Name = Colpocatrame
 Type = ROCK
 Category = Status
 Accuracy = 100
@@ -7965,7 +7965,7 @@ Flags = CanProtect,CanMirrorMove,CannotMetronome
 Description = Chi la usa spara un raggio d'acciaio concentrando tutta la sua energia. Infligge danni anche a chi la usa.
 #-------------------------------
 [STEELROLLER]
-Name = Ruota d'Acciaio
+Name = Ferrorullo
 Type = STEEL
 Category = Physical
 Power = 130
@@ -7977,7 +7977,7 @@ Flags = Contact,CanProtect,CanMirrorMove
 Description = Chi la usa attacca distruggendo il campo. La mossa fallisce se non è attivo alcun campo.
 #-------------------------------
 [BEHEMOTHBASH]
-Name = Scudo Reale
+Name = Colpo Maestoso
 Type = STEEL
 Category = Physical
 Power = 100
@@ -7989,7 +7989,7 @@ Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
 Description = Chi la usa diventa un enorme scudo e travolge il bersaglio.
 #-------------------------------
 [BEHEMOTHBLADE]
-Name = Taglio Reale
+Name = Taglio Maestoso
 Type = STEEL
 Category = Physical
 Power = 100
@@ -8039,7 +8039,7 @@ EffectChance = 20
 Description = Un pugno sferrato con la forza di una meteora. Può anche aumentare l’Attacco di chi la usa.
 #-------------------------------
 [ANCHORSHOT]
-Name = Pesancora
+Name = Colpo d'Ancora
 Type = STEEL
 Category = Physical
 Power = 80
@@ -8078,7 +8078,7 @@ EffectChance = 30
 Description = Chi la usa colpisce il bersaglio con una testata d’acciaio. Può anche farlo tentennare.
 #-------------------------------
 [SMARTSTRIKE]
-Name = Esaurimento
+Name = Sottilcorno
 Type = STEEL
 Category = Physical
 Power = 70
@@ -8116,7 +8116,7 @@ EffectChance = 30
 Description = Chi la usa ruota su se stesso e colpisce due volte con i dadi esagonali. Può far tentennare il bersaglio.
 #-------------------------------
 [MIRRORSHOT]
-Name = Cristallocolpo
+Name = Cristalcolpo
 Type = STEEL
 Category = Special
 Power = 65
@@ -8141,7 +8141,7 @@ Flags = CanProtect,CanMirrorMove,Bomb
 Description = Chi la usa lancia bombe d’acciaio che seguono il bersaglio. Questo attacco non manca mai.
 #-------------------------------
 [GEARGRIND]
-Name = Ingranavicolo
+Name = Ingracolpo
 Type = STEEL
 Category = Physical
 Power = 50
@@ -8191,7 +8191,7 @@ Flags = Contact,CanProtect,CanMirrorMove,Bomb
 Description = Chi la usa colpisce il nemico ruotando velocemente. Più chi la usa è lento, più il danno è alto.
 #-------------------------------
 [HEAVYSLAM]
-Name = Pesantezza
+Name = Pesobomba
 Type = STEEL
 Category = Physical
 Power = 1
@@ -8225,7 +8225,7 @@ FunctionCode = RaiseUserSpeed2LowerUserWeight
 Description = Chi la usa si alleggerisce perdendo pezzi del proprio corpo per aumentare drasticamente la Velocità.
 #-------------------------------
 [GEARUP]
-Name = Caricamento
+Name = Marciainpiù
 Type = STEEL
 Category = Status
 Accuracy = 0
@@ -8256,7 +8256,7 @@ FunctionCode = ProtectUserFromDamagingMovesKingsShield
 Description = Protegge dai danni e riduce drasticamente l’Attacco dei Pokémon che sferrano attacchi diretti contro chi la usa.
 #-------------------------------
 [METALSOUND]
-Name = Ferrosuono
+Name = Ferrostrido
 Type = STEEL
 Category = Status
 Accuracy = 85
@@ -8267,7 +8267,7 @@ Flags = CanProtect,CanMirrorMove,Sound
 Description = Uno sgradevole rumore metallico che riduce drasticamente la Difesa Speciale del bersaglio.
 #-------------------------------
 [SHIFTGEAR]
-Name = Cambiamarcia
+Name = Cambiomarcia
 Type = STEEL
 Category = Status
 Accuracy = 0
@@ -8313,7 +8313,7 @@ Flags = CanProtect,CanMirrorMove
 Description = Il bersaglio viene colpito da un grande volume d’acqua lanciato ad altissima pressione.
 #-------------------------------
 [ORIGINPULSE]
-Name = Primopulso
+Name = Primopulsar
 Type = WATER
 Category = Special
 Power = 110
@@ -8325,7 +8325,7 @@ Flags = CanProtect,CanMirrorMove,Pulse,CannotMetronome
 Description = Chi la usa attacca i nemici con innumerevoli raggi di una luce azzurra intensa e brillante.
 #-------------------------------
 [STEAMERUPTION]
-Name = Idrovampata
+Name = Vaporscoppio
 Type = WATER
 Category = Special
 Power = 110
@@ -8350,7 +8350,7 @@ Flags = Contact,CanProtect,CanMirrorMove,HighCriticalHitRate
 Description = Colpisce il bersaglio con una grossa chela. Alta probabilità di brutti colpi.
 #-------------------------------
 [AQUATAIL]
-Name = Idrocoda
+Name = Idrondata
 Type = WATER
 Category = Physical
 Power = 90
@@ -8500,7 +8500,7 @@ EffectChance = 50
 Description = Chi la usa colpisce il nemico con conchiglie affilate. Può anche ridurne la Difesa.
 #-------------------------------
 [BRINE]
-Name = Salamoia
+Name = Acquadisale
 Type = WATER
 Category = Special
 Power = 65
@@ -8589,7 +8589,7 @@ EffectChance = 10
 Description = Colpisce i nemici con una raffica di bolle. Può ridurne la Velocità.
 #-------------------------------
 [WATERGUN]
-Name = Pistoldacqua
+Name = Pistolacqua
 Type = WATER
 Category = Special
 Power = 40
@@ -8637,7 +8637,7 @@ Flags = Contact,CanProtect,CanMirrorMove,CannotMetronome
 Description = Colpisce tre volte di fila con maestria. Questa mossa infligge sempre brutti colpi.
 #-------------------------------
 [WATERSHURIKEN]
-Name = Acquashuriken
+Name = Acqualame
 Type = WATER
 Category = Special
 Power = 15
@@ -8671,7 +8671,7 @@ Flags = CannotMetronome
 Description = Chi la usa sparge acqua misteriosa che ripristina un po' di PS a se stesso e agli alleati.
 #-------------------------------
 [RAINDANCE]
-Name = Piovischio
+Name = Pioggiadanza
 Type = WATER
 Category = Status
 Accuracy = 0
@@ -8702,7 +8702,7 @@ FunctionCode = StartWeakenFireMoves
 Description = Chi la usa si bagna d'acqua per ridurre la potenza delle mosse di tipo Fuoco finché resta in campo.
 #-------------------------------
 [WITHDRAW]
-Name = Rafforzatore
+Name = Ritirata
 Type = WATER
 Category = Status
 Accuracy = 0
