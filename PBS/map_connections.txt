@@ -394,3 +394,6 @@
 102,North,30,101,South,0
 # Piazzale Foschiatti (102) - Via Mazzarei_2 (105)
 102,East,0,105,West,50
+#-------------------------------
+# Via Gabriele D'annunzio (110) - Castel de Muia (113)
+110,East,14,113,West,0
