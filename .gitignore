@@ -1,0 +1,16 @@
+# Log degli errori creati dal gioco quando qualcosa si rompe
+errorlog.txt
+*.log
+
+# File di backup temporanei
+*.bak
+*~
+
+# File di sistema di Windows / macOS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Salvataggi messi nella cartella del gioco (per sicurezza)
+Game.rxdata
+Save*.rxdata
