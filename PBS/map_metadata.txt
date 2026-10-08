@@ -634,9 +634,3 @@ Name = Via Gabriele D'Annunzio
 Outdoor = true
 ShowArea = true
 Bicycle = true
-#-------------------------------
-[113]   # Castel de Muia
-Name = Castel de Muia
-Outdoor = true
-ShowArea = true
-Bicycle = true
