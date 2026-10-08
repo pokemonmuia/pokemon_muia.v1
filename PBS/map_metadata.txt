@@ -634,3 +634,9 @@ Name = Via Gabriele D'Annunzio
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[113]   # Piazza Santa Lucia
+Name = Piazza Santa Lucia
+Outdoor = true
+ShowArea = true
+Bicycle = true
