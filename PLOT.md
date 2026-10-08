@@ -16,11 +16,12 @@ Location =
 
 ## DETTAGLI
 ### PALESTRE
-Fuoco
-Acqua
-Psico
-Veleno
-Ghiaccio
-Erba
-Elettricità
-Roccia
+In ordine de come che le se affronta (squadre in PBS/trainers.txt, nomi provvisori):
+1. Roccia - Bepi - Lv 12-14
+2. Erba - Nives - Lv 17-19
+3. Acqua - Marieta - Lv 22-24
+4. Elettricità - Nane - Lv 27-29
+5. Veleno - Gigi - Lv 32-34
+6. Fuoco - Toni - Lv 37-39
+7. Psico - Licia - Lv 42-44
+8. Ghiaccio - Pina - Lv 47-50

@@ -7,13 +7,15 @@ Solo che te ga de scarigarte la app de githbu che te trovi a sto link [qua](http
 Dopo te inserissi la mail e la password che te mando per telegram e xe fatta.
 Nel senso che te scarigherà la cartella de qualche parte e dopo basta che te verzi el zogo da quella cartella e ghe semo mulon (sul mio la ga messa in C:\Users\die-lab\Documents\GitHub\pokemon_muia\ quindi sul tuo immagino sia una roba simile)!
 
-Ogni volta che te vol far modifiche, prima de iniziar a farle te ga de andar sull'app e far fetch origin, in alto a destra, cussi se mi go fatto modifiche dall'ultima volta allora non se le perdemo e te lavori su quelle. 
+Ogni volta che te vol far modifiche, prima de iniziar a farle te ga de andar sull'app e far fetch origin, in alto a destra, e dopo **pull origin** (el fetch solo controla se ghe xe novità, el pull le scariga davero), cussi se mi go fatto modifiche dall'ultima volta allora non se le perdemo e te lavori su quelle. 
 Quando te le ga finide inveze te ga 1. de far ctrl+s sul zogo, ma questo za te sa. 2. de tornar sull'app de github, riempir el campo "Summary(required)" 3. far "commit to main" e 4. premer "push origin". E XE FATTA!
 
 
 # AGGIORNAMENTI
 Dovemo ricordarse de aggiornar questo file con le robe che femo sul giogo (nove mappe, novi personaggi).
 In piu, dovemo metterse nella sezion sotto, delle idee, quel che pensavimo de far.
+
+08102026 Novo repository pokemon_muia.v1. Zontà i 8 capipalestra de Muia (Roccia, Erba, Acqua, Elettricità, Veleno, Fuoco, Psico, Ghiaccio) con le squadre in PBS/trainers.txt e grafica provvisoria. Ordine e livei in PLOT.md.
 
 
 # IDEE

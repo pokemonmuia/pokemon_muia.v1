@@ -122,3 +122,122 @@ LoseText = ...
 Pokemon = RATTATA,11
 Pokemon = EKANS,11
 Pokemon = BULBASAUR,10
+#-------------------------------
+# CAPIPALESTRA DE MUIA
+# I nomi (Bepi, Nives, ...) xe provvisori: cambieli quando decidè i personaggi.
+#-------------------------------
+# 1. ROCCIA - Lv 12-14
+[LEADER_ROCCIA,Bepi]
+Items = POTION
+LoseText = Orpo! Duro come un scoio, ma te me ga spacà lo stesso!
+Pokemon = GEODUDE,12
+    Moves = TACKLE,DEFENSECURL,ROCKTHROW,MUDSPORT
+Pokemon = ROCKRUFF,12
+    Moves = TACKLE,SANDATTACK,ROCKTHROW,BITE
+Pokemon = ONIX,14
+    Moves = ROCKTOMB,BIND,SMACKDOWN,HARDEN
+    Item = ORANBERRY
+#-------------------------------
+# 2. ERBA - Lv 17-19
+[LEADER_ERBA,Nives]
+Items = SUPERPOTION
+LoseText = Ma varda ti... le mie piantine ga perso tute le foie!
+Pokemon = ODDISH,17
+    Moves = MEGADRAIN,ACID,SLEEPPOWDER,SWEETSCENT
+Pokemon = SKIDDO,17
+    Moves = RAZORLEAF,LEECHSEED,TAKEDOWN,GROWTH
+Pokemon = BAYLEEF,19
+    Moves = RAZORLEAF,REFLECT,POISONPOWDER,SYNTHESIS
+    Item = SITRUSBERRY
+#-------------------------------
+# 3. ACQUA - Lv 22-24
+[LEADER_ACQUA,Marieta]
+Items = SUPERPOTION,SUPERPOTION
+LoseText = Te me ga fato andar a fondo come un sasso in Mandracchio!
+Pokemon = CHINCHOU,22
+    Moves = BUBBLEBEAM,SPARK,CONFUSERAY,SUPERSONIC
+Pokemon = MARILL,22
+    Moves = BUBBLEBEAM,ROLLOUT,DEFENSECURL,CHARM
+Pokemon = FLOATZEL,24
+    Moves = AQUAJET,BITE,SWIFT,WATERPULSE
+    Item = MYSTICWATER
+#-------------------------------
+# 4. ELETTRO - Lv 27-29
+[LEADER_ELETTRO,Nane]
+Items = HYPERPOTION,HYPERPOTION
+LoseText = Me xe saltà la corrente... e anca i nervi!
+Pokemon = MAGNETON,27
+    Moves = THUNDERWAVE,SPARK,MAGNETBOMB,SUPERSONIC
+Pokemon = EMOLGA,27
+    Moves = SPARK,ACROBATICS,QUICKATTACK,DOUBLETEAM
+Pokemon = ELECTABUZZ,27
+    Moves = THUNDERPUNCH,QUICKATTACK,LOWKICK,LIGHTSCREEN
+Pokemon = LUXIO,29
+    Moves = THUNDERFANG,BITE,ROAR,CHARGE
+    Item = MAGNET
+#-------------------------------
+# 5. VELENO - Lv 32-34
+[LEADER_VELENO,Gigi]
+Items = HYPERPOTION,HYPERPOTION
+LoseText = Velen o no velen, te me ga fato restar de stucco.
+Pokemon = WEEZING,32
+    Moves = SLUDGE,SMOKESCREEN,TOXIC,SELFDESTRUCT
+Pokemon = MUK,32
+    Moves = POISONJAB,MINIMIZE,BODYSLAM,ACIDARMOR
+Pokemon = TOXICROAK,33
+    Moves = POISONJAB,SUCKERPUNCH,REVENGE,SWAGGER
+Pokemon = SALAZZLE,34
+    Moves = VENOSHOCK,FLAMETHROWER,TOXIC,NASTYPLOT
+    Item = BLACKSLUDGE
+#-------------------------------
+# 6. FUOCO - Lv 37-39
+[LEADER_FUOCO,Toni]
+Items = HYPERPOTION,FULLRESTORE
+LoseText = Te me ga studà come una cicca in tel mar!
+Pokemon = TORKOAL,37
+    Moves = LAVAPLUME,PROTECT,IRONDEFENSE,CURSE
+Pokemon = MAGMAR,37
+    Moves = FIREPUNCH,CONFUSERAY,SMOKESCREEN,LOWKICK
+Pokemon = ARCANINE,37
+    Moves = FLAMETHROWER,CRUNCH,EXTREMESPEED,ROAR
+Pokemon = RAPIDASH,38
+    Moves = FLAMECHARGE,STOMP,AGILITY,FIRESPIN
+Pokemon = CHARIZARD,39
+    Moves = FLAMETHROWER,AIRSLASH,DRAGONCLAW,SLASH
+    Item = CHARCOAL
+#-------------------------------
+# 7. PSICO - Lv 42-44
+[LEADER_PSICO,Licia]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Questo no lo gavevo previsto... e mi prevedo tuto!
+Pokemon = HYPNO,42
+    Moves = PSYCHIC,HYPNOSIS,DREAMEATER,NASTYPLOT
+Pokemon = SLOWBRO,42
+    Moves = PSYCHIC,SURF,AMNESIA,SLACKOFF
+Pokemon = MRMIME,42
+    Moves = PSYCHIC,REFLECT,LIGHTSCREEN,DAZZLINGGLEAM
+Pokemon = ESPEON,43
+    Moves = PSYCHIC,DAZZLINGGLEAM,SWIFT,MORNINGSUN
+Pokemon = ALAKAZAM,44
+    Moves = PSYCHIC,SHADOWBALL,ENERGYBALL,CALMMIND
+    Item = TWISTEDSPOON
+#-------------------------------
+# 8. GHIACCIO - Lv 47-50
+[LEADER_GHIACCIO,Pina]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Brr... nianca la bora me ga mai fato sto efeto.
+Pokemon = CLOYSTER,47
+    Moves = ICICLESPEAR,ROCKBLAST,SPIKES,PROTECT
+Pokemon = LAPRAS,47
+    Moves = ICEBEAM,SURF,THUNDERBOLT,CONFUSERAY
+Pokemon = WEAVILE,47
+    Moves = ICESHARD,NIGHTSLASH,ICEPUNCH,FAKEOUT
+Pokemon = FROSLASS,48
+    Moves = ICEBEAM,SHADOWBALL,WILLOWISP,DESTINYBOND
+Pokemon = MAMOSWINE,48
+    Moves = EARTHQUAKE,ICICLECRASH,ICESHARD,ROCKSLIDE
+Pokemon = NINETALES,50
+    Form = 1
+    Ability = SNOWWARNING
+    Moves = BLIZZARD,MOONBLAST,AURORAVEIL,FREEZEDRY
+    Item = NEVERMELTICE
