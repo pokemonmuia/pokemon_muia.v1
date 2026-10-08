@@ -75,6 +75,7 @@ Formato: data (GGMMAAAA) e cosa xe sta fatto, le robe più nove in fondo.
 
 - **08102026** Novo repository pokemon_muia.v1. Zontà i 8 capipalestra de Muia (Roccia, Erba, Acqua, Elettricità, Veleno, Fuoco, Psico, Ghiaccio) con le squadre in PBS/trainers.txt e grafica provvisoria. Ordine e livei in PLOT.md.
 - **08102026** Zogo in italian (dettagli nella sezion [Traduzion](#traduzion)).
+- **08102026** Riordinà l'albero delle mape in RPG Maker: tute le vie de Muia sotto la cartela `=== MUIA ===` (Map111), tute le mape demo de Essentials sotto `=== DEMO ESSENTIALS ===` (Map112). No xe sta cancelà gnente e i colegamenti xe uguai a prima. Le mape demo ancora doprade (casa del zogador, Lab, isole dell'Autista) le ga `[IN USO]` nel nome.
 
 # IDEE
 - **02032026** La centrale elettrica de Grignan con Zapdos dentro.ù
