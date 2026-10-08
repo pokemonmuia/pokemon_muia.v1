@@ -17,6 +17,12 @@ In piu, dovemo metterse nella sezion sotto, delle idee, quel che pensavimo de fa
 
 08102026 Novo repository pokemon_muia.v1. Zontà i 8 capipalestra de Muia (Roccia, Erba, Acqua, Elettricità, Veleno, Fuoco, Psico, Ghiaccio) con le squadre in PBS/trainers.txt e grafica provvisoria. Ordine e livei in PLOT.md.
 
+08102026 Zogo in italian:
+- Nomi de mosse, strumenti e abilità messi a posto coi nomi ufficiai italiani (quei fatti col chatbot gaveva tanti sbagli). Le mosse de esplorazion in dialeto (Tajo, Svolo, Sburton, Onda Granda...) xe restade.
+- Pokédex, forme dei Pokémon e porzioni dei strumenti in italian.
+- Menu, lote e messaggi del motor in italian: el file xe Text_italiano_core/SCRIPT_TEXTS.txt (riga in inglese, sotto la traduzion). Dopo ver cambià qualcossa, compilar con Debug > Files > "Compile translated text" > Text_italiano_core (o con Strumenti/compila_traduzione.rb).
+- Restano in inglese solo i menu del Debug.
+
 
 # IDEE
 02032026 La centrale elettrica de Grignan con Zapdos dentro.ù
