@@ -6515,7 +6515,7 @@ TotalPP = 15
 Target = NearOther
 FunctionCode = RaiseTargetAttack2ConfuseTarget
 Flags = CanProtect,CanMirrorMove
-Description = Chi la usa provoca il bersaglio causandone la confusione, ma ne aumenta drasticamente l’Attacco.
+Description = Chi la usa provoca il bersaglio causandone la confusione, ma ne aumenta drasticamente l'Attacco.
 #-------------------------------
 [SWALLOW]
 Name = Introenergia
@@ -6525,7 +6525,7 @@ Accuracy = 0
 TotalPP = 10
 Target = User
 FunctionCode = HealUserDependingOnUserStockpile
-Description = L’energia accumulata con la mossa Accumulo viene assorbita per far recuperare PS a chi la usa.
+Description = L'energia accumulata con la mossa Accumulo viene assorbita per far recuperare PS a chi la usa.
 #-------------------------------
 [SWEETSCENT]
 Name = Profumino
@@ -6536,7 +6536,7 @@ TotalPP = 20
 Target = AllNearFoes
 FunctionCode = LowerTargetEvasion2
 Flags = CanProtect,CanMirrorMove
-Description = Un dolce profumo che riduce l’Elusività dei nemici. Attira i Pokémon selvatici se usato nell'erba.
+Description = Un dolce profumo che riduce l'Elusività dei nemici. Attira i Pokémon selvatici se usato nell'erba.
 #-------------------------------
 [SWORDSDANCE]
 Name = Danzaspada
@@ -6547,7 +6547,7 @@ TotalPP = 10
 Target = User
 FunctionCode = RaiseUserAttack2
 Flags = Dance
-Description = Una danza frenetica che aumenta lo spirito combattivo. Aumenta drasticamente l’Attacco di chi la usa.
+Description = Una danza frenetica che aumenta lo spirito combattivo. Aumenta drasticamente l'Attacco di chi la usa.
 #-------------------------------
 [TAILWHIP]
 Name = Colpocoda
@@ -6569,7 +6569,7 @@ TotalPP = 20
 Target = NearOther
 FunctionCode = LowerTargetAtkSpAtk1
 Flags = CanMirrorMove
-Description = Chi la usa guarda il bersaglio con gli occhi lucidi, riducendone l’Attacco e l’Attacco Speciale.
+Description = Chi la usa guarda il bersaglio con gli occhi lucidi, riducendone l'Attacco e l'Attacco Speciale.
 #-------------------------------
 [TEATIME]
 Name = Ora del Tè
@@ -6633,7 +6633,7 @@ Accuracy = 0
 TotalPP = 10
 Target = User
 FunctionCode = HealUserPositionNextTurn
-Description = Un turno dopo l’uso di questa mossa, il Pokémon in campo recupera metà dei PS massimi di chi l'ha usata.
+Description = Un turno dopo l'uso di questa mossa, il Pokémon in campo recupera metà dei PS massimi di chi l'ha usata.
 #-------------------------------
 [WORKUP]
 Name = Cuordileone
@@ -7012,7 +7012,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = LowerUserSpAtk2
 Flags = CanProtect,CanMirrorMove
-Description = Un attacco di una potenza spaventosa che però riduce drasticamente l’Attacco Speciale di chi la usa.
+Description = Un attacco di una potenza spaventosa che però riduce drasticamente l'Attacco Speciale di chi la usa.
 #-------------------------------
 [FUTURESIGHT]
 Name = Divinazione
@@ -7023,7 +7023,7 @@ Accuracy = 100
 TotalPP = 10
 Target = NearOther
 FunctionCode = AttackTwoTurnsLater
-Description = Due turni dopo l’uso di questa mossa, un cumulo di energia psichica colpisce il bersaglio.
+Description = Due turni dopo l'uso di questa mossa, un cumulo di energia psichica colpisce il bersaglio.
 #-------------------------------
 [SYNCHRONOISE]
 Name = Sincrumore
@@ -7035,7 +7035,7 @@ TotalPP = 10
 Target = AllNearOthers
 FunctionCode = FailsUnlessTargetSharesTypeWithUser
 Flags = CanProtect,CanMirrorMove
-Description = Un’onda d’urto bizzarra che danneggia solo i Pokémon dello stesso tipo di chi la usa.
+Description = Un'onda d'urto bizzarra che danneggia solo i Pokémon dello stesso tipo di chi la usa.
 #-------------------------------
 [DREAMEATER]
 Name = Mangiasogni
@@ -7071,7 +7071,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = UseTargetDefenseInsteadOfTargetSpDef
 Flags = CanProtect,CanMirrorMove
-Description = Un’onda psichica anomala che si materializza per infliggere danni fisici al bersaglio.
+Description = Un'onda psichica anomala che si materializza per infliggere danni fisici al bersaglio.
 #-------------------------------
 [FREEZINGGLARE]
 Name = Sguardo Gelido
@@ -7122,7 +7122,7 @@ Target = NearOther
 FunctionCode = LowerPPOfTargetLastMoveBy3
 Flags = CanProtect,CanMirrorMove,Sound
 EffectChance = 100
-Description = Un attacco psichico tremendo che riduce anche di 3 i PP dell’ultima mossa usata dal bersaglio.
+Description = Un attacco psichico tremendo che riduce anche di 3 i PP dell'ultima mossa usata dal bersaglio.
 #-------------------------------
 [EXPANDINGFORCE]
 Name = Vastenergia
@@ -7171,7 +7171,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = UseTargetDefenseInsteadOfTargetSpDef
 Flags = CanProtect,CanMirrorMove
-Description = Un’onda psichica anomala che si materializza per infliggere danni fisici al bersaglio.
+Description = Un'onda psichica anomala che si materializza per infliggere danni fisici al bersaglio.
 #-------------------------------
 [ZENHEADBUTT]
 Name = Cozzata Zen
@@ -7197,7 +7197,7 @@ Target = NearOther
 FunctionCode = LowerTargetSpDef1
 Flags = CanProtect,CanMirrorMove
 EffectChance = 50
-Description = Un’esplosione di luce abbagliante che danneggia il nemico e può ridurne la Difesa Speciale.
+Description = Un'esplosione di luce abbagliante che danneggia il nemico e può ridurne la Difesa Speciale.
 #-------------------------------
 [MISTBALL]
 Name = Foschisfera
@@ -7210,7 +7210,7 @@ Target = NearOther
 FunctionCode = LowerTargetSpAtk1
 Flags = CanProtect,CanMirrorMove,Bomb
 EffectChance = 50
-Description = Un turbine di nebbia avvolge il bersaglio. Può anche ridurne l’Attacco Speciale.
+Description = Un turbine di nebbia avvolge il bersaglio. Può anche ridurne l'Attacco Speciale.
 #-------------------------------
 [PSYCHOCUT]
 Name = Psicotaglio
@@ -7349,7 +7349,7 @@ Accuracy = 0
 TotalPP = 20
 Target = User
 FunctionCode = RaiseUserSpAtkSpDef1
-Description = Chi la usa si concentra e calma lo spirito per aumentare l’Attacco Speciale e la Difesa Speciale.
+Description = Chi la usa si concentra e calma lo spirito per aumentare l'Attacco Speciale e la Difesa Speciale.
 #-------------------------------
 [COSMICPOWER]
 Name = Cosmoforza
@@ -7369,7 +7369,7 @@ Accuracy = 0
 TotalPP = 5
 Target = BothSides
 FunctionCode = StartGravity
-Description = Aumenta la gravità per cinque turni. Impedisce mosse di tipo Volante e annulla l’abilità Levitazione.
+Description = Aumenta la gravità per cinque turni. Impedisce mosse di tipo Volante e annulla l'abilità Levitazione.
 #-------------------------------
 [GUARDSPLIT]
 Name = Paridifesa
@@ -7413,7 +7413,7 @@ TotalPP = 10
 Target = Other
 FunctionCode = HealTargetHalfOfTotalHP
 Flags = CanProtect,Pulse
-Description = Chi la usa emette un’onda rigeneratrice che ripristina fino a metà dei PS massimi del bersaglio.
+Description = Chi la usa emette un'onda rigeneratrice che ripristina fino a metà dei PS massimi del bersaglio.
 #-------------------------------
 [HEALINGWISH]
 Name = Curardore
@@ -7466,7 +7466,7 @@ TotalPP = 15
 Target = NearOther
 FunctionCode = TargetUsesItsLastUsedMoveAgain
 Flags = CanProtect
-Description = Chi la usa ordina al bersaglio di ripetere immediatamente l’ultima mossa che ha utilizzato.
+Description = Chi la usa ordina al bersaglio di ripetere immediatamente l'ultima mossa che ha utilizzato.
 #-------------------------------
 [KINESIS]
 Name = Cinèsi
@@ -7531,7 +7531,7 @@ TotalPP = 10
 Target = BothSides
 FunctionCode = StartNegateHeldItems
 Flags = CanMirrorMove
-Description = Crea un’area bizzarra in cui, per cinque turni, gli strumenti tenuti dai Pokémon non hanno effetto.
+Description = Crea un'area bizzarra in cui, per cinque turni, gli strumenti tenuti dai Pokémon non hanno effetto.
 #-------------------------------
 [MEDITATE]
 Name = Meditazione
@@ -7541,7 +7541,7 @@ Accuracy = 0
 TotalPP = 40
 Target = User
 FunctionCode = RaiseUserAttack1
-Description = Chi la usa medita per risvegliare il potere sopito nel proprio corpo e aumentare l’Attacco.
+Description = Chi la usa medita per risvegliare il potere sopito nel proprio corpo e aumentare l'Attacco.
 #-------------------------------
 [MIRACLEEYE]
 Name = Miracolvista
@@ -7635,7 +7635,7 @@ Accuracy = 0
 TotalPP = 10
 Target = NearOther
 FunctionCode = SetUserAbilityToTargetAbility
-Description = Chi la usa imita perfettamente il bersaglio, copiandone l’abilità.
+Description = Chi la usa imita perfettamente il bersaglio, copiandone l'abilità.
 #-------------------------------
 [SKILLSWAP]
 Name = Baratto
@@ -7702,7 +7702,7 @@ Target = BothSides
 Priority = -7
 FunctionCode = StartSlowerBattlersActFirst
 Flags = CanMirrorMove
-Description = Crea un’area bizzarra in cui, per cinque turni, i Pokémon più lenti agiscono per primi.
+Description = Crea un'area bizzarra in cui, per cinque turni, i Pokémon più lenti agiscono per primi.
 #-------------------------------
 [WONDERROOM]
 Name = Mirabilzona
@@ -7714,7 +7714,7 @@ Target = BothSides
 Priority = -7
 FunctionCode = StartSwapAllBattlersBaseDefensiveStats
 Flags = CanMirrorMove
-Description = Crea un’area bizzarra in cui, per cinque turni, la Difesa e la Difesa Speciale di tutti i Pokémon sono scambiate.
+Description = Crea un'area bizzarra in cui, per cinque turni, la Difesa e la Difesa Speciale di tutti i Pokémon sono scambiate.
 #-------------------------------
 [HEADSMASH]
 Name = Zuccata
@@ -7750,7 +7750,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = TwoTurnAttackChargeRaiseUserSpAtk1
 Flags = CanProtect,CanMirrorMove
-Description = Chi la usa accumula energia cosmica nel primo turno, aumentando l’Attacco Speciale, e attacca nel secondo.
+Description = Chi la usa accumula energia cosmica nel primo turno, aumentando l'Attacco Speciale, e attacca nel secondo.
 #-------------------------------
 [DIAMONDSTORM]
 Name = Diamantempesta
@@ -7950,7 +7950,7 @@ Accuracy = 100
 TotalPP = 5
 Target = NearOther
 FunctionCode = AttackTwoTurnsLater
-Description = Due turni dopo l’uso di questa mossa, un fascio di luce concentrata colpisce il bersaglio.
+Description = Due turni dopo l'uso di questa mossa, un fascio di luce concentrata colpisce il bersaglio.
 #-------------------------------
 [STEELBEAM]
 Name = Raggio d'Acciaio
@@ -8036,7 +8036,7 @@ Target = NearOther
 FunctionCode = RaiseUserAttack1
 Flags = Contact,CanProtect,CanMirrorMove,Punching
 EffectChance = 20
-Description = Un pugno sferrato con la forza di una meteora. Può anche aumentare l’Attacco di chi la usa.
+Description = Un pugno sferrato con la forza di una meteora. Può anche aumentare l'Attacco di chi la usa.
 #-------------------------------
 [ANCHORSHOT]
 Name = Colpo d'Ancora
@@ -8062,7 +8062,7 @@ Target = NearOther
 FunctionCode = LowerTargetSpDef1
 Flags = CanProtect,CanMirrorMove
 EffectChance = 10
-Description = Chi la usa concentra l’energia luminosa e la rilascia tutta in una volta. Può ridurre la Difesa Speciale nemica.
+Description = Chi la usa concentra l'energia luminosa e la rilascia tutta in una volta. Può ridurre la Difesa Speciale nemica.
 #-------------------------------
 [IRONHEAD]
 Name = Metaltestata
@@ -8075,7 +8075,7 @@ Target = NearOther
 FunctionCode = FlinchTarget
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 30
-Description = Chi la usa colpisce il bersaglio con una testata d’acciaio. Può anche farlo tentennare.
+Description = Chi la usa colpisce il bersaglio con una testata d'acciaio. Può anche farlo tentennare.
 #-------------------------------
 [SMARTSTRIKE]
 Name = Sottilcorno
@@ -8100,7 +8100,7 @@ Target = NearOther
 FunctionCode = RaiseUserDefense1
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 10
-Description = Colpisce il bersaglio con ali d’acciaio. Può anche aumentare la Difesa di chi la usa.
+Description = Colpisce il bersaglio con ali d'acciaio. Può anche aumentare la Difesa di chi la usa.
 #-------------------------------
 [DOUBLEIRONBASH]
 Name = Pugni Corazzati
@@ -8138,7 +8138,7 @@ TotalPP = 20
 Target = NearOther
 FunctionCode = None
 Flags = CanProtect,CanMirrorMove,Bomb
-Description = Chi la usa lancia bombe d’acciaio che seguono il bersaglio. Questo attacco non manca mai.
+Description = Chi la usa lancia bombe d'acciaio che seguono il bersaglio. Questo attacco non manca mai.
 #-------------------------------
 [GEARGRIND]
 Name = Ingracolpo
@@ -8150,7 +8150,7 @@ TotalPP = 15
 Target = NearOther
 FunctionCode = HitTwoTimes
 Flags = Contact,CanProtect,CanMirrorMove
-Description = Chi la usa attacca il bersaglio lanciando due ingranaggi d’acciaio.
+Description = Chi la usa attacca il bersaglio lanciando due ingranaggi d'acciaio.
 #-------------------------------
 [METALCLAW]
 Name = Ferrartigli
@@ -8163,7 +8163,7 @@ Target = NearOther
 FunctionCode = RaiseUserAttack1
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 10
-Description = Colpisce il bersaglio con artigli d’acciaio. Può anche aumentare l’Attacco di chi la usa.
+Description = Colpisce il bersaglio con artigli d'acciaio. Può anche aumentare l'Attacco di chi la usa.
 #-------------------------------
 [BULLETPUNCH]
 Name = Pugnoscarica
@@ -8253,7 +8253,7 @@ TotalPP = 10
 Target = User
 Priority = 4
 FunctionCode = ProtectUserFromDamagingMovesKingsShield
-Description = Protegge dai danni e riduce drasticamente l’Attacco dei Pokémon che sferrano attacchi diretti contro chi la usa.
+Description = Protegge dai danni e riduce drasticamente l'Attacco dei Pokémon che sferrano attacchi diretti contro chi la usa.
 #-------------------------------
 [METALSOUND]
 Name = Ferrostrido
@@ -8274,7 +8274,7 @@ Accuracy = 0
 TotalPP = 10
 Target = User
 FunctionCode = RaiseUserAtk1Spd2
-Description = Chi la usa aziona gli ingranaggi per aumentare l’Attacco e aumentare drasticamente la Velocità.
+Description = Chi la usa aziona gli ingranaggi per aumentare l'Attacco e aumentare drasticamente la Velocità.
 #-------------------------------
 [HYDROCANNON]
 Name = Idrocannone
@@ -8286,7 +8286,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = AttackAndSkipNextTurn
 Flags = CanProtect,CanMirrorMove
-Description = Colpisce il bersaglio con un potente getto d’acqua. Chi la usa deve riposarsi nel turno successivo.
+Description = Colpisce il bersaglio con un potente getto d'acqua. Chi la usa deve riposarsi nel turno successivo.
 #-------------------------------
 [WATERSPOUT]
 Name = Zampillo
@@ -8298,7 +8298,7 @@ TotalPP = 5
 Target = AllNearFoes
 FunctionCode = PowerHigherWithUserHP
 Flags = CanProtect,CanMirrorMove
-Description = Chi la usa attacca con un grande zampillo d’acqua. Più i suoi PS sono bassi, meno la mossa è potente.
+Description = Chi la usa attacca con un grande zampillo d'acqua. Più i suoi PS sono bassi, meno la mossa è potente.
 #-------------------------------
 [HYDROPUMP]
 Name = Idropompa
@@ -8310,7 +8310,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = None
 Flags = CanProtect,CanMirrorMove
-Description = Il bersaglio viene colpito da un grande volume d’acqua lanciato ad altissima pressione.
+Description = Il bersaglio viene colpito da un grande volume d'acqua lanciato ad altissima pressione.
 #-------------------------------
 [ORIGINPULSE]
 Name = Primopulsar
@@ -8359,7 +8359,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = None
 Flags = Contact,CanProtect,CanMirrorMove
-Description = Chi la usa attacca agitando la coda come se fosse la cresta di un’onda in una tempesta.
+Description = Chi la usa attacca agitando la coda come se fosse la cresta di un'onda in una tempesta.
 #-------------------------------
 [MUDDYWATER]
 Name = Fanghiglia
@@ -8397,7 +8397,7 @@ TotalPP = 15
 Target = AllNearOthers
 FunctionCode = DoublePowerIfTargetUnderwater
 Flags = CanProtect,CanMirrorMove
-Description = Chi la usa travolge i Pokémon circostanti con un’enorme ondata. Può essere usata per navigare.
+Description = Chi la usa travolge i Pokémon circostanti con un'enorme ondata. Può essere usata per navigare.
 #-------------------------------
 [FISHIOUSREND]
 Name = Branchiomorso
@@ -8471,7 +8471,7 @@ TotalPP = 10
 Target = NearOther
 FunctionCode = WaterPledge
 Flags = CanProtect,CanMirrorMove
-Description = Una colonna d’acqua colpisce il bersaglio. Se usata con Fiammapatto, crea un arcobaleno.
+Description = Una colonna d'acqua colpisce il bersaglio. Se usata con Fiammapatto, crea un arcobaleno.
 #-------------------------------
 [WATERFALL]
 Name = Cascata
@@ -8622,7 +8622,7 @@ TotalPP = 15
 Target = NearOther
 FunctionCode = BindTargetDoublePowerIfTargetUnderwater
 Flags = CanProtect,CanMirrorMove
-Description = Intrappola il nemico in un violento mulinello d’acqua per un numero di turni tra quattro e cinque.
+Description = Intrappola il nemico in un violento mulinello d'acqua per un numero di turni tra quattro e cinque.
 #-------------------------------
 [SURGINGSTRIKES]
 Name = Idroraffica
