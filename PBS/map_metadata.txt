@@ -640,3 +640,57 @@ Name = Piazza Santa Lucia
 Outdoor = true
 ShowArea = true
 Bicycle = true
+#-------------------------------
+[114]   # Castel de Muia
+Name = Castel de Muia
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[115]   # Palestra 1 - La Bora
+Name = Palestra La Bora
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink
+#-------------------------------
+[116]   # Palestra 2 - Bellezze Naturali
+Name = Palestra Bellezze Naturali
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink
+#-------------------------------
+[117]   # Palestra 3 - Lampo
+Name = Palestra Lampo
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink
+#-------------------------------
+[118]   # Palestra 4 - Brivido
+Name = Palestra Brivido
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink
+#-------------------------------
+[119]   # Palestra 5 - Mandrioi
+Name = Palestra Mandrioi
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink
+#-------------------------------
+[120]   # Palestra 6 - Ongia
+Name = Palestra Ongia
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink
+#-------------------------------
+[121]   # Palestra 7 - Trottola
+Name = Palestra Trottola
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink
+#-------------------------------
+[122]   # Palestra 8 - Bulli e Pupe
+Name = Palestra Bulli e Pupe
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink

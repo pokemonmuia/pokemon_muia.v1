@@ -22,12 +22,21 @@ Location =
 
 ## DETTAGLI
 ### PALESTRE
-In ordine de come che le se affronta (squadre in PBS/trainers.txt, nomi provvisori):
-1. Roccia - Bepi - Lv 12-14
-2. Erba - Nives - Lv 17-19
-3. Acqua - Marieta - Lv 22-24
-4. Elettricità - Nane - Lv 27-29
-5. Veleno - Gigi - Lv 32-34
-6. Fuoco - Toni - Lv 37-39
-7. Psico - Licia - Lv 42-44
-8. Ghiaccio - Pina - Lv 47-50
+In ordine de come che le se affronta: dall'ultima classificada alla vincitrice della sfilata 2026 del 72° Carneval. Ogni capopalestra no te sfida se no te ga la medaglia de prima (la prima vol che te gabi parlà con Dejan). Squadre in PBS/trainers.txt, nomi provvisori.
+
+| N. | Compagnia (posto 2026) | Tipo | Capopalestra | Livei | Dove (mapa) | Premio |
+|---|---|---|---|---|---|---|
+| 1 | La Bora (8°) | Roccia | Bepi | 12-14 | Via della Torre, sotto la Torre (Map093) | MT39 Rocciotomba |
+| 2 | Bellezze Naturali (7°) | Erba | Nives | 17-19 | Giardinetti D'Europa (Map096) | MT09 Semitraglia |
+| 3 | Lampo (6°) | Acqua | Marieta | 22-24 | Vecchio Squero (Map083) | MT03 Idropulsar |
+| 4 | Brivido (5°) | Elettricità | Nane | 27-29 | Ricreatorio F. Penso (Map094) | MT34 Ondashock |
+| 5 | Mandrioi (4°) | Veleno | Gigi | 32-34 | Caliterna (Map081) | MT84 Velenpuntura |
+| 6 | Ongia (3°) | Fuoco | Toni | 37-39 | Piazza della Repubblica (Map085) | MT35 Lanciafiamme |
+| 7 | Trottola (2°) | Psico | Licia | 42-44 | Via Roma, vizin al museo Carà (Map086) | MT29 Psichico |
+| 8 | Bulli e Pupe (1°) | Ghiaccio | Pina | 47-50 | Mandracchio (Map076) | MT13 Geloraggio |
+
+Mape de dentro: Map115-Map122 (copia della palestra de esempio, con guida e capopalestra). Dopo l'ottava se impiza el switch 64 "Lega sbloccada".
+Idea: i tipi xe restai quei de prima per no rifar le squadre; se volessi se pol scambiar (per esempio Lampo = Elettricità).
+
+### CASTEL
+Castel de Muia (Map114), in zima a Calle Lauri: se riva da Piazza Santa Lucia andando verso nord (tolti i coni). El portòn xe serà: bon posto per i Super 4 e el sindaco.
