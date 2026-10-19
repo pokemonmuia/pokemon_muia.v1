@@ -26,17 +26,17 @@ In ordine de come che le se affronta: dall'ultima classificada alla vincitrice d
 
 | N. | Compagnia (posto 2026) | Tipo | Capopalestra | Livei | Dove (mapa) | Premio |
 |---|---|---|---|---|---|---|
-| 1 | La Bora (8°) | Roccia | Bepi | 12-14 | Via della Torre, sotto la Torre (Map093) | MT39 Rocciotomba |
+| 1 | La Bora (8°) | Volante | Bepi | 12-14 | Via della Torre, sotto la Torre (Map093) | MT40 Aeroassalto |
 | 2 | Bellezze Naturali (7°) | Erba | Nives | 17-19 | Giardinetti D'Europa (Map096) | MT09 Semitraglia |
-| 3 | Lampo (6°) | Acqua | Marieta | 22-24 | Vecchio Squero (Map083) | MT03 Idropulsar |
-| 4 | Brivido (5°) | Elettricità | Nane | 27-29 | Ricreatorio F. Penso (Map094) | MT34 Ondashock |
-| 5 | Mandrioi (4°) | Veleno | Gigi | 32-34 | Caliterna (Map081) | MT84 Velenpuntura |
+| 3 | Lampo (6°) | Elettro | Marieta | 22-24 | Vecchio Squero (Map083) | MT34 Ondashock |
+| 4 | Brivido (5°) | Ghiaccio | Nane | 27-29 | Ricreatorio F. Penso (Map094) | MT72 Slavina |
+| 5 | Mandrioi (4°) | Spettro | Gigi | 32-34 | Caliterna (Map081) | MT30 Palla Ombra |
 | 6 | Ongia (3°) | Fuoco | Toni | 37-39 | Piazza della Repubblica (Map085) | MT35 Lanciafiamme |
 | 7 | Trottola (2°) | Psico | Licia | 42-44 | Via Roma, vizin al museo Carà (Map086) | MT29 Psichico |
-| 8 | Bulli e Pupe (1°) | Ghiaccio | Pina | 47-50 | Mandracchio (Map076) | MT13 Geloraggio |
+| 8 | Bulli e Pupe (1°) | Lotta | Pina | 47-50 | Mandracchio (Map076) | MT52 Focalcolpo |
 
 Mape de dentro: Map115-Map122 (copia della palestra de esempio, con guida e capopalestra). Dopo l'ottava se impiza el switch 64 "Lega sbloccada".
-Idea: i tipi xe restai quei de prima per no rifar le squadre; se volessi se pol scambiar (per esempio Lampo = Elettricità).
+I tipi xe sta sceglidi per compagnia (19/10). Nei PBS i capipalestra se ciama col nome della compagnia: LEADER_BORA, LEADER_BELLEZZE, LEADER_LAMPO, LEADER_BRIVIDO, LEADER_MANDRIOI, LEADER_ONGIA, LEADER_TROTTOLA, LEADER_BULLI.
 
 ### CASTEL
 Castel de Muia (Map114), in zima a Calle Lauri: se riva da Piazza Santa Lucia andando verso nord (tolti i coni). El portòn xe serà: bon posto per i Super 4 e el sindaco.

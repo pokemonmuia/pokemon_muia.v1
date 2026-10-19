@@ -81,6 +81,7 @@ Formato: data (GGMMAAAA) e cosa xe sta fatto, le robe più nove in fondo.
 - **19102026** Intro più curta (solo pokemon, omo/baba e nome) e nel Comun el zogador camina fin dal sindaco (prima restava bloccà soto la barriera).
 - **19102026** Le **8 palestre** (Map115-Map122), una per compagnia del Carneval, in ordine dall'ultima alla vincitrice della sfilata 2026, con livei che cressi (12 fin a 50). Porte in Via della Torre, Giardinetti D'Europa, Vecchio Squero, Ricreatorio, Caliterna, Piazza della Repubblica, Via Roma e Mandracchio. Tabela in [PLOT.md](PLOT.md).
 - **19102026** **Castel de Muia** (Map114) tornà, ma desso collegà a nord de Piazza Santa Lucia (tolti i coni), come in realtà (Calle Volta → Calle Lauri). Tornade anca le righe de mura in fondo a `Outside_V7.png` e in `Tilesets.rxdata`. PBS e `.dat` za aggiornai.
+- **19102026** Novi tipi delle palestre: La Bora Volante, Bellezze Naturali Erba, Lampo Elettro, Brivido Ghiaccio, Mandrioi Spettro, Ongia Fuoco, Trottola Psico, Bulli e Pupe Lotta (stessi livei e posti). Squadre nove in PBS/trainers.txt, capipalestra rinominai per compagnia (LEADER_BORA...) anca nella grafica. **Bisogna far partir el zogo con F12 da RPG Maker** la prima volta, per ricompilar i allenatori.
 
 # IDEE
 - **02032026** La centrale elettrica de Grignan con Zapdos dentro.ù
