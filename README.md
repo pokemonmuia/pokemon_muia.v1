@@ -77,6 +77,7 @@ Formato: data (GGMMAAAA) e cosa xe sta fatto, le robe più nove in fondo.
 - **08102026** Zogo in italian (dettagli nella sezion [Traduzion](#traduzion)).
 - **08102026** Riordinà l'albero delle mape in RPG Maker: tute le vie de Muia sotto la cartela `=== MUIA ===` (Map111), tute le mape demo de Essentials sotto `=== DEMO ESSENTIALS ===` (Map112). No xe sta cancelà gnente e i colegamenti xe uguai a prima. Le mape demo ancora doprade (casa del zogador, Lab, isole dell'Autista) le ga `[IN USO]` nel nome.
 - **08102026** Nova mapa **Piazza Santa Lucia** (Map113), a destra de Piazza Marconi: xe el continuo de la via de Calle Parini (Bassa), de la via in alto a destra de Piazza Marconi e de la caleta bassa de Piazza Marconi. Spazio in cemento in mezo, case tuto intorno, do bar co la tenda zala e panchine. Le cali verso nord, est e sud le xe serade coi coni: de là continuerà le prossime mape (anca el castel). No la riva al Circolo de la Vela.
+- **19102026** Inizio dela trama nei eventi (dettagli in [PLOT.md](PLOT.md), scene 1, 2 e 2b). Un zogo novo parti dall'intro e te rivi sul Molo dei Bersaglieri col Delfin Verde; un mulo del Comun te compagna in Piazza Marconi; drento el Comun (Map004, ex Lab) el sindaco te disi de far esperienza e el te fa sceglier el starter; fora te speta Dejan che te spiega palestre, Super 4 e sindaco. L'evento de Polidori in piazza (switch 59) no compar più, le sue batude le disi el sindaco drento. El Quick start de debug xe sta fermà (no cancelà).
 
 # IDEE
 - **02032026** La centrale elettrica de Grignan con Zapdos dentro.ù
