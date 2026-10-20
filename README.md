@@ -83,6 +83,8 @@ Formato: data (GGMMAAAA) e cosa xe sta fatto, le robe più nove in fondo.
 - **19102026** **Castel de Muia** (Map114) tornà, ma desso collegà a nord de Piazza Santa Lucia (tolti i coni), come in realtà (Calle Volta → Calle Lauri). Tornade anca le righe de mura in fondo a `Outside_V7.png` e in `Tilesets.rxdata`. PBS e `.dat` za aggiornai.
 - **19102026** Novi tipi delle palestre: La Bora Volante, Bellezze Naturali Erba, Lampo Elettro, Brivido Ghiaccio, Mandrioi Spettro, Ongia Fuoco, Trottola Psico, Bulli e Pupe Lotta (stessi livei e posti). Squadre nove in PBS/trainers.txt, capipalestra rinominai per compagnia (LEADER_BORA...) anca nella grafica. **Bisogna far partir el zogo con F12 da RPG Maker** la prima volta, per ricompilar i allenatori.
 - **20102026** La palestra 1 (La Bora) xe stada spostada in **Caliterna**: seconda porta seguendo la strada che vien dal Mandracchio (l'edificio zalo e rosso, 57,10), con la porta disegnada e un cartel sulla finestra. Via la porta vecia in Via della Torre. Dejan desso te disi dove xe la prima palestra.
+- **20102026** La **casa del zogador** (Map003, punto de rinascita) desso xe in **Cul de Nave**, porta in (7,9). Prima la porta portava ancora a Lappet Town.
+- **20102026** **Castel de Muia rifato** come quel vero (foto de Google Maps): mastio quadrato coi merli, mura, scalinata, punto panoramico, vila, parcheggio. Se riva dale **scale tra Mandracchio_2 e Circolo della Vela**; tolto el colegamento con Piazza Santa Lucia (tornai i coni). Zontade 9 righe in fondo a `Outside_V7.png` per el mastio e le mura.
 
 # IDEE
 - **02032026** La centrale elettrica de Grignan con Zapdos dentro.ù

@@ -39,4 +39,9 @@ Mape de dentro: Map115-Map122 (copia della palestra de esempio, con guida e capo
 I tipi xe sta sceglidi per compagnia (19/10). Nei PBS i capipalestra se ciama col nome della compagnia: LEADER_BORA, LEADER_BELLEZZE, LEADER_LAMPO, LEADER_BRIVIDO, LEADER_MANDRIOI, LEADER_ONGIA, LEADER_TROTTOLA, LEADER_BULLI.
 
 ### CASTEL
-Castel de Muia (Map114), in zima a Calle Lauri: se riva da Piazza Santa Lucia andando verso nord (tolti i coni). El portòn xe serà: bon posto per i Super 4 e el sindaco.
+Castel de Muia (Map114), rifato sula foto de Google Maps: mastio quadrato coi merli (portòn ad arco, finestre ad arco), mura che vien su dala Porta medievale, scalinata tra le mura e la vila alta, punto panoramico coi pini e le panchine, parcheggio a destra e verde sula colina.
+Se riva dale scale tra Mandracchio_2 (Map043, 44,4) e Circolo della Vela (Map079, 0-1,4); tornando zo se riva in Circolo della Vela (0,6). El portòn xe serà: bon posto per i Super 4 e el sindaco.
+La grafica del mastio e dele mura xe in fondo a `Outside_V7.png` (9 righe nove, tile 4528-4599).
+
+### CASA DEL ZOGADOR
+La casa (Map003, dove se torna quando i pokemon va KO) xe in Cul de Nave (Map087), porta in (7,9).
