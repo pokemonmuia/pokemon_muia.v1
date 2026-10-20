@@ -26,7 +26,7 @@ In ordine de come che le se affronta: dall'ultima classificada alla vincitrice d
 
 | N. | Compagnia (posto 2026) | Tipo | Capopalestra | Livei | Dove (mapa) | Premio |
 |---|---|---|---|---|---|---|
-| 1 | La Bora (8°) | Volante | Bepi | 12-14 | Via della Torre, sotto la Torre (Map093) | MT40 Aeroassalto |
+| 1 | La Bora (8°) | Volante | Bepi | 12-14 | Caliterna, edificio zalo/rosso: seconda porta venendo dal Mandracchio (Map081, 57,10) | MT40 Aeroassalto |
 | 2 | Bellezze Naturali (7°) | Erba | Nives | 17-19 | Giardinetti D'Europa (Map096) | MT09 Semitraglia |
 | 3 | Lampo (6°) | Elettro | Marieta | 22-24 | Vecchio Squero (Map083) | MT34 Ondashock |
 | 4 | Brivido (5°) | Ghiaccio | Nane | 27-29 | Ricreatorio F. Penso (Map094) | MT72 Slavina |
