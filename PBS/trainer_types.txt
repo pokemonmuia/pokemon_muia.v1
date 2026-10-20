@@ -457,3 +457,41 @@ Gender = Female
 BaseMoney = 100
 BattleBGM = Battle Gym Leader
 VictoryBGM = Battle victory leader
+#-------------------------------
+# Personaggi della storia (sprite de lota in Graphics/Trainers)
+#-------------------------------
+[SINDACO]
+Name = Sindaco
+Gender = Male
+BaseMoney = 200
+BattleBGM = Battle Champion
+#-------------------------------
+[SINDACO_CARNEVAL]
+Name = Sindaco
+Gender = Male
+BaseMoney = 200
+BattleBGM = Battle Champion
+#-------------------------------
+[CINGHIO]
+Name = Capo banda
+Gender = Male
+BaseMoney = 80
+BattleBGM = Battle trainer
+#-------------------------------
+[HENRY]
+Name = Capo banda
+Gender = Male
+BaseMoney = 80
+BattleBGM = Battle trainer
+#-------------------------------
+[GIANNA]
+Name = Muiesana
+Gender = Female
+BaseMoney = 60
+BattleBGM = Battle trainer
+#-------------------------------
+[SANDRA_OMO]
+Name = Muiesana
+Gender = Female
+BaseMoney = 60
+BattleBGM = Battle trainer

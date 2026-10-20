@@ -85,6 +85,7 @@ Formato: data (GGMMAAAA) e cosa xe sta fatto, le robe più nove in fondo.
 - **20102026** La palestra 1 (La Bora) xe stada spostada in **Caliterna**: seconda porta seguendo la strada che vien dal Mandracchio (l'edificio zalo e rosso, 57,10), con la porta disegnada e un cartel sulla finestra. Via la porta vecia in Via della Torre. Dejan desso te disi dove xe la prima palestra.
 - **20102026** La **casa del zogador** (Map003, punto de rinascita) desso xe in **Cul de Nave**, porta in (7,9). Prima la porta portava ancora a Lappet Town.
 - **20102026** **Castel de Muia rifato** come quel vero (foto de Google Maps): mastio quadrato coi merli, mura, scalinata, punto panoramico, vila, parcheggio. Se riva dale **scale tra Mandracchio_2 e Circolo della Vela**; tolto el colegamento con Piazza Santa Lucia (tornai i coni). Zontade 9 righe in fondo a `Outside_V7.png` per el mastio e le mura.
+- **20102026** **Sprite dei personaggi**: Polidori (anca versione de Carneval), Sandra Omo, Cinghio, Gianna e Henry. Sprite de lota in `Graphics/Trainers` (SINDACO, SINDACO_CARNEVAL, CINGHIO, HENRY, GIANNA, SANDRA_OMO, con i tipi de allenador in PBS/trainer_types.txt) e ritrati grandi in `Graphics/Pictures/ritratto_*.png`. Nel'intro Polidori xe al posto del professor Oak e el se presenta; el so ritrato compar quando el parla nel Comun, e quel de Cinghio al Mandracchio.
 
 # IDEE
 - **02032026** La centrale elettrica de Grignan con Zapdos dentro.ù
